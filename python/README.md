@@ -38,13 +38,36 @@ To install the dependencies of this project, run the following command:
 pip install -r requirements.txt
 ```
 
+
+## Setup Cloud Dependencies
+We're using both Pinecone and OpenAI.  You will need to set up both and you need the following environment variables
+
+```
+OPENAI_API_KEY=<your key>
+# Pinecone-client keys
+PINECONE_ENV=gcp-starter
+PINECODE_API_KEY=<your key>
+```
+
+
+
+
 ## Usage
 
 To run the main script of this project, navigate to the `src` directory and run the following command:
 
 ```
-python main.py
+streamlit run python/scripts/exp_chatbot_app_sw.py
 ```
+
+## Docker Setup
+
+To run the docker container
+```
+docker compose up --build
+```
+
+
 
 ## Testing
 

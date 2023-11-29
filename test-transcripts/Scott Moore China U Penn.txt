@@ -1,0 +1,345 @@
+Cody Simms (00:00):
+Today's guest on My Climate journey is Dr. Scott Moore, the director of China Programs at the University of Pennsylvania, and the author of the book, China's Next Act: How Sustainability and Technology are Reshaping China's Rise and the World's Future. Our topic, obviously, is China. China is such a complicated climate topic. On the one hand, China is the largest solar energy producer in the world and has the largest EV industry in the world, each of which rose from being nearly non-existent 15 years ago. On the other hand, China generates more than 60% of its electricity from coal and is the world's largest annual emitter of greenhouse gases. Scott and I cover a lot of ground including how the Chinese economic and political system operates, how the solar and EV industries came to be, China's climate policies, and global commitments, and the country's current climate, tech and innovation priorities. Given China's role and impact in just about everything, we probably should do another 100 or more MCJ episodes on topics related to China. Hopefully this initial primer can help us all get oriented. But before we start... I'm Cody Simms.
+
+Yin Lu (01:19):
+I'm Yin Lu.
+
+Jason Jacobs (01:20):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+
+Yin Lu (01:26):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+
+Cody Simms (01:32):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. And with that, Scott, welcome to the show.
+
+Scott Moore (01:47):
+Thanks so much, Cody. Great to be here.
+
+Cody Simms (01:49):
+I cannot believe that we have done almost 400 episodes of My Climate Journey, and I think you are the first true deep dive on China that we are doing. And so we could probably do 400 more episodes just on China, or maybe even more, but for now you get to be our starting off point.
+
+Scott Moore (02:08):
+Well, I'm honored. I'll do my best.
+
+Cody Simms (02:10):
+As you and I talked about a little bit before the recording, this is a fun special topic for me because way back when I was 18, 19 years old, my college undergraduate major was in East Asian studies, and Chinese history, and Chinese language. I lived in Beijing. I lived in Guangzhou, and then I did nothing with any of it, and so I am really excited to dive back into the topic here with whatever 30 year old knowledge on my end.
+
+Scott Moore (02:36):
+Well, absolutely, and there's a lot to get through. As you said, we could probably do 100 episodes on the world's second largest economy and biggest emitter.
+
+Cody Simms (02:45):
+Well, why don't we start with a little bit about you. So today you're the director of China Programs at the University of Pennsylvania. You've just written a book, China's Next Act: How Sustainability and Technology are Reshaping China's Rise and the World's Future. Was looking at the list of different government agencies and whatnot you've worked with respect to China, and it is quite extensive. So maybe walk us through your background a little bit.
+
+Scott Moore (03:08):
+Sure thing. Well, my climate journey started in Kentucky where I was born and grew up. As most folks would probably know, historically a coal state, and when I was growing up, I played in a neighborhood soccer team for eight seasons. Unfortunately, did not improve much over those eight seasons, but I did get to be really close with one of the coaches who in his day job was one of Kentucky's few environmental lawyers. When you're an environmental lawyer in Kentucky, that pretty much means you're tangling with coal companies over particularly coal mining wastes, and residues, and things like that. So from a pretty early age, I had this interest in the environment and in particular climate and energy. Fast-forward to high school, I had a really terrific opportunity to go to a boarding school in Hong Kong, and that was in the early 2000s when China's economy was really booming after China joined the World Trade Organization.
+
+Scott Moore (03:57):
+One of the less pleasant aspects of that though was seeing, and in some cases feeling the pollution that resulted from that, and seeing how that affected air quality and water quality in Hong Kong where I was living at the time. So I got really interested in marrying this previous interest in climate, energy, and the environment with China, and that's really propelled my career so far. That's what I focused on in grad school and then subsequently, and I had the chance after I finished grad school and postdoc to spend a period of time at the US Department of State on the China desk, which is the office that handles US China relations. Fortunately for me, this was in the second Obama administration, and climate change moved from being an important but not really a central issue in US-China relations to really either the first or second most important issue depending on the day and depending on how much artificial island building was going on the South China Sea at the time, the title that I had there was Environment Science Technology and Health Officer.
+
+Scott Moore (04:57):
+And I have to tell you, when I came out of doing a PhD, which is all about relentless specialization, I was kind of like, "I'm sorry. What? You want me to cover environment, science, technology, health?" But in doing that, and climate was the single biggest chunk of that, but I also had the portfolio that looked at China's role in emerging technologies, in biotech, in supercomputing, all that good stuff, public health, pandemic prevention. And what I've been really interested in since that time is thinking about how at the time these issues were kind of starting to become central to US-China relations and China's role in the world, but they hadn't become as central as they are now.
+
+Scott Moore (05:35):
+And what I've been really interested in and what I focus my book, China's Next Act, on is trying to look at how that happened, how those issues became central to China's role in the world and in particular why even as that's happened, even as we've seen China place big bets on sustainability on one hand and emerging tech on the other, we've seen that actually lead to worse relations with other countries rather than better, and why we've seen more complicated challenges to cooperating on issues like climate change, or public health, or regulating artificial intelligence.
+
+Cody Simms (06:08):
+Maybe let's unpack that a little bit as a jumping off point. So China doing more innovation around clean tech, I guess, is probably the easiest way to describe it. I think the big ones obviously have been solar PV, and EVs, and EV batteries, and you said that in many cases has worsened international relations. Unpack that for us.
+
+Scott Moore (06:25):
+Big picture, China as an economy, and it's the second largest economy in the world, it's grown to that status on the basis of export led manufacturing, primarily at the lower and middle of the value chain in different sectors and supply chains. That was always unsustainable as a long-term motor of growth. Every country that's followed this model, whether it's South Korea, Taiwan has climbed the value chain in order to keep growing and keep sustaining higher levels of wealth per capita. And so China has always known and planned to keep climbing the value chain. What's been interesting is that over the last decade or so, it's become as clear to China's leaders as it is to us and leaders in the US and elsewhere that at least two sets of tech are going to be crucial to that, to keeping climbing the value chain.
+
+Scott Moore (07:18):
+One is clean tech, and the other is emerging technology. It's artificial intelligence, it's biotech, it's robotics, quantum computing, all that good stuff, and that's really what ties together China's two big bets in these areas, clean tech and climate action on one hand and emerging tech on the other.
+
+Cody Simms (07:35):
+And when I think of software, internet tech, things that have really boomed the US economy, those have been companies becoming truly global platforms, Facebook, Google, Microsoft, et cetera. When you think of the giant Chinese software companies, for the most part, and maybe this is wrong, maybe there's a misconception on my part, but for the most part they have been China domestic economy focused. So those technologies haven't necessarily become global phenomenon, though, obviously, the global Chinese diaspora of world population is still ginormous, but for the most part it's been focused on Chinese audiences.
+
+Scott Moore (08:11):
+That's right. And that really gets to answering the second part of your question, which is why. If China is basically seeing the same things and placing the same bets as the US and other major economies, why aren't we seeing convergence? Why are we seeing divergence? My answer to that, and this is a lot of what I go into in my book, in China's Next Act, is that China's approach to making these big bets has been to rely on some really problematic approaches basically to policy, and there are three in particular that I talk about. One is nationalism, one is protectionism, and one is authoritarianism, and those approaches are pretty deeply rooted in China's political tradition. So I don't think it's surprising that they would have a major influence on China's policy toward these newer issues, but they do make it really challenging to have that convergence or to really lead to cooperative solutions with other countries.
+
+Scott Moore (09:07):
+What you pointed out with China's tech giants, and they are giant, but they've grown up to serve China's domestic market, which has been deliberately sealed off from the rest of the world in the case of the internet through the great firewall and China's technological barriers that keep the Chinese internet somewhat separate from the global internet, but the same is true to some degree in clean tech. It certainly changed recently, but lots of essentially protectionist policies that were initiated in the early 2000s to jumpstart China's solar industry. And it's worth keeping in mind, by the way, that 95% of the solar panels that you see on the market these days are Chinese, but that wasn't true as little as seven and certainly 10 years ago.
+
+Scott Moore (09:55):
+Germany was the world leader in solar panel manufacturer really before that, and the Japan before that, and to the extent it existed, the US before that. So it's been a pretty recent shift that China has become a dominant player in some of these key clean technology areas, and a lot of that has been through deliberate state policy. That is in a lot of ways fundamentally protectionist.
+
+Cody Simms (10:17):
+Well, I want to spend a bunch of time unpacking how the solar PV industry grew and how the EV industry grew in China, but before we do that, maybe let's take a step back and just talk about how China works. How does the agenda get set in China, and how do initiatives become initiatives?
+
+Scott Moore (10:37):
+So China is a really fascinating case. It's a centralized authoritarian country in which policymaking and decision making, it's pretty tightly controlled at the highest level, but implementation, in other words, how you pursue goals and targets that are set at that central level is extremely decentralized, and in some ways, and in some cases, more decentralized than in the US or other country settings. And in fact, a lot of what you see with China's environmental quality issues and some of the challenges related to integrating renewables into China's grid have a lot to do with the fragmentation of power and the different incentives that local governments have versus the central or national government. In my book, I actually use the term, "Free agent system," that below the kind of top level, there are a lot of ways in which Chinese governance really operates more or less as a free agent system.
+
+Cody Simms (11:37):
+It reminds me of a large corporate that essentially sets CEO level KPIs, and then the managers are basically responsible for interpreting those KPIs however they see fit. The question is what's the incentive mechanism? Why do people follow it?
+
+Scott Moore (11:52):
+You're right. Essentially that's how sort of from a formal policymaking perspective things work. So you set targets, and by the way, I mean, China is a historically centrally-planned economy. It's really only been in the last 20 years that that central planning system has been totally dismantled, but this tendency, this model of we set a target for everything, that still persists. And so policymaking tends to follow these, "Okay, there's going to be a target for absolutely everything," and then there's a national target, provincial targets, local targets, county targets, and so on and so forth. And then there are systems that parallel all of that to try to make sure that those targets are met in some way even though, again, the central government usually doesn't prescribe how those targets are met or pursued. The most important systems that try to do that minimize preference divergence is sort of the technical term for that.
+
+Scott Moore (12:50):
+One is appointments, so each level of government controls the appointment of subordinate level officials. So that right there provides a pretty good incentive to the official next level down to ensure that they're doing things that the next level targets are setting. Aside from that, every official below the central level in China receives essentially a report card. So in Chinese this is known as [foreign language 00:13:17] it's like or cadre evaluation. The idea here is that you have all these targets, and there's somebody quantifies how well your jurisdiction did with respect to them, and then that is supposed to largely determine whether you get retained in your position, whether you get rotated out to a less desirable position, or whether you get promoted. So that is another pretty effective tool, and what's interesting about that is that cadre evaluation system is historically the three things that everybody knew really counted were number of social incidents, GDP growth, and adherence with the one child policy.
+
+Scott Moore (13:55):
+Now over the last since around 2015, the government has introduced more and more environmental related targets. So now energy use is one of those targets, water consumption, air quality, and so environmental performance has started to become really important in terms of how officials are evaluated. Two other just really brief things to note. One, that although this kind of like free agent system, I think, persists, the level of control waxes and wanes, and we're currently at sort of a high under Xi Jinping where there's less autonomy and freedom being given to local officials than used to be the case. And the other thing that I haven't explicitly mentioned so far, but that we obviously have to in China, the state and the government is controlled by the Chinese Communist Party. That's the ruling party, and from a Chinese perspective anyway, ideological perspective, the sole legitimate political actor in the Chinese system. So all the systems that I've been talking about are effectively controlled by the party.
+
+Cody Simms (14:55):
+And when I think about this playing out on the ground, if you go to... Shanghai is maybe a bad example. You go to a city like Hangzhou, and you compare that to Silicon Valley, right? You compare that to San Francisco, a bunch of random office buildings all throughout the city with a bunch of startups and whatnot, and you've got Stanford, and Berkeley, and a few university kind of idea centers. And then you look at Hangzhou for example, and you have these corporate innovation parks that are to some extent even separate municipal managed districts of the city where the government is the matchmaker between innovators, researchers, and whatnot. Can you help people see how that plays out in a little bit more detail than I'm able to?
+
+Scott Moore (15:38):
+It's sort of an observation that has a lot of things to unpack behind it, so glad you brought it up. And I think the first thing to say is that what it shows is that local governments play a much bigger role in innovation and science and technology policy in China than you would think. Virtually all of the media coverage of China science technology innovation is all about what the central government is doing, and what Xi Jinping says, but because of that free agent system, a lot of it is fundamentally left up to local governments, and actually I think in a lot of ways it holds China back and sort of degrades China's innovation potential because it creates all these incentives for local governments to basically try to make it seem like there's more going on than there actually is, and one great visual way of doing that is to create the Shanghai, Pudong innovation base for global biotechnology.
+
+Scott Moore (16:37):
+Doesn't matter what's actually in the thing, right? But you build this shiny bobble thing, and that's what you get on your report card, that you have this many enterprises in your park that are doing biotech stuff, but doesn't really get to any level of qualitative difference beyond that necessarily.
+
+Cody Simms (16:56):
+The China cynic would maybe argue it's real estate that has actually driven a lot of the economic boom in China over the last little while because of this phenomenon. Right?
+
+Scott Moore (17:06):
+Totally. Yeah, and I mean a little bit incidental to our story, but for the sort of China's development generally, I mean, really critical to understand that a lot of how China has developed in the last 30 years has been local governments basically appropriate real estate through the equivalent of eminent domain, except in China it was never really private property to begin with, and then they sell it for development, and they use that money for lots of things. Some of it is productive, and some of it absolutely not, but that's really what's driven a lot of China's development, and certainly what you see as a visitor in China's big cities, that's what's happened. The local governments have appropriated and developed land.
+
+Cody Simms (17:47):
+Getting back to the climate topic, we have these innovation hubs, these innovation centers. We have these centrally decreed directives, or milestones, or KPIs. You said there's an increasing number of them that are environmental focused. Obviously, over the last 10, 15 years, we've seen that play out in huge ways in two big industries, solar PV, and I think to some extent wind as well, and then EVs and lithium ion batteries. Let's talk about each of those. Help us understand how all of this set up that we just laid out around cultural differences and structural and organizational differences came to play out in solar PV.
+
+Scott Moore (18:24):
+So I think it's helpful to distinguish between development, so technological development on one hand, and deployment on the other. And the first thing to say is that in terms of development and especially development of next generation clean technology, Chinese firms are for the most part, not in the lead. You still see the most interesting, and I think valuable research, and promising research, let's say, and developments taking place outside China. So with solar PV, I think maybe the question we can come back to is, "How long is the dominance of polysilicon versus perovskites," for example, but certainly the extent that China has played a role, and it has played a role in the development of wind and solar. It's been primarily from taking IP that was originally developed outside China, and then using that to build up Chinese competitors that have subsequently just become far and away the most competitive on cost, largely because China has unparalleled manufacturing economies of scale. In the early years, policy support was really important for that, so China had a feed in tariff, things like that.
+
+Cody Simms (19:34):
+This was like 2011, 2012 timeframe, give or take?
+
+Scott Moore (19:38):
+Exactly. Yeah. I think like 2012, 2013 timeframe the FiT was first instituted. Most of those formal direct policy supports have gone away, and now it's more soft in the form of preferential loans from state owned banks, things like that, so a little bit less direct.
+
+Cody Simms (19:53):
+Do you have a sense of what caused this to become a priority in the first place? I mean, China is an economy heavily, heavily reliant on coal, almost no domestic oil economy so to speak of, as far as I understand it, and all of a sudden, "Hey, let's go own solar PV as a global industry." How did that happen?
+
+Scott Moore (20:13):
+Sure. I think four big factors, and I'll try to sort of go through them in rough order, I think, of importance. So one is just this sense kind of coming back to the first part of our conversation. It's pretty clear to China's leaders as to leaders pretty much everywhere else that clean technology is going to be a big part of future economies. I mean, in a lot of respects it already is a big part of where we see growth in terms of the economy. It was always clear that China saw a lot of long-term economic value out of making investments in the clean tech space and ensuring that Chinese firms were in a really competitive position.
+
+Cody Simms (20:47):
+It's an interesting juxtaposition compared to your story of growing up you said in Kentucky. I said, "China is heavily reliant on coal." That wouldn't be the story that would come necessarily out of Kentucky. It would be like, "We're a global leader in coal production, and renewables could disrupt that industry," but in China, they have this giant coal reserve, and the choice was, "No, let's go all in on solar." It's a really interesting way to grow the economy.
+
+Scott Moore (21:11):
+That's right. I think that is explained by the second most important factor, which is essentially people's expectations of a higher quality of life. One of the downsides of being a one party system is that you've really got a pay a lot of attention to kind of anticipating where public support and public opinion is going to go. The party going back 15 years or so had already started pivoting from it's all about growth, it's all about increasing GDP to thinking about quality of life indicators, and I mean, obviously, in here, air quality in pretty much all of China's major cities just was abysmal, really awful water pollution, soil pollution, I mean, on and on, and on. And they kind of pivoted to like, "Okay, we're going to start to think about environmental quality as something that we know citizens want and care about and are going to expect from their government.
+
+Cody Simms (22:01):
+And, Scott, maybe one thing as well, when you have this centrally planned authoritative government, they don't think in four year election cycles, right? They think in decade scale programs. It's a different way of thinking about the world as well. At least that's my observation. I don't know if that's accurate.
+
+Scott Moore (22:18):
+Certainly there's a lot of truth to that. I think it can be exaggerated at least when it comes to like, "Oh, that gives China a sort of huge advantage," because the downside of that is, well, things change, and if you're too locked into a plan, that doesn't always necessarily work out very well either, but you're absolutely right, and I mean, one thing we didn't talk about in terms of policymaking, but it's really important to mention, is China operates on five-year plans. So pretty much the whole economy, these targets are typically set on a five-year basis. There's an exercise. Every five years, rejigger these, and particularly for climate and energy targets, most of the important ones are set in five-year plans.
+
+Scott Moore (22:55):
+So third is climate risk. So I argue, and admittedly there's a good counter to it, but I argue that of the world's big economies, China is the most heavily exposed to climate risk, and you see that prioritization in Chinese policy submissions to, for example, the UN Framework Convention on Climate Change going back over a decade in which they really harp on how vulnerable China is to extreme weather events, how vulnerable the Himalayan Plateau is to temperature changes, and how that's going to affect the ecology, the flow of major rivers. So that sense of risk is also a really important driver, and then the fourth and final one is, energy security. In contrast, a country like the US, which is pretty well... I mean, after the unconventional gas revolution at least, is actually fairly well situated. Forget climate sensitivities, but just sort of pure do we have the energy that we need domestically to power our economies, pretty well situated. China does have pretty abundant domestic coal reserves, but they're not always necessarily the most economic.
+
+Scott Moore (23:56):
+China has been a big coal importer for years from places like Australia, Indonesia, and it's particularly vulnerable on liquid fuel in the liquid fuel side, oil and liquified natural gas. So to the extent that China can through transforming its energy system reduce dependence on imported energy sources, that's a major geopolitical concern for China. And China is very well aware that most of that flows either out of the Middle East or through the Strait of Malacca, and in both cases is very easily inner dictable in the event of a conflict with the United States or another country.
+
+Cody Simms (24:30):
+Interestingly, even with all this advancement, right? China has been the largest solar energy producer in the world now for almost a decade. In China, solar, even though it's the largest installed base of solar in terms of gigawatt hours, I think, in the world, it's still only single digit percent of China's total electricity production, right?
+
+Scott Moore (24:47):
+Coal is still 60%.
+
+Cody Simms (24:49):
+Wow.
+
+Scott Moore (24:50):
+I mean, we got a long way to go to net-zero, and the net is a very important thing to nail down there as to what that net means.
+
+Yin Lu (24:59):
+Hey, everyone, I'm Yin, a partner at MCJ Collective here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming like monthly women in climate meetups, idea jam sessions for early stage founders, Climate Book Club, art workshops, and more.
+
+Yin Lu (25:45):
+Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to MCJcollective.com and click on the members tab at the top. Thanks, and enjoy the rest of the show.
+
+Cody Simms (26:00):
+I want to come back. We're going to spend a bunch of time on climate pledges, emissions pledges, all of that. Let's unpack the second big innovation push over the last 15 years or so, which is the EV industry, the lithium ion battery industry in China. China did not have, basically, an auto industry. There was no sector there really, and now they're by far the biggest EV manufacturer in the world. That happened incredibly fast.
+
+Scott Moore (26:25):
+It did. EVs are a strong contender for China's most successful industrial policy development. And all of these clean tech sectors that have emerged in China are fundamentally the product of industrial policy, although frankly, they are for the most part everywhere, but that's certainly true of China. Yeah, EVs are right up there. I think the only initial caveat I would offer to the way you put it is the competitiveness of Chinese EVs in overseas markets is still a little untested, and again, it kind of comes back to this downside of the industrial policy approach in most cases is you erect barriers to foreign competitors. Domestic champions get real good at operating in this market niche, and certainly China's market niche is massive, but it still doesn't guarantee success or competitiveness once you go out outbound.
+
+Cody Simms (27:20):
+I pulled these numbers off Wikipedia before our call, but it was 3 million passenger EVs sold in 2021, but only 500K exports, I think that underscores your point there. How did this industry, again, become a priority? How did it grow? What were the levers that got pulled to enable this massive growth?
+
+Scott Moore (27:36):
+So again, I think if you think about those four factors that I laid out, EVs hit a couple of them, big time, energy security, air quality, environmental improvement, and then it's been obvious for 30 years that EVs are going to be a critical part of the energy transition. Electrification of pretty much the entire transport sector is really how you get to decarbonization there for that whole part of the economy. So I think all of those same four factors apply for China's investments in EV. The other I think thing to just sort of flag that's maybe a little different though from wind and solar is if you think about China having this objective of becoming one of the world's major economies, having a strong automotive sector is a key part of that.
+
+Scott Moore (28:20):
+There's no major economy in the world that doesn't produce cars or vehicles. And so China had always kind of had a big prioritization on how the automotive sector... How to develop a Chinese automotive industry, but because of when that was happening primarily throughout the nineties, it was already clear that at some point you were going to have electrification. So that was kind of baked in from the start in the case of China, whereas for Japan going through the same exercise, but starting in the 1950s and sixties, that wasn't in the cards.
+
+Cody Simms (28:53):
+In order to achieve this roadmap in EVs, obviously, that then underscored the need to make all these investments in various metals mining facilities around the world, which my understanding is continues to be an area where China has a huge advantage relative to other countries trying to catch up from a battery manufacturing perspective.
+
+Scott Moore (29:15):
+Yeah, absolutely. And we should also say the two big things that distinguish China is in the role of sort of Chinese firms in the clean tech ecosystem globally are one, manufacturing economies of scale. Nobody can equal that, and I don't see any future in which anyone will be able to equal that, and two, it's dominance at all meaningful levels of the supply chain from mining and extraction onward to finished production. Those two things really distinguish the role of Chinese firms from their competitors elsewhere, and they certainly again contribute to competitiveness on the cost side. Quick anecdote, I actually just came back from DUAE. It was sort of an advanced trip for COP28, which we may want to talk about too. I was really struck.
+
+Scott Moore (30:00):
+UAE, they're actually moving pretty quickly into renewables, into hydrogen, but the economics depend entirely on Chinese technology. I mean, they don't even think about using any alternatives to Chinese electrolyzers for hydrogen production, for example, and I think that not that that's necessarily surprising, but it definitely underscored I think the challenges to some of the goals that we've outlined in the US around reshoring all of these supply chains.
+
+Cody Simms (30:27):
+Clearly, China, whereas most of the world has globalized and now is trying to pull back from that a little bit, china, it seems like totally verticalized. It took a different strategy than the rest of the world very intentionally, right?
+
+Scott Moore (30:37):
+Absolutely.
+
+Cody Simms (30:38):
+Okay, so I want to get into emissions. Maybe before we do that, let's just understand the energy mix. So we talked about coal being something like 60% of the electricity mix in China today. Hydro is humongous in China, right?
+
+Scott Moore (30:52):
+Yeah, hydro is the vast majority. So it's interesting. I mean, even though China is the biggest, has the by far the biggest installed wind and solar capacity, and by the way, the fastest growth in China's renewables capacity has actually been in wind, not solar, which is interesting because most of the rest of the world, it's the opposite. Just bracket that for the moment, but by far the biggest portion of China's non-fossil energy is hydro. Think about Three Gorges, the world's largest hydropower dam in terms of capacity. Yeah, that's a huge part of the mix. China also does have a big coal fleet, but has a very large nuclear fleet as well, so about 30 reactors either operational or under construction in some stage of planning.
+
+Cody Simms (31:35):
+When I was a kid, the building out of the Three Gorges dam was one of the environmental topics of my childhood because of the amount of flooding that had to happen in order to build that project. That's ancient history at this point, but an interesting tension in environmental protectionism relative to progress that created renewable energy. It created a huge amount of renewable energy, but it also damaged a lot of local ecosystems forever.
+
+Scott Moore (32:00):
+Yeah, absolutely. And I mean, this is a relatively small point, but it's just sort of maybe worth making that hydropower is technically low carbon, but it's not zero carbon in part because of the emissions footprint for producing the concrete that it takes to build the dams for these ginormous facilities, and because you actually tend to have... I mean, it depends on the size, obviously, and the topography, but this was definitely the case for Three Gorges. You actually can get pretty significant methane emissions from decomposition of vegetation and things like that that's inundated when you build a dam. So it's not costless from an emissions standpoint either.
+
+Cody Simms (32:38):
+So China from an emission standpoint, is the single largest current emitter. It's not the largest cumulative emitter. That would still be the United States.
+
+Scott Moore (32:46):
+Not quite yet, but China is catching up, actually.
+
+Cody Simms (32:48):
+Though per capita, it's still lower. It's just such an enormous population.
+
+Scott Moore (32:52):
+It's about half.
+
+Cody Simms (32:53):
+Okay. And most of that, I assume, comes from coal as the primary emission source with I would guess automotive and industrial kind of being the next two behind it. Is that accurate?
+
+Scott Moore (33:03):
+Yeah, that's right. Yeah, power generation is certainly first, and then transport is also very significant though less so than the US. So in the US, transport sector emissions are I think about 33%, 35%, and in China it's more like 17%, I believe.
+
+Cody Simms (33:17):
+And so what is China doing about it? China now has said, I believe, they're going to try to hit peak emissions by 2030. Is that the idea?
+
+Scott Moore (33:26):
+Yes. I'll come back to that in just a second, but couple of just quick... I always think this is kind of a helpful exercise to think about China's emissions in comparison. So the magic number when it comes to China and emissions is two, either as the numerator or the denominator. So China's emissions annually are twice that of the US. They're about half that of the US per capita, but they're also twice that of the European Union in terms of carbon intensity. So that's if you measure the economic value of a ton of CO2 that's emitted how much economic value that creates. China's emissions intensity is about twice that of the European average, and that is a significant metric, I think, because it actually shows that China is pretty inefficient at using the energy that it consumes and sort of doing stuff, generating value for the emissions that it creates, and I think that's an important driver of China's climate goals.
+
+Cody Simms (34:23):
+That's interesting. It'd be like if we looked at companies and sort of tried to value them in terms of dollar of revenue relative to tons of emissions, right? Something like that.
+
+Scott Moore (34:31):
+That's right. And as a sort of bracket this for a second, but I think it actually opens up a really interesting argument. Hypothetically, if some other country had built out the manufacturing capacity that China did, Russia or some other hypothetical question, I think you could make an argument that because of China's relatively high emissions intensity, that build out in another country would have created a lower impact on the climate than concentrating all of that capacity in China. Obviously, nobody was thinking about it that way, but it creates an interesting thought exercise. And by the way, I mean, my explanation for why China's emissions intensity is higher, part of it has to do with the reliance on a particularly... The domestic coal reserves that China has tend to have a higher anthracite content, which makes them dirtier burning and have higher emissions than other coal reserves, and then the dominance of the state owned enterprise sector, which is just more inefficient. That is the case elsewhere. So anyway, that emissions intensity I think does play an interesting role in things.
+
+Scott Moore (35:35):
+So two headline policy goals. One is to reach net-zero in terms of carbon dioxide emissions by 2060. The second goal is to, and they're actually often talked about as the dual goals, is to have China's emissions peak before 2030. So those are sort of the two headline goals. Along with that, there are significant goals that pertain, for example, to carbon intensity, so improving China's carbon intensity, improving or increasing rather the share of non-fossil energy sources in China's energy mix. So there are other significant targets that support those two high level goals. I would also just hasten to point out that what those dual goals do is they identify an end state, and they kind of identify a point at which the curve will bend. What they don't necessarily show though is the precise slope of the curve between those two points.
+
+Cody Simms (36:33):
+It could be a plateau for a while, basically.
+
+Scott Moore (36:36):
+Could be, and that makes all the difference to whether or not we stay within two degrees. So from a global perspective, that right there is why China's emissions and climate policy matters so much.
+
+Cody Simms (36:50):
+This question almost already feels dated at this point, but is China technically a signatory to Paris, and do these targets fit within that construction?
+
+Scott Moore (36:59):
+They do broadly speaking. So I have to double check this, but I'm fairly certain that the 2060 target was communicated as part of China's. One of the key things about Paris is it creates a sort of reporting structure for countries that you're obligated to periodically make commitments to the UN. They're not legally binding.
+
+Cody Simms (37:19):
+NDCs, I think, right?
+
+Scott Moore (37:21):
+NDCs, exactly. Yeah, nationally determined contributions. Regardless, China's two targets certainly fit within this architecture and are broadly consistent with the two degree goal, though, again, the slope of the curve is going to make all the difference as to whether we actually stay within that. Also worth noting that rhetorically speaking, in terms of China's international climate policy, China takes the Paris Agreement as the foundation for China's international climate policy. I mean, really, frankly, I think devote a higher fidelity to it than the US has, at least when you account for our temporary withdrawal from it.
+
+Cody Simms (37:59):
+So we should expect then in these five-year planning cycles that happen centrally to essentially see updates that will help us understand how that curve is sloping, I suppose.
+
+Scott Moore (38:10):
+Yeah. I mean, certainly that'll help inform the calculation of what the slope of that curve looks like and what the implications are for the two degree target.
+
+Cody Simms (38:19):
+And then in the last year or two, China has introduced a compliance carbon market, I think, the China Emissions Trading Scheme. Unpack that for us. What does that mean?
+
+Scott Moore (38:29):
+Yeah, so China's ETS is by some measures the largest in the world. The kind of short answer here is it's got a lot of problems. It has not really functioned very well. In part it's been... And it has a long history. I think it launched in around 2015 in its first iteration, and there have been consistent attempts to try to sort of expand it, but there have been big problems incorporating too many emitters outside power generation facilities and prices remain really low. It hasn't really been an effective tool to kind of really reduce emissions. So it's not been a particularly effective tool.
+
+Cody Simms (39:03):
+Is the primary focus on that supposed to be that state owned power generation facilities, mostly coal plants, I'm guessing, are required to essentially buy some type of offset through this? Is that the idea?
+
+Scott Moore (39:17):
+Well, they were required to participate in the ETS. Part of the initial problem though is there was no actual cap set. It just did not actually create much of a market at all, but the idea is you create emissions, surpluses if the costs favor that, and then you can sell those credits to an emitter that needs more.
+
+Cody Simms (39:39):
+All right. Well, let's go the opposite direction from an innovation perspective then, and I want to understand the state of climate tech in China from an entrepreneurial perspective. So we've talked about the large top-down initiatives of let's have a solar PV industry, let's have an EV industry, let's have a battery manufacturing industry. As you've said, China has huge priorities in robotics, in AI, in gene editing, and microbiology, and China doesn't have a domestic petrochemical industry. So is there entrepreneurial activity happening to create biological alternatives to chemical production, to create carbon capture and sequestration, director capture? Are you seeing that happen at entrepreneur scale, or is most of this still state funded?
+
+Scott Moore (40:25):
+This actually gets to the second half of my book in terms of talking about emerging technology, which certainly intersects, but I talk a lot in the book about biotech for a couple of reasons. I mean, one, I think there are some potential biotech solutions for enhanced sequestration and things like that, carbon sequestration, but it also operates separately as a sector, but I think it's sort of like representative of the entrepreneurial part of the Chinese economy as a whole. So China has given rise to some really competitive, and at least in some cases, innovative biotech firms, and that's significant because biotech is really one of, I think, the hardest entrepreneurial sectors.
+
+Cody Simms (41:07):
+With IP driven, right? It's not manufacturing driven.
+
+Scott Moore (41:10):
+It's IP driven, and it's also just exceptionally high risk. Biology is a lot harder to control than coding or certainly anything that's just in the physical world.
+
+Cody Simms (41:22):
+Biology exists because of exceptions, not tries to limit them, right?
+
+Scott Moore (41:26):
+Exactly. And so it's just high risk. You've got to be very nimble, very lucky, and other thing is to succeed as a biotech startup, but we have seen several Chinese firms really become globally significant. Pretty much every western pharma company has a big presence in China, and in part it's because of some exciting development. Part of it has to do with advantages for clinical research and things like that, but there are some genuinely exciting product innovations coming out of Chinese firms in areas like cancer, certain areas of cancer therapeutics. So you do see that. You do see genuine innovation and entrepreneurship.
+
+Scott Moore (42:04):
+China nonetheless in imposes some really systemic barriers to innovation that, frankly, I think will hold bit back in every sector, including biotech, including clean tech, and the reason that I'm pretty confident that that is going to continue to be true is that they're the most systemic and even sort of cultural institutional factors. So it's things like norms and policies around the transfer of information. China has placed really stringent restrictions on the transfer of data and in particular biomedical data outside China. We've also, obviously, seen a pretty significant political crackdown on tech entrepreneurs. And if you are an entrepreneur, particularly in a really high risk sector, why are you doing it?
+
+Scott Moore (42:51):
+Well, you're doing it because of the prospect of outsized reward, and if you're getting political signals that say, "Actually, if you somehow get to be a unicorn and achieve those outsized rewards, you will suffer for it. You will pay for it." That's the worst thing you can do to encourage innovation and entrepreneurship. So I think you're seeing a lot of these really systemic institutional barriers and challenges to innovation within China, though I hastened it to say that doesn't mean you're not going to see innovation coming out of China in clean tech and other spaces. You will. You already are. It's just going to be higher volume, lower quality than you would otherwise, and I think the US and other markets are going to have a competitive advantage for the foreseeable future in those sectors.
+
+Cody Simms (43:39):
+What do you see today given all of those challenges? Where are the innovation priorities right now? We've talked about what they were for the last 15 years. Generally speaking, what are the areas that are trying to grow, particularly from a climate perspective, I would ask you to focus from an answer perspective?
+
+Scott Moore (43:55):
+Sure. Well, in the climate space, you're seeing a lot of attention and interest in hydrogen. That's probably the single biggest area, and in part that's because of the concentration of heavy industry in China. So at the moment, it's hard to see how you totally decarbonize those sectors without something like hydrogen or a low zero carbon fuel of some kind, some interest in or exotic nuclear, certainly there's some fusion research. The most interesting thing to me was about five years ago, China announced plans to build a thorium fission reactor, and just as a quick primer, there's no reason in principle why fission power, which is the type of nuclear power we currently use for commercial electricity generation, has to run on uranium fuels. You could in principal use other radioactive materials that would be, again, in principal, safer, cheaper, more readily available, wouldn't have the proliferation risks that are associated with uranium, easier waste disposal. So the idea of having a reactor that runs on something other than uranium is really interesting.
+
+Scott Moore (45:02):
+I don't think it's particularly likely that that will commercialize and scale, but it's an interesting play, and I think that could eventually become interesting. The US, by the way, had a thorium reactor, but it closed in 1969.
+
+Cody Simms (45:16):
+And how do you see... I presume we would still say we're in trade wars, though it feels more like technology wars with China than trade wars at this point. How would you see those playing out with respect to cooperation around innovation and climate?
+
+Scott Moore (45:32):
+My big tagline on this is if you were to just start from a clean sheet of paper, forgetting politics and reality, the way you would design the global energy transition is you would say, "We're going to use China's manufacturing economies of scale to pump out as much solar panels, wind turbines, electric vehicles, on, and on, and on as we can, because that's going to be the cheapest way to do it, but you would probably use primarily foreign intellectual property to do it because for the most part, the cutting edge technology's IP is sort of held by foreign firms. So in principle, great. That's literally the definition of gains from trade and the core idea that globalization is built on.
+
+Cody Simms (46:18):
+That means you have labor issues in the US, and you have air quality issues in China from a realities perspective, right?
+
+Scott Moore (46:24):
+Bingo, yeah. But obviously there are lots of realities to contend with, and it's everything from a lot of Western and foreign clean tech firms will argue that their IP was, if not outright stolen, kind of unfairly appropriated by Chinese firms. They argue that China's policy support to Chinese competitors creates an unfair advantage. These days, particularly in the US, but elsewhere, there does seem to be some exposure of the polysilicon supply chain to force labor and human rights violations in Xinjiang.
+
+Cody Simms (46:59):
+Yeah, thanks for mentioning that.
+
+Scott Moore (47:00):
+It's massively complex, and so that kind of clean sheet of paper in principle approach just doesn't work. It doesn't work politically, but it really doesn't even work like from a commercial point of view because there's so much bad blood in the clean tech sector between Chinese firms and their foreign competitors. So where that leaves us is we are looking at trying to decarbonize through a much more fragmented market and through trying to replicate supply chains in parallel rather than integrated. I think what you can say for certain is that's going to be more expensive, and it's going to take much greater levels of public support, government spending than if we were relying on essentially globalized free trade, but where it may be helpful is one of my taglines is I don't think the generation of clean tech that we currently have is the generation of clean tech that's going to get us to net-zero.
+
+Scott Moore (47:59):
+I think we're going to need essentially a whole new generation of wind solar EVs. I mean, we talked about perovskites earlier. I think that's a leading contender for sort of next gen Solar and that next gen needs research and development support. So I think to the extent that this idea of each major economy is developing its own clean tech ecosystem, there's maybe more political reason to invest in that next generation of tech.
+
+Cody Simms (48:29):
+And maybe fusion happens in that timeframe too, right?
+
+Scott Moore (48:31):
+And maybe fusion happens in that timeframe. Maybe competition geopolitically and economically can still produce some positive outcomes for the climate.
+
+Cody Simms (48:42):
+Scott, there's so much more we could have talked about from agriculture to water, to recycling infrastructure, on, and on, and on, but I think this has been a fantastic primer to just at least have us scratch the surface of the topic here. I'm so grateful for you that you've joined us, and thank you very much.
+
+Scott Moore (48:59):
+Thanks, Cody. It's been a pleasure.
+
+Jason Jacobs (49:00):
+Thanks again for joining us on My Climate Journey podcast.
+
+Cody Simms (49:05):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+
+Jason Jacobs (49:14):
+If you'd like to learn more about MCJ Collective, visit us at MCJcollective.com, and if you have a guest suggestion, let us know that via Twitter @MCJPod.
+
+Yin Lu (49:27):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ Venture funds, be sure to subscribe to our newsletter on our website.
+
+Cody Simms (49:36):
+Thanks, and see you next episode.
+

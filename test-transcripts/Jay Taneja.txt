@@ -1,0 +1,252 @@
+Cody Simms (00:00):
+Today's guest on the My Climate Journey podcast is Dr. Jay Taneja, assistant professor of Electrical and Computer Engineering at the University of Massachusetts Amherst, and the director of the STIMA Lab. STIMA stands for Systems Toward Infrastructure Measurements and analytics at the university as well. And today's topic and one on which Dr. Taneja is a world-class expert is the clean energy Economy of Kenya. Kenya's a fascinating story from a clean energy and climate change perspective. The vast majority of Kenya's electricity supply is renewable or clean energy. And over the last few decades, the country has undergone an incredible expansion of electricity access.
+
+Cody Simms (00:42):
+Barely 1 million Kenyans had access to electricity in 1990 and from 2013 to 2022, Kenya more than doubled access to electricity from around 30% of households in 2013 to roughly three quarters of Kenyan households by 2022. On top of all of this, Africa as a continent is likely to be most impacted by climate change, and yet the countries that make up Africa are the least responsible for climate change from a cumulative emissions perspective. And the Horn of Africa where Kenya is located is currently suffering from a multi-year drought. I learned a ton from my discussion with Dr. Taneja and I hope you do too. But before we dive in. I'm Cody Simms.
+
+Yin Lu (01:31):
+I'm Yin Lu.
+
+Jason Jacobs (01:32):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+
+Yin Lu (01:38):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+
+Cody Simms (01:44):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Jay, welcome to the show.
+
+Jay Taneja (01:59):
+Thanks Cody, happy to be here.
+
+Cody Simms (02:01):
+So Jay, we've had a few guests on the show that are working with climate solutions in Kenya and I think one of the things that I've taken away is what an amazing amount of progress Kenya has made as a country. It seems like a very unique situation where it has created an energy mix that is heavily leaning toward clean energy and renewables in a relatively fast amount of time. And so I wanted to invite you on, I asked the MCJ broad community, who should we have on to help us learn more about Kenya specifically and how did it get to that point. And your name was brought up multiple times, so excited to learn from you today. Maybe start with talking about your background.
+
+Jay Taneja (02:46):
+Sure. So I'm a competing scientist, computer engineer and background, born and raised in the US, parents are from India. But as I made my way through undergrad, graduate work, I started to really understand the importance of the energy system and really how this is going to influence our entire economy and especially as climate change takes hold, how crucial it is to rethink, reform, and develop the energy system in a way that is sustainable and not just the environmental sustainable way, but because we work in a greater economy, thinking about financially sustainable way.
+
+Jay Taneja (03:18):
+So during graduate school I focused on work looking at dispatchable or flexible electricity loads, thinking about how buildings and appliances could participate in the electricity system and help deal with peaks. But that was primarily work in industrialized countries, US, Canada, Germany, and I got a little bit of exposure. I love traveling, I love to see different parts of the world, different cultures and little exposure to how energy systems might look different elsewhere. And I went to the 2010 World Cup in South Africa and that was my first time on the African continent. My friend and I traveled. We spent four weeks traveling, camping, seeing places, seeing cultures from around the world, but really engaging in South Africa.
+
+Cody Simms (03:58):
+I love the Shakira song that came out of that World Cup by the way, the Waka Waka or whatever is a good one.
+
+Jay Taneja (04:04):
+Yeah, there's a whole bunch. That soundtrack was probably the best World Cup soundtrack I'd say. And so that was a place to start for me. After graduate school, finished in 2013, got the opportunity to look around and see what work would I like to do, do I want to stay in the US? Stay working on energy systems, branch out somewhere else? And this really neat opportunity came along. IBM research was opening, I think it's the 12th global research lab and this was the first commercial IT research lab on the African continent. So they had opened a new lab in Nairobi, in East Africa, in Kenya.
+
+Jay Taneja (04:36):
+Really awesome opportunity to go engage, to go lead a team. I actually got to lead a team working on energy and electricity on the continent and understand what the challenges were in that setting, where that market was going to just really engage in this really dynamic new space, new place for me. And along the way really learned a ton about the limitations, about the potential, about how Kenya as a country is a real leader for the continent and a real bellwether for where technology in developing regions is going. And from there it's been just a huge learning experience. I see a fantastic runway for researchers, for competing professionals to really engage in Sub-Saharan Africa.
+
+Cody Simms (05:17):
+And just for my context in education, I think a quick Wikipedia search led me to see that starting in 2013, Kenya, there was roughly 32% of households that had access to electricity in 2013 and that's up to 75% now. So just in that time from when you started that work with the IBM research lab, they've more than doubled their electricity access in the country, which is just astounding to me.
+
+Jay Taneja (05:45):
+It is quite a story, not just on what they've done on the connecting side, which is phenomenal and my work did very, very little contribution to that. This was a lot of work from a lot of people at the utility, at funders, World Bank, African Development Bank, so on and so forth, and the Kenya government of course, but also what's happened on the supply side, another huge conversion there, if we think about electricity as supply and demand. On the supply side, Kenya went from being bereft of reliable resources in the mid 20... 2005, 2008 era. They had huge droughts and all their hydro generation was going through a period of unreliability. They had long unscheduled outages, all these problems. And at that point Kenya reformed its energy and its electricity sector in particular, brought in a number of independent power producers to supplement the local resources and took the observation.
+
+Jay Taneja (06:36):
+They're on the edge of the great riff valley in East Africa. The great riff valley is the joining of two tectonic plates and this actually is where the cradle of humanity comes from, northern Kenya and Ethiopia, but now it's bringing a different evolution, which is how do we harness the earth's resources in a better way to provide ourselves energy? There's incredible geothermal electricity relatively near to the surface in Kenya and harnessing that geothermal energy has gone from being just a side gig, 5-10% of electricity, now fully 45% of Kenya's electricity comes from geothermal energy. Kenya is from being constrained in electricity supplies now they're actually constrained in demand. They need to figure out how to soak up all this extra electricity in a useful and productive way. But now Kenya's electricity system is 90% renewable. Imagine that.
+
+Cody Simms (07:24):
+Incredible.
+
+Jay Taneja (07:25):
+Their electricity system is 90%, just incredible place to engage in future look at what a climate friendly energy system actually can look like.
+
+Cody Simms (07:35):
+Well we're going to spend a huge chunk of the conversation today learning about how Kenya got there and then expanding out from there and learning a little bit about other countries in the region. Before we do that, just want to make sure we've touched base on what you're working on today at UMass Amherst with the STIMA Lab. Maybe just help people understand the context of your current work.
+
+Jay Taneja (07:54):
+Fantastic. So I'm a researcher and educator, both. I primarily conduct research with my team. My team is a fantastic group, mostly African graduate students. So just about everybody on my team is from the continent or has ties to the continent. We look at how we can better measure infrastructure systems. The idea is that infrastructure provides an underpinning to economies and it allows for economic growth, it allows for better wellbeing, but it so often gets deployed or doesn't get planned in such a way that it maximizes that growth, that it really pushes for societal improvement. Our perspective is that it's because we don't measure it well enough. We don't know both how infrastructure leads to economic growth to the right extent.
+
+Jay Taneja (08:35):
+And also we don't know often how infrastructure is operating. We don't really measure the performance to the right level. And as a computing professional, we've now built these fantastic tools to better monitor the earth, amazing satellites, smartphones that can collect fantastic amounts of data and algorithms that can produce the insights that come from those large lines of data. We want to apply those fantastic new computing tools into better observing and better measuring and eventually better planning future infrastructure systems, energy grids, roads, agricultural extension and things like that that can lead to burgeoning and abundantly resourced economies.
+
+Cody Simms (09:13):
+And Jay is one of the reasons that you all have chosen to focus on Africa, obviously your trip there in the last decade helped inspire you, but I would also imagine many of these countries don't have what we think of in the developed world as traditional utility grids and thus there is no central measurement necessarily happening. And so the need to develop decentralized measurement tools seems increasingly important. Is that an accurate hypothesis I would have there?
+
+Jay Taneja (09:42):
+So there's a mixed picture here. After visiting in 2010 and getting a bug and saying, hey, let's go explore more, I actually went and moved to Kenya for about three and a half years and to this day I still visit multiple times a year to engage in ongoing research projects there. But the observation is that the field of electricity access and eventually electricity for growth and for vibrant economies has changed. It used to be... we have the grid, that's our only quiver in the holster and that's how we expand access to more places. And the number you cited earlier about electricity access is primarily grid access, but what's changed is now we get this incredible growth in decentralized or off grid electricity. And so there it's primarily solar home systems. These are very small solar arrays. We're talking five to 10 watt type systems, so primarily used for lighting and cell phone charging, starting to inch up into televisions and eventually refrigerators, things like that.
+
+Jay Taneja (10:36):
+But we're seeing the market approach from the bottom up and these systems are meant to shore up existing grid connections essentially when people want to have stacked or multiple electricity technologies to use just in case of reliability or cost or whatever other reason, but in some of the [inaudible 00:10:50] urban or rural areas where the grid hasn't necessarily reached, this is an alternative way to get that first watt of electricity and that first watt has an incredible amount of utility to people to be able to no longer have to throw your phone in a bag and it goes to the next village to get charged. Now you have a little bit of supply at home, you can really engage with not just the energy world but really the communication world. This is getting that information about what materials cost or what you can sell produce for or frankly just connecting with family or connecting with the world more broadly has a huge amount of benefit to people.
+
+Jay Taneja (11:23):
+The move towards having both centralized grid and decentralized electricity sources has really flipped things quite a bit. There's a lot of excitement around decentralized because it means that you can get different factors involved. It's not just the national utility and not just the government involved, but now you start to get these off-grid companies that are private that are a lot more dynamic and can really ride the technology curve. But at the same time, we do have to remember that most customers are still connected to grids even though most people are not necessarily connected to grids because of low electricity rates. That's where a lot of the economy is still based. And so it's really crucial to not ignore the existing footprint of what's out there and really think about, okay, how do we adapt new technology tools to improve the existing grids footprint so that it can expand and allow those economies to grow as is.
+
+Cody Simms (12:15):
+Fantastic. Let's maybe take both a top down and bottom up view of Kenya. So Kenya, I think just for context, it's the... I think seventh most populous country in Africa, somewhere in there with around 50 plus million people. We've talked about it as something like 90 plus percent is that renewable energy I guess, is that the accurate way to say it?
+
+Jay Taneja (12:37):
+Renewable electricity is important to say.
+
+Cody Simms (12:39):
+Renewable electricity. Okay, great. And we talked about the rapid growth in access and even more than that, I think it was only around 1 million Kenyans had access back in 1990. So just an incredible amount of progress. What does life look like if you are in say Nairobi, relative to if you are in a village and do you have a general sense of the population breakdown of the country in that regard?
+
+Jay Taneja (13:06):
+So urban rural splits, Kenya is still primarily rural though there's been this narrative around urbanizing Africa for a generation at this point thinking about how these cities are going to look different as they become super cities where you get urbanization that moves people from rural settings inward. At the same time, urbanization looks much more multifaceted than big cities and villages. You have second tier cities, third tier cities. In fact, as far as I've been aware, the third tier cities are the ones that are actually growing the fastest, really attracting folks from the hinterland into those smaller town and cities and that's where a lot of things are growing. Africa is actually, as a continent, fairly sparse. The continent as a whole is the area of Europe, China, the US and still has plenty of space beyond those and it's only about a billion people or so, 1.1 billion, somewhere in that range.
+
+Jay Taneja (14:01):
+It just does not have enough cities actually is the challenge. The number of large cities is relatively small and so even if these become super cities, if they end up on the same strata as Mexico City and Mumbai and Tokyo and Beijing and so on, there's still going to be a need for new urban glomeration and new infrastructure, new development. If we think about Kenya specifically, the energy experience, it varies. So let's think about electricity in particular and I think energy and electricity often get bunched together, but we need to separate them. Electricity in the city is present everywhere but still not used for everything and particularly it's used for lighting and cooling and heating when needed and motors and industry, things like that, but it's not used for cooking as much.
+
+Cody Simms (14:43):
+Water purification. Is that a big use case too?
+
+Jay Taneja (14:46):
+Absolutely, water and industrial and small commercial use, but it isn't necessarily used for cooking as much. So there's still a huge urban set of people that cook with biomass, charcoal, even firewood in some cases that tends to still be very popular. There's been a huge direction in the clean cooking sphere to move people to liquid petroleum gas or move people to electric cooking. I'd say that we're much earlier in that transition, but it's going to be crucial for cities to move to electricity in particular when it comes to cooking. So that's the urban experience. You still have outages, so that's a topic we study a lot, is understanding electricity outages and poor power quality when you can't necessarily run your motors and equipment and appliances on the electricity that comes through. Yes, the electricity's flowing, but it's really low quality such that machines start to break down.
+
+Cody Simms (15:31):
+And in the city most of this electricity is provided by essentially a utility, is that correct?
+
+Jay Taneja (15:37):
+Utility, yeah. So the utility tends to be... they were there for many, many years. In the last 10 years, they've really started to connect the informal settlements. It's crucial to understand, the informal settlements, slums, however you want to term them, are a huge part of life in developing regions in general. These are generally disorganized or at least not formally organized areas with their own informal economies that are hugely densely populated, often are sometimes itinerant populations that move into the city for some season, but often they don't have land rights, they don't have infrastructure that's built to support the density of population. It just becomes a really thorny issue and a surprisingly large proportion of urban Africa is actually informal settlements. More than half the population tends to live in these settlements and that really challenges the idea of how do you understand the economic flows and then how do you best prepare for growth when the growing segments end up just looking like these settlements again and again and again. How do you build a proper infrastructure set up so that the economy can grow and not be constrained by what infrastructure's present?
+
+Cody Simms (16:40):
+And then what does life look like in a smaller village or rural area in the country?
+
+Jay Taneja (16:46):
+If you take the whole energy pie of Kenya and trying to understand in rural settings, first you don't have industry, so the industry tends to be really, really low footprint. Just putting some numbers on it. Kenya Power has eight plus million customers, 4,000 of those. So think the huge order of magnitude difference are industrial customers. This 4,000 drives about half the electricity purchases, so they're really crucial customers for the utility. They don't really exist outside of cities. And so in rural settings, the economy is small, medium enterprises and that's about it. And these are typically small shops that don't have much of a different electricity consumption pattern than residences, relatively richer residences. Now what that means from the electricity pie and a rural household, electricity is about 1-2% of your energy budget if you have an electricity connection. So it's already a very, very small part of your energy budget.
+
+Jay Taneja (17:37):
+In the US, that's quite a different story. We use electricity for many things even in rural setting, but why that is, a lot of energy is in cooking and in transport. Cooking especially is the big one. Largely that life, while it's got a little bit better, you have communications, cell phones are an enormous innovation for people in how life changes, electricity's not really making a huge difference for a lot of people. And so, one of the challenges that we've seen is as the grid has expanded and the past couple of governments in Kenya have really pushed to expand access to electricity to lots of new and different places, there's an adoption, there's a new electricity connection at a bunch of households, but you just get an immediate fast growth and then after all that it levels off. You just see very little long-term growth that's both not great for economies locally that electricity is a modern energy source.
+
+Jay Taneja (18:26):
+Switching from burning charcoal or firewood from burning lots of diesel to switching to electricity consumption would be a good thing for economies, would be a good thing for the planet, would be a good thing, generally more efficient as a fuel source. So lots of different reasons why we want that, but the end result is that hasn't changed as much as a result of electricity life in rural settings. And I can't speak to this with complete confidence because that's not the background I have, but my understanding is essentially that it looks much more similar to how life did 10 years ago than we have in urban center.
+
+Yin Lu (18:58):
+Hey everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community, a number of founding teams have met, several nonprofits have been established and a bunch of hiring has been done.
+
+Yin Lu (19:33):
+Many early stage investments have been made as well as ongoing events and programming like monthly women and climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+
+Cody Simms (20:00):
+So I'm hearing in summary, if I'm understanding this correctly, there's been highly successful effort to expand the grid in urban settings and in particular to power that grid expansion with cleaner renewable energy, primarily driven by geothermal, but also an expansion of solar, also an expansion of wind and then moving into more rural environments. There has been some growth in off-grid solar, but it's providing very, very basic access needs. Your lighting and charging up your cell phone and for the most part, energy that is used in rural environments is burning wood, burning charcoal, gasoline, et cetera for powering transport. Is that an accurate, very high level understanding?
+
+Jay Taneja (20:46):
+It's a great high level understanding. I want to add one little thing that complicates it in an interesting way is that the companies that sell solar home systems, these are generally VC backed or impact investment backed firms. The challenge for them is they need to move a lot of product. This is generally commodity hardware. They do some analytic and fun things on the backend, but for the most part it's a volume game.
+
+Cody Simms (21:11):
+Is this another word for microgrid? Is that a accurate view if I think of it that way?
+
+Jay Taneja (21:14):
+No, not quite. So we actually have these three tiers we typically talk when we talk about electricity access technologies, there's solar home systems which are these five to eight watt or larger type solar systems. And then microgrids are this middle tier, and I'll explain it as middle when we talk about... the top tier is grid access. So microgrids, they sit in between, they're an engineer's dream, they're a financier's nightmare, that they meet a lot of the goals of getting many different customers on the same grid, but you don't have to do the long range medium voltage connections that you require for grid extensions.
+
+Jay Taneja (21:42):
+So microgrids are the right technologies in very specific places, but there's generally a fairly heavy outlay at the onset and these are still rural communities. The micro grid company has to figure out not just how to deploy infrastructure and manage it, but also has to figure out how to grow an economy alongside that. As I mentioned, there is an industry to adopt or to incorporate. These are communities that tend to have very small and largely agrarian based economies, so it's very difficult to act as infrastructure provider and rural development agency at the same time, while it's a really crucial link in the chain, hasn't been solved or hasn't really been scaled in a way that can be that link between rural villages and modern electricity access.
+
+Cody Simms (22:27):
+Whereas a solar home system is literally I'm buying a small solar array to put on my roof and have real-time access to solar power as needed.
+
+Jay Taneja (22:39):
+That's right, and the thing about that kit is that's a relatively more expensive product. At the low end that's a couple of hundred bucks, at the higher end, five, $600 and in Kenya the per capita income is over 1500 bucks. But at the same time, those per capita incomes are always skewed upward. In a rural setting that couple hundred dollars can represent six months or even a year into that range of income. That's generally not accessible for a lot of folks. Now the thing about solar home systems also is that they're not really being adopted in these far rural areas at this extent. Yes, you can buy cheaper versions where you get just solar panel and a cheap battery off the shelf and wire them together yourself. Those don't last very long, so there's a huge quality issue in that tier, but in deep rural areas, there's just not the money to actually deploy these things.
+
+Jay Taneja (23:25):
+Solar home systems are excellent in peri-urban areas where you've got poor electricity access or at least a weak grid connection that you can then shore that up and people have a little bit more money or in urban areas where the formal grid hasn't necessarily got to you. So they're really good for that tier though the deep rural areas where there's very little electricity access, this is just a problem with money just needing actual investments and actual government commitment that we want everybody to have electricity access, universal access is important, so it can't necessarily be a business model where we're trying to sell this hardware.
+
+Cody Simms (23:57):
+Helpful distinction. Speaking of that government commitment, if you've been following, there's been a significant election in Kenya with a new president who took the helm in 2022, and I admit I am not a close follower of the politics here, but he has made some comments. President Ruto, I found a Guardian article that he wrote where he was committing to a hundred percent clean electricity, clean energy by 2030, and he had a few what seemed like pretty significant populist comments. He said the wind can't be stockpiled to drive up its price. The sun's raise cannot be switched off by a single person wishing to weaponize energy. The energy crisis is a wake-up call that fossil fuels are the opposite of freedom, yet the world has been shackled to them. I'm curious to hear your observations here on how the changing administration there is likely to drive any potential change in policy that we've seen and also we haven't gone into the politics at all, what the politics of the prior administration was that allowed this progress to happen over the last decade.
+
+Jay Taneja (25:06):
+It wouldn't be objectable to say that Kenya politics is a giant soap opera, that we've gone through the emergence of multi-party democracy in the '90s and finally removing the shackles of autocracy in the early 2000s to... you wouldn't say stable, but at least for the most part, transitions are everybody clenches, but we've been able to have multiple transitions of governments in the last 20 years. That [inaudible 00:25:30] a lot of deaths and lots of huge challenges with governance that have come from that. So the current president, President Ruto is a populist, he's known as the hustler president. He's really tried to be the voice of the [inaudible 00:25:43] or the Kenyan common people and the push there is a little bit, I would say real politic, were we're looking at how Kenya's situated on the continent. It's been at this interface between longtime western partner on terrorism and Somalia and stability for the region for the Horn of Africa, generally Kenya hosts a huge number of refugees from Ethiopia and Uganda and Somalia, but at the same time, [inaudible 00:26:10] from China, China's a huge force on the African continent, tons of investment.
+
+Jay Taneja (26:13):
+The real project that's really changed Kenya, not really necessarily changed Kenya, but has been a huge influence on Kenyan politics, that was Chinese investment coming in and roads... Nairobi looked massively different than it did 10 years ago because of all the road investments primarily from China. And so Kenya's tried to toggle between these two partner developer type countries, the US and China and I think largely has done that fairly well, has made good friends on both sides. At the same time, huge amounts of debt that the country has taken on.
+
+Jay Taneja (26:45):
+So while the story of a green country is a good one for Kenya to lean in on, that the electricity system has really changed over and just as the Inflation Reduction Act has been a huge industrial policy driver here in the US, it will be a huge industrial policy driver. The same can be true for Kenya. Kenya wants to be the center of electric vehicle development for the East Africa region and be where those vehicles get assembled and exported and more power to them. It makes a lot of sense to build on this direction of, okay, now we've expanded access to electricity. How do we get the industrial benefits that come from growth in green sectors?
+
+Cody Simms (27:20):
+How much has climate reality already started setting in Kenya? I think we tend to hear that Africa is the continent, broadly Africa is the continent that has contributed the least amount of cumulative emissions to our atmosphere and yet is likely to be... obviously Africa's a huge place as you covered, but areas of Africa are likely to be among the hardest hit by climate change. I saw an estimate that GDP in Africa is already taking a five to 15% hit due to climate change today. How much are you already seeing drought, food scarcity, et cetera, ripple through and do we have a sense of how much of that is caused by warming climates and changing temperatures?
+
+Jay Taneja (28:08):
+Part of the challenge is that the folks that are most precarious, most on the knife's edge are ones who of course had no input into this and are now at the mercy of it. Kenya East Africa has been in drought conditions for four or five years now, and the consistency of climate is built into how economies are built. It's built into the language. Kenya being near the equator, 6:00 AM to 6:00 PM is your time of day. In Swahili, the day is only known as a 12-hour day. It doesn't change to 18 or nine or whatever we change to in northern settings. And that consistency of timing, that consistency of season, when the long rains come, when the small rains come, that's built into all of the economic systems and that's not happening the same way anymore. It's brutal to see this transition towards unpredictability that affects so many people across the continent more broadly, 60% of people are engaged in the agricultural economy.
+
+Jay Taneja (29:00):
+To be at the mercy of unpredictability for most of the residents of a place is just a horrible situation. Now that said, what it means for people, I think it's important to recognize that we often talk about developing countries and developed countries, but really this is also about region, thinking about parts of Kenya that are much more at the mercy of this, the southwest quarter of Kenya where Nairobi is, is a high mountain region, 6,000 feet elevation with beautiful, perfect soil and incredible LA style climate. So it's largely a lot more resilient in that part of the country. But the other three quarters is desert and a growing desert just like we see in the Sahel and the Sahara region. The desert is growing into northern Ghana, northern Nigeria and making agriculture much harder to conduct in those settings. And the same is true for Kenya, so we do need to adapt the story, but where agriculture is failing, that absolutely affects food security.
+
+Jay Taneja (29:58):
+And the challenge with that is when we think about all of the development priorities, all the investment priorities, you work on infrastructure, you work on education, you work on health, but when there's a crisis that moves to the top and it pushes these other things down and these other things are... they're all important. So how do you prioritize and how do you make sure that you're setting yourself up in the medium and longer term when your house is on fire, as we say. So that's the cards that have been dealt lately, but the level of drought regionally in East Africa and the level of raininess and other parts of the continent, it's a really, really difficult story to unpack, but has this impact on psyche of just going from predictable to uncertain and that really changes the outlook.
+
+Cody Simms (30:38):
+Let's talk about geothermal. Sorry to just completely shift topics, but it seems a huge chunk of the growth in access that we talked about at the top of the episode has been driven by geothermal expansion and how much of that story is the fact that Kenya in particular is just to some extent sitting in the right place. It is at this large tectonic plate rift and what has caused the country to realize its ability to harness that recently.
+
+Jay Taneja (31:15):
+30 countries in the world are able to harness geothermal energy for producing electricity. The US is the leader in this. We've got seven states in the US that are producing geothermally powered electricity. That is a beautiful coincidence of location to be on the rift to do that. Ethiopia, just north of Kenya, starting to also harness that electricity source and at the same time, it's not just being present there. The Kenyan government and international investors have put money towards growing this wonderful renewable source. Now we love wind, we love solar at the same time, those are intermittent sources, so going much beyond 15-20% of the grid electricity from those sources, you really start to run in a lot of challenges with dynamics. They're not unstoppable dynamics and we have great technology mines trying to incorporate fluctuating wind and solar, but geothermal's beautiful in that it is base load electricity.
+
+Jay Taneja (32:04):
+It is just pounding out all those kilowatt-hours all day long at the same amount, very dispatchable, just steam coming up that you can harness that is a beautiful source of electricity to deal in an uncertain world. And there's no doubt that that's an incredible asset for Kenya and for East Africa in general to be able to not just develop that in Kenya or develop that in Ethiopia but start to interconnect network and have that electricity available to neighbors as well. The alternative here is thinking about a lot of hydroelectric generation, big dams, but while those dams are largely considered renewable, though they do have quite an impact on the ecosystem, they're not as dependable and that's part of the challenge when we face large drought scenarios and low reservoir levels and things like that, we just can't necessarily depend on these the same way we could in the past few generations. And so there is that bit of challenge.
+
+Jay Taneja (32:53):
+I do want to do one little break between access and generation. Generation here is really how do we grow the supply of the electricity grid so that we have enough to power economies. I mentioned earlier industrial economy is 50 plus percent of the electricity consumption in Kenya. Access, we're talking mostly customers at a very, very, very small consumption. We did a little bit of a background on this. You could connect every single household in Kenya to however much electricity they're likely to use given past usage patterns for the last few years today with no new access. It's just that access, it costs a lot because you're putting down wires and poles, as much as we can churn out grid solar panels in cheaper, cheaper prices, grid batteries in cheaper and cheaper prices, wires and poles still cost a lot of money.
+
+Jay Taneja (33:38):
+And so putting those things out there, it doesn't use much electricity, it's just that it costs a lot of money to make sure everybody gets connected. Whereas on the generation side, we're really trying to grow industrial economies. The challenge for Kenya and for much of Africa in general is that trying to industrialize in a globalized era puts you at a disadvantage. We don't have necessarily as many garment companies leading the way when it comes to industrialization because Southeast Asia, South Asia, East Asia, do this so very well compared to much of the African continent and that it's just... instead of building a factory, it's much cheaper to just import cheap fabrics and cheap everything and isn't really a good pathway to actually grow an industrial economy.
+
+Cody Simms (34:18):
+Super interesting to hear you share all of this and what I'm trying to understand is you often hear Kenya is this blueprint for emerging markets and developing countries to look at as a country that has grown its access to electricity and has done so with clean power. When you click a layer deeper, I'm hearing, one, geothermal has provided a huge amount of this and that's obviously something not every country has access to. So Kenya is in a unique place. Two, you often hear, hey, a lot of these countries are expanding because they're able to build out distributed energy resources and truly decentralized energy production. But I'm hearing you say Kenya has expanded a lot of this centrally. It is a utility-based expansion model.
+
+Cody Simms (35:12):
+You are having to invest in obviously significant amounts of transmission, particularly when you have this large geothermal built-in benefit. How much of this is nationalized priority and how much of this is commercial capital coming in and helping to drive this? Is the policy one of attracting third party commercial capital or is the policy lever one of just prioritizing this in a broad set of budgetary expenses that the government is investing in to directly?
+
+Jay Taneja (35:47):
+That's a great, great question. Really astute observation. So I'd say that it's certainly... the easy answer is both, but putting a little bit of detail on that, Kenya's electricity sector has gone through multiple generations and now has this interesting setup. And I'd say country to country, this actually varies and it's important to understand, Kenya's national utility is 50.1% owned by the Kenyan government and 49.9% privately owned. And in practice, it acts like a corporation. It's just that they also have this dual mandate that comes from government directive to try and expand access, but also that budget sheet is somewhat separate. That comes from the Kenya government and international donors and so on that want to grow access. And so the journey for Kenya has been one where a huge amount of investment came in for growth of the footprint. That money wasn't being pulled from other government priorities, but it was coming from the World Bank and the African Development Bank and so on.
+
+Jay Taneja (36:43):
+But the growth in generation, which is the other side of this that allows the economy to grow that has largely come from capital from a lot of IPPs or independent power producers who build these large generators and sell the power for business purposes and sign a 20, 30, 35 year contract with the utility to off take or to buy that electricity. And so that growth has been a mix of government priorities and good policy to encourage the emergence of a IPP sector. Now at the same time, you see this differently in different countries. Uganda next door, they signed a 25-year concession lease with a company that said, okay, the governor of Uganda maintains the grid, we will own these assets, but you run it. And so this company, called [inaudible 00:37:28] took over the grid in circa 2005 and actually had a 20-year concession agreement to run it until 2025.
+
+Jay Taneja (37:33):
+And [inaudible 00:37:35] has done a really good job of improving the quality of electricity to those who already had access but has done a relatively limited expansion of the grid. And so you get a somewhat different story there when you get this different mix of public-private. Down south, Tanzania, largely government run utility, a hundred percent government owned called Tanesco hasn't necessarily grown and offered good enough service to grow economies. Now those three don't necessarily tell the entire story, but they are three points on a continuum that it's important to understand that policy here matters and the structure of the electricity sector matters a lot as well to how the investments can actually translate into growing economies.
+
+Cody Simms (38:14):
+So what aspects of the Kenyan success story to date are uniquely Kenyan and what aspects are true blueprint for other countries to look at?
+
+Jay Taneja (38:24):
+I'd say that blueprint is... it implies that this was all done correctly and that's important to necessarily dig into it, wasn't all necessarily done correctly. A lot of money was spent expanding grid access to places that actually aren't using anywhere near that capacity. And now that we have these other tools for electrification, solar home systems, mini-grids, really being careful about where does it make sense to invest in X, Y or Z? How do we best encourage growth of mini-grids in these places? How do we best encourage solar home systems with these particular customers, so on and so forth. That's something we need to understand better and deploy in a better way that we take this really, really valuable but scarce pool of money, whether it's government money or international donors or investors and deploy it in the way that reaches the most people the most quickly.
+
+Jay Taneja (39:11):
+We all have this goal of reaching the UN sustainable development goal seven of affordable universal access to modern energy systems, but there are a number of different ways to get there and really being careful with that pool of money I think is a way to take the Kenyan example and grow from it and try it out. At the same time, the challenge of doing this when you don't have the wonderful lever of geothermal electricity there to help you is part of the story, though we are getting better at managing high fluctuating renewable systems with lots of solar, lots of wind. This is something that globally we're getting better at and so that can benefit countries in sub-Saharan Africa as well. Storage will be an important lever here. It will just take a little bit longer for that to see deployment in the same sorts of way, but the hill is there for other countries, but it's still surmountable. It's the thing that we can get to. It just doesn't have the headstart that Kenya and perhaps Ethiopia have by having this pretty unique resource of cliff to surface, geothermal electricity.
+
+Cody Simms (40:07):
+And Jay, the last question I have is we saw this announcement out of COP27 this year or I guess the end of last year with the loss and damage fund for vulnerable countries. How do you anticipate countries like Kenya and Ethiopia and whatnot to be able to leverage this?
+
+Jay Taneja (40:26):
+We haven't really faced up to reparations in so many ways on this planet, and this is a new process. When I think about how different parties approach things, it's always about incentives. And so you might go back to your question earlier about how the Kenya government is positioning itself. If they say, we've done everything we can to decarbonize our energy system, yet here we are. They're in a much better place to make a case for money from reparation sources or loss and damage fund sources than a country that is still fracking and pulling everything out of the ground that they can.
+
+Jay Taneja (41:05):
+So it could be partially making that case. I'd say that the overwhelming challenge here is that we can't mitigate our way out of this problem. The climate has already changed substantially. The landscape has changed substantially, that there is a huge adaptation challenge that is going to overwhelm the resources of a country and of its people in a lot of these settings. And so really coming to grips with what it's going to take to make that transition to a cleaner energy system isn't necessarily going to change the picture for the people that are dealing with the consequences already.
+
+Cody Simms (41:40):
+And short of enrolling in your graduate program at UMass Amherst, for folks who are interested in learning more about this topic broadly, whether the loss and damage fund we just talked about, but more broadly, east African energy policies changes all of the progress that's happened, what are some resources you'd like to recommend to folks?
+
+Jay Taneja (42:03):
+The very top one is I have a former collaborator named Dan Kammen. He's a professor at UC Berkeley, and he's a longtime expert on global energy flows. He has this class called Energy in Society and he makes all of his materials public and it's a great way to understand the connection between energy systems and how societies use them. So I would put that at the top of a list to understand the bigger picture. When it comes to Kenya in particular, Kenya's a pretty vibrant place. I'd say it's probably the most diverse airport I've ever been, Nairobi just because there's people from all around the world that come through that place.
+
+Jay Taneja (42:39):
+So there's a bunch of great blog hosts, NextBillion, and there's the Sun Connect East Africa. There's a lot of good sources for news and activity that are happening in the region and I think that helps to connect to the energy picture. And energy is becoming and always has been about politics. And so you can't miss the wrangling on tariffs and how it's affected by tariffs and rates for electricity. Sorry, it's a British way they say it, but how the political segments affect decisions made in the energy space, you just can't miss it. So if you keep up with bigger stories for the region, you'll invariably find yourself part of the soap opera that is politics.
+
+Cody Simms (43:18):
+Well, Jay, I super appreciate you joining us today. Any final comments that you want to make about your work, about this space, about how we all can learn from it and try to be helpful?
+
+Jay Taneja (43:29):
+Absolutely. So if we're looking out to 2050, from here to 2050, half the population growth in the world is going to be on the African continent, half. This is a space that needs so much more investment in growing the capacity of people to study it, in understanding how that half is going to influence economies, influence migration flows, influence the food supply of the world. This is a unbelievably poorly studied and poorly understood part of the world. Outside of the region, and even within the region, we just don't have the same flows of information, but just as any place with growing economies and massively changing setups, there's plenty of opportunities to make a buck or two. So keep this in mind, it's a place to look and expand and grow your horizons, and this is not the same Africa that we grew up with. So it's a really tremendous and exciting time for the continent, and we have to make sure that we treat our colleagues and friends there as equals who deserve just as good of a life as the rest of us have had.
+
+Cody Simms (44:30):
+Thank you so much for your time. I learned a ton and I really appreciate you joining us.
+
+Jay Taneja (44:34):
+Wonderful. Thank you, Cody. It was great to be part of the MCJ podcast.
+
+Jason Jacobs (44:38):
+Thanks again for joining us on My Climate Journey podcast.
+
+Cody Simms (44:43):
+At MCJ Collective, we're all about power and collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+
+Jason Jacobs (44:52):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter @mcjpod.
+
+Yin Lu (45:05):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+
+Cody Simms (45:14):
+Thanks and see you next episode.
+

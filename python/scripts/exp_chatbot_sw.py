@@ -11,7 +11,7 @@ from langchain.chains import LLMChain
 
 
 # 1. Read in the text documents and embed them
-loader = DirectoryLoader("/Users/sherrywang/Downloads/mcj_sample", glob="*.txt")
+loader = DirectoryLoader("./test-transcripts", glob="*.txt")
 docs = loader.load()
 text_splitter = CharacterTextSplitter(chunk_size=2000, chunk_overlap=100)
 docs = text_splitter.split_documents(docs)

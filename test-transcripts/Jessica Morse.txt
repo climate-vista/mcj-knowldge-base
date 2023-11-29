@@ -1,0 +1,408 @@
+Cody Simms (00:00:00):
+Today's guest on My Climate Journey is Jessica Morse, Deputy Secretary for Forest and Wildland Resilience at the California Natural Resources Agency. And our topic is wildfires, and in particular, mega fires. Jessica is tasked with coordinating California's statewide response to wildfire resiliency. Since taking her post in 2019, she has helped secure billions of dollars from the state for wildfire resilience programs. These include programs to help communities with home hardening, programs for fuel management in our forests, including healthy thinning and establishing of fuel breaks, and programs to ensure the health of our watersheds.
+
+Cody Simms (00:00:44):
+Much of what Jessica does is coordination and collaboration across state and local agencies, conservation groups and public and private stakeholders, which includes helping to streamline how this collaboration can happen quickly and effectively in order to meet the scale and urgency of the problem. And much of what she does is work with the budgetary cycles in state legislature to help secure the funding needed to ensure that these programs can happen. For those of us living in California, me included, wildfires are one of the ways that climate change feels most tangible, and it's heartening to hear how strongly the state has responded to the escalation of extreme mega fires since 2018. But before we dive in with Jessica, I'm Cody Simms.
+
+Yin Lu (00:01:31):
+I'm Yin Lu.
+
+Jason Jacobs (00:01:32):
+And I'm Jason Jacobs. And welcome to My Climate Journey.
+
+Yin Lu (00:01:39):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+
+Cody Simms (00:01:44):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. With that, Jessica, welcome to the show.
+
+Jessica Morse (00:02:00):
+Thanks for having me, Cody. Nice to be here.
+
+Cody Simms (00:02:02):
+Jessica, you have such an interesting background in that you, from what I understand, have quite literally worked in war zones and you now are helping to try to prevent the natural ecosystems of California from essentially resembling war zones with the wildfire work you're doing. I don't know if that's a fair analogy, but I'd love to hear more about your arc and what got you to the work you're doing today.
+
+Jessica Morse (00:02:29):
+Yeah, you're right, Cody. I mean, I think these are comparable and the level of intensity of these fires feels very much like the level of intensity that the community was experiencing when I was in Baghdad. And I've always come from a public service background. I'm a fifth generation Californian, grew up, our family is from Gold Run area, and so grew up in these mountains and grew up in this community. And then took all of my service abroad. I worked in humanitarian aid with USAID. And that took me to Baghdad at the height of the war for a few years. I worked with the State Department, I worked with the Defense Department, and so I've always been really drawn to trying to help communities work through crises, trying to understand complex crises and find solutions that help communities restabilize and become safe. And so with the fire crisis at home, it feels like a very similar skillset applies here. And it was my own community that was being gutted by catastrophic fire. And we needed urgent solutions to an incredibly complex problem.
+
+Cody Simms (00:03:37):
+And as I understand it, you kind of took a detour and ran for office in your community. And then it sounds like maybe you were doing some volunteering around the campfire devastation in terms of helping out thereafter. Maybe walk us through that. Was that your jumping off point to saying, this is the issue I want to spend the next chunk of my life on?
+
+Jessica Morse (00:03:56):
+Absolutely. I mean, because when I was abroad, I had worked on a wide array of issues. Everything from we encountered human trafficking, I tackled how do you support democratic reforms and giving people voices. When I worked at US Pacific Command, the focus was more on nuclear non-proliferation, which my masters had that as a focal point. And so always these sort of complex issues that really impact people. And then in 2016, it just felt like the complex issue was actually at home, that the types of crises and crises of democracy and freedoms were at stake in our own country. And so I decided to stand up for my community in the Sierra and I ran for Congress, having no experience at that, but a lot of that experience was actually listening. And I went through 10 counties throughout the Sierra and the California foothills and really listened to the struggles the community was having, but also the solutions. And the biggest struggle everyone was facing was actually wildfire, that there was a lot of fear around fires.
+
+Jessica Morse (00:05:01):
+There had already been a few big fires in these communities. I was on the ground volunteering for the Detwiler fire down outside of Mariposa. And the fires kept getting bigger, they kept getting faster, more extreme, and there were also really innovative solutions I was hearing people see about how we can actually scale up the use of prescribed fire, grazing, the capacity to be able to use woody material coming out of forest thinning projects to be able to help generate and support rural economies. But all of those solutions weren't getting seen at scale. And so, I lost the election, but several days after the election, tragically the Camp fire broke out in Paradise, which was just an unprecedented fire. And I knew I needed to help. And so I dropped everything and just went up there two days after the fire and volunteered for a month on the ground, just helping where I could. The level of trauma that I saw from people in that fire was comparable to what I had seen in Baghdad.
+
+Jessica Morse (00:06:05):
+I remember one evening I was helping with a distribution center, so helping folks get access to clothes and shoes, because this fire broke out in the early morning, and so a lot of people fled in their pajamas and two days later was still in their pajamas. And so I was helping this mom get clothes and some supplies for herself and her family. And I think it was the first time that she had paused since the fire and she started telling me how she went over to her kid's preschool to get her kid and realized that the other parents weren't going to come. And so she and a couple other moms and some of the teachers just loaded toddlers into the back of cars. And so she had all these toddlers in the back of her suburban. And she said she fled through orchards and totaled her car in the process to get out and save these children.
+
+Jessica Morse (00:06:53):
+And she just broke down crying and I held her and we just hugged and cried for a while. And I just felt like this was the scale of this climate catastrophe was the same trauma of people fleeing for their lives that I had seen in war zones, and that I had worked much of my career to try to stop people from experiencing. And here it was happening at home. And that's when I realized that all of the innovative ideas that I had heard throughout the community when I was advocating for them politically, I needed to be able to get those solutions into our actual governance system and to fund at scale the prevention work that can help mitigate these crises. Because we know there's solutions, and it was just a matter of how do you actually scale it?
+
+Cody Simms (00:07:39):
+First of all, thank you for sharing that story. There are no words really. And thanks for gracefully describing what you saw and experienced there. All my thoughts are for those families that they've managed to recover as best as they can, of course. How did you go from that experience to essentially running these programs for the state of California? That's a big leap. What did the next year or two look like as that was happening?
+
+Jessica Morse (00:08:03):
+I was really grateful to have the opportunity to join the administration as the governor came in. One of the things that was helpful is that my wildfire platform when I was campaigning was fairly complex, because I'm a policy wonk. I went to policy school, I have a policy background, this is what I do. And so, the governor used a lot of my wildfire platform as his wildfire platform. And so, I raised my hand and said, I'd really like to support this crisis. And they had a gap and they had never had anybody do at scale leading the effort on resilience, really not just the suppression side, but the preventative work of wildfire. And so I was really honored to be selected as a deputy secretary to be able to come in and help develop the Wildfire Resilience program for the Newsom administration.
+
+Cody Simms (00:08:46):
+Was this an existing deputy secretarial seat or was this created as part of Governor Newsom's wildfire plan?
+
+Jessica Morse (00:08:53):
+Yeah, it was an adapted position. They took a position that had been for timber permitting and we turned it into a deputy secretary for wildfire resilience.
+
+Cody Simms (00:09:01):
+I want to go all into the fire problem, but before we do, just for some context, what is the CNRA, the California Natural Resources Agency, and what's the scope of the organization?
+
+Jessica Morse (00:09:13):
+Yeah, California National Resources Agency actually has over 20 different departments in it. It includes CAL FIREs, State Parks, Department of Water Resources, the California Conservation Core, Department of Fish and Wildlife, so a lot of our conservancy departments. It also has the California Energy Commission. And then it has a lot of our boards and commissions as well as all of the state conservancies, like the Sierra Nevada Conservancy, the Tahoe Conservancy, the Board of Forestry. So I work with all of these different departments and the agency is divided into different deputy secretaries. There's one that has an Oceans portfolio. There's one that has the energy portfolio. There's one that has the water drought portfolio, somebody has biodiversity, and then I have the wildfire and forest resilience.
+
+Cody Simms (00:09:56):
+This is an executive branch of the government. So the secretary, I believe Crowfoot, reports direct to Governor Newsom?
+
+Jessica Morse (00:10:03):
+Yes, really grateful to have a great leader in Secretary Crowfoot who sits on the cabinet and really helps drive a lot of these initiatives.
+
+Cody Simms (00:10:11):
+And so, you work with other government agencies across California, you work with private landowners, you work with federal landowners. I'm assuming your scope is kind of across the board there?
+
+Jessica Morse (00:10:20):
+Absolutely. I mean, California's a mosaic of land ownership types, and wildfire is not pausing and asking for deeds and titles. So regardless of whether it's local land, if it's a private small family landowner. The federal government owns about 56% of California's forest land and about 40% of it is privately held. And of that, about 26% of the total land ownership is actually small family landowners. So there's this whole mosaic. The state actually only owns about 3% of the lands in California.
+
+Cody Simms (00:10:55):
+56% federally owned forest. Is that relatively high? I would think it is.
+
+Jessica Morse (00:11:00):
+I mean, not compared to Montana, but sure, maybe if you're talking about, I don't know, Washington DC. Actually, maybe that's a bad example. I think they might be 100% federal.
+
+Cody Simms (00:11:11):
+And then how does it relate to CAL FIRE itself? And maybe describe what CAL FIRE is and what your department is relative to each other.
+
+Jessica Morse (00:11:17):
+Sure. The Natural Resources Agency is the parent agency. It's the cabinet agency for all of these departments, including CAL FIRE. So CAL FIRE is our largest department. The Natural Resources Agency has over 20,000 employees. CAL FIRE makes up about half of that. And so, I work very closely with CAL FIRE.
+
+Cody Simms (00:11:33):
+And CAL FIRE is the actual response unit, is that correct or incorrect?
+
+Jessica Morse (00:11:37):
+CAL FIRE is over 100 years old. They are our Department of Forestry and Fire Protection, and so they have a couple wings within them. One is all of the fire suppression work, and they work with local counties and organizations, but we've been really working to increase their suppression capacity. Those are the firefighters on the ground that put out the fires, the aviation equipment such as the helitankers that have the water capacity of a C-130. So when there is a fire, CAL FIRE is often your first responder and they'll partner with Forest Service or local fire agencies to come do that. And then, CAL FIRE also has a natural resources wing. Because they are our Department of Forestry, they actually have state demonstration forests and really work on ensuring that our forests and wildlands are healthy and we do science and studies and they are truly our forest experts in the state.
+
+Cody Simms (00:12:30):
+Got it. And then you've been working to basically build out the policies and secure the funding for said policies of what resilience looks like in our California forest, from what I understand. Is that the right way to think about it?
+
+Jessica Morse (00:12:42):
+Exactly. And really, how do we scale this up in a way that's cohesive? So I can kind of explain fire resilience. What's nice is that a lot of the ideas were here. CAL FIRE had different pilots, State Parks had programs, Department of Fish and Wildlife had programs, and we had different various programs and projects that were demonstrating that this is viable work, that when you do fuel breaks, CAL FIRE has units that go out and do fuel breaks around communities. They know that those work. And so the question is, how do we scale up to meet the scale of the crisis we're facing? Because until 2018, you just hadn't had mega fires as a regular occurrence. And every year, we've been just breaking record after record until this last year. And so when you had, I think, almost 7 million acres of the state had burned between 2018 and 2021, and that's just unprecedented. 2021, we hit the first giga fire. So that's a 1 million acre wildfire.
+
+Cody Simms (00:13:44):
+That's not a good milestone.
+
+Jessica Morse (00:13:45):
+No, I mean, and there's some science behind it, which I can explain if that would be helpful?
+
+Cody Simms (00:13:49):
+Yes, please do. And that was going to be my next line of questioning is like, what's causing this mega fire phenomenon? So go for it. I'm going to let you run with it.
+
+Jessica Morse (00:13:57):
+Then we can get back into the programs. There's some interesting science and history that I think is really fascinating for Californians and anyone to understand. So California actually is a fire adapted ecology, that most of our plants and native species actually need fire to come through at certain intervals and a certain temperature to be able to seed, produce. But what's been happening is that that's out of balance. So California Native American tribes would actively manage with prescribed burning and cultural burning for millennia. Based on historical records and estimates of emissions, it looks like there was between four to 12 million acres in California that was burning annually way back in the little ice age, but at a fraction of the emissions, which means those were low intensity fires.
+
+Jessica Morse (00:14:40):
+So we're talking about, like the picture you have of a prescribed fire you have behind me. It's like small flames, they burn through and it kind of functions like cleaning. Just like we need sort of a certain amount of water to function, but when you get too much, it's destructive. And so that was in balance until colonization and then cultural burning practices started to end with colonization. And then you had the gold rush come to California, and there was a lot of clear cutting of these fire resilient forest. And so things like the Comstock load sort of wiped out the old growth in the Sierra.
+
+Cody Simms (00:15:12):
+And these are mega flora, right? What we think of as the sequoias or the redwoods were actually quite common throughout, not all of the state, but large portions of the state, as I understand it.
+
+Jessica Morse (00:15:21):
+Absolutely. They had a huge range and 97% of them were wiped out in this gold rush era clear-cutting. Trees that came back were more homogenous, like the Jeffrey Pines, and they were planted really densely. And then what should have happened is that natural fire should have come through, started thinning them out, and getting them back out to that wide open structure. Because the natural structure for these forests is closer to 40 trees per acre, if you're looking at the Sierra, and right now we have often closer to 400 trees per acre. And so these are supposed to be well spread out big trees with what we call multi-age class. Some little trees, some big trees.
+
+Cody Simms (00:16:00):
+You're talking like trees with multiple feet in diameter, and instead, today, you're talking trees with inches in diameter, I'm guessing.
+
+Jessica Morse (00:16:06):
+Exactly. Because they're too dense, right? They're too dense, they're competing. And so you have these older trees that are really tiny and weak. And so, there was a policy that was made in the early 1900s. There was this big fight over the conservation movement, this radical concept of maybe let's have public land. And Congress in the early 1900s did not like the conservation movement. So even though the Forest Service was established to be able to protect these public lands, Congress did not like having an enforcer of public land, and so they refused to fund the Forest Service. And so the Forest Service was kind of limping along.
+
+Jessica Morse (00:16:43):
+And then there was a big burn across four states, I think around 1910, and it really caught Congress's attention. And the Forest Service were incredibly heroic in being able to protect some of these towns and save lives and get people out. And what ended up happening is that, then you had political leaders who were still in the mix like Teddy Roosevelt and Gifford Pinchot who came in and said, you know what? If we frame the Forest Service as a fire suppression entity, we can get that funding through Congress.
+
+Cody Simms (00:17:14):
+Funny how times change, right? It was a Republican administration and a Democratic Congress that was fighting in this case.
+
+Jessica Morse (00:17:20):
+Exactly. And so, what was interesting to me though and has been a guiding light for me is that they understood that fire had an essential role in the landscape, but they were willing to put in this full suppression policy. They called it the 10:00 AM policy, where the Forest Service would put out fires by 10:00 AM the next day. And so, put in this whole sort of Smokey the Bear fire suppression campaign that was popular with Congress and so it got the Forest Service the funding. So on the one hand, we got to keep the conservation movement and this public land, which is really helpful, but they made a scientific trade off that now 100 years later we're paying for. Because they removed the natural role of fire, which was designed to keep these forests and ecologies healthy, it led us to the intensity that we have of the dense structure of trees.
+
+Cody Simms (00:18:07):
+And these were forests that had already, well, in many cases, hadn't yet been clear cut if you're trying to conserve what was left, right? But I guess also in the clearcut forests, there are newly declared conservation zones that weren't probably regrown back in a controlled way, I'm guessing, is what I'm hearing.
+
+Jessica Morse (00:18:23):
+Yeah, there was a lot of clear-cutting on even the preserved and public land that was set aside. And so that's where you get these highly dense forests. Like the old growth forest structures were a little bit more stable and sturdy, but it's hard to see, right? You have some in South Lake Tahoe that you can go see and there's patches of old growth Sequoia groves, we have about 90 some odd throughout the state, but there's not very many. So the majority of the forest ecology then, what grew back, were these weak trees. And now they're too dense because fire isn't helping thin them out. Then fast forward and add climate change.
+
+Jessica Morse (00:18:56):
+So on top of a weak tree structure, you are now getting more and more extreme conditions, extreme heat, extreme drought. So these trees are competing with each other. And what we saw throughout, particularly in the Southern Sierra, but now in the Northern Sierra, you started to see the trees succumb to drought. And it often comes in the form of the bark beetle. So you get different pests coming in like the beetle, which is a native species, but usually dies off in the winter. And also, trees use their sap to be able to push it out. But drought stricken trees didn't have enough sap to push them out, and so you often saw trees succumbing. And so we had 169 million trees die between 2015 and 2020 from the beetle kill pandemic throughout the Sierra.
+
+Cody Simms (00:19:42):
+In many cases, these aren't hauled off. They're just laying dead on the land basically serving as kindling.
+
+Jessica Morse (00:19:49):
+And that's what's caused the crisis, because you now have that compounding factor of these dead standing trees. And these can be small skinny trees, these can be big. And so we often do fuel loading models at like three inch diameter wood is on the ground to drive a fire. Well, by 2020, those dead standing trees started falling over. And you had 30 inch diameter wood driving the speed of a fire. And so, when we had the Lightning Complex, 11,000 lightning strikes started 1,000 fires, you then had us get kind of overwhelmed in that summer of 2020. And on the heels of that Lightning Complex, by September of 2020, I think the Creek Fire really illustrates all of these compounding factors. Because you had in the southern Sierra around Shaver Lake, you had overly dense forests, you had high intensity tree mortality, in some cases on that federal land, 90% tree mortality, and then extreme drought and extreme heat.
+
+Jessica Morse (00:20:48):
+So those dead standing trees started to dry out and we got down to a fuel moisture around 6%. And just for perspective, kiln dried, professionally dried wood, right, kiln dried wood for lumber is 12% moisture. And so these heat waves that came through just dried out all that dead wood. And a fire struck in September of 2020, it was the Creek Fire, and it created a heat signature on that fire that was off the charts. And so, usually when a fire's burning, it's kind of smoldering in the middle and you have an active flame in front. The middle is cool, but the flame is moving outwards. For this fire, you actually had active flame throughout the entire acreage of the fire. I mean, so that's tens of thousands of acres of hot high intensity fire all at the same time. It created a pyro cumulus cloud that went 50,000 feet into the air.
+
+Jessica Morse (00:21:43):
+And you've seen these, if you've been driving during fire season. They look like kind of a, it's not just the smoke, it's actually a weather system that's going straight up. And that pillar would collapse and then push out hurricane force winds in a diameter from the fire making it in. So growing the fire dramatically in its footprint every time that would collapse. It was also throwing off other lightning and fire tornadoes. These heat signature driven fires are incredibly difficult to fight and incredibly difficult to evacuate from. These are the conditions that are off the charts because of all these compounding crises that start with that 1905 decision.
+
+Cody Simms (00:22:24):
+So you have forests that are too thin and too dense or weak, there's drought, they become susceptible to beetles and diseases, it causes them to die and then it's hot and dry, which causes the wood to be much drier than normal and you end up with just basically kindling laying everywhere. Going forward, it sounds like there's a few big things that I'm hearing. One is you cited this example of the Camp Fire that had this kind of perfect storm of horrible conditions. So part of it sounds like the job is find other locations like that around the state that need to be cleaned up so that you're not leaving all of this kindling laying around.
+
+Cody Simms (00:23:02):
+It sounds like part of the job is, how do you identify forests that need to be thinned so that they can grow and get thicker and not be subject to the things that cause the campfire conditions, right? So before the trees die and fall over, how do you help them out? And then how do we help all of us continue to live in areas where these risks are inherent anyway? To me, it sounds like those would be the things to do. I don't know if those are your priorities, but I want to hear from you what your policies are.
+
+Jessica Morse (00:23:32):
+Yeah, you got it. That's the beauty of this. This is complicated, but it's not rocket science and what to do is clear. So there's really three fronts that establish resilience. And by resilience, I mean that the community and the ecology can not just survive, but actually continue to thrive even in the face of the more extreme weather conditions we're facing. So the goal is to get these mega fires to be a thing of the past, but to restore natural fire back to the ecosystem and have the communities be able to withstand that. So there's kind of three fronts of resilience. In your head, think of them as concentric circles.
+
+Jessica Morse (00:24:04):
+So the innermost circle is interventions inside of the community. So that's going to be home hardening, defensible space. What we learned from Paradise is that homes sadly burned from the inside out during a fire. It's embers getting into the attics or vents. It's plants burning right next to the home under a window that then causes the window to burst and then the flames get in. So that defensible space and home hardening helps kind of ember-proof the home and take anything that's going to be flammable and put that heat right on the home away so that your house actually has some space when a fire comes through that you're going to lower the heat signature on the structure.
+
+Cody Simms (00:24:41):
+Are there construction requirements going forward around, for example, wood shingle roofs and things like that? Is that becoming a policy arm in California?
+
+Jessica Morse (00:24:49):
+Yeah, actually, it's integrated now into our new building codes. So homes built after 2008 have to comply with chapter 7A building codes which incorporate these home hardening standards. Things like double pane windows, certain mesh density on vents. CAL FIRE actually has a whole app that I'll send to you that allows somebody to go around and kind of take a look at your house and see what you can do to make your own home more wildfire resilient.
+
+Cody Simms (00:25:15):
+Oh cool. We'll try to put that in the show notes. So that would be awesome.
+
+Jessica Morse (00:25:17):
+Yeah. And there's a lot of great information on also how to do that defensible space around your home. And we've been working with the master gardeners program through the UC extension that helps us do wildfire escaping, so fire landscaping, so that your homes can be beautiful and fire resilient. So those interventions inside of the community are really critical. And we saw, I mean, in Paradise in the Camp Fire again that you're getting those gale force winds coming through, incredibly high intensity hot fire. Once it started burning the houses, right, the heat signature goes way up and it's really hard to stop. But we saw that houses that were built with the chapter 7A building code had about a 60% survival rate, those built after 2008. The houses built before 2008 had a 10% survival rate. The key for a community is actually reaching that saturation level. When you're getting 80, 90% of the homes in a neighborhood with those defensible space and home hardening standards, it's much harder for house to house ignition.
+
+Jessica Morse (00:26:18):
+Exactly. So the interventions inside the community are one. Then you have interventions around the community, so that's strategic fuel breaks. Don't think of a bulldozer line, but think of somebody going through and thinning out the forest to its natural density or thinning your shrubbery, so that when a fire comes through, it drops its intensity. And so those fuel breaks are really important, because they're often done along the side of roads, which allows communities to evacuate during big fires. So in that Creek Fire, one of the main reasons people escaped is because the governor had tasked us to move very quickly on emergency fuel breaks and we had put in five in that Shaver Lake community. And those were the evacuation routes people used even in the face of one of the most extreme fires we've seen. So we were grateful not to have lost any lives in that fire.
+
+Cody Simms (00:27:06):
+My understanding is, sometimes in some of these mega fires, like the highway itself is actually almost flammable, right? Because of just the heat density around it. I don't know if that's actually accurate, but it certainly can't drive through the fire along the highway.
+
+Jessica Morse (00:27:18):
+That's a good way to think about it. And that was one of the lessons from Paradise, right? We had 85 deaths in Paradise, and a number of those were on roads, because people couldn't escape because the flames were actually melting their car tires and the heat signature was too intense. However, the roads that people did use to evacuate, there had been fuel reduction done on that Skyline Drive that allowed people to actually escape the trauma that we saw people stuck in traffic as they're escaping with flames on either side. They were only able to do that corridor because there had been fuel reduction along that road, which meant the flames were a little bit further off, so you weren't getting those direct flames on people evacuating or on their vehicles, even though it was terrifying and traumatizing for everyone. So anyway, we do a lot of fuel reduction along roads so that you can have those evacuation corridors, even in extreme conditions.
+
+Jessica Morse (00:28:07):
+And then we also use fuel breaks for staging areas, for firefighters. So that's an area where they can take a stand safely around a community. So there's a fuel break outside of Paradise that actually stopped the fire from going into Sterling City. It was an eight mile long fuel break. I walked into it a week after the fire, and everything on one side of it was black and on the other side the trees were still green. And we saw this over and over. I mean, in the Caldor Fire around Tahoe last year, we had worked really hard to get a whole network of fuel breaks in Christmas Valley and in Southlake Tahoe in that Tahoe basin and had done very fast work in there. And firefighters were seeing flame lengths of about 150 feet coming across Echo Summit down into the valley, into the Tahoe basin. And I mean, that's a 15 story building of fire moving at them.
+
+Jessica Morse (00:28:56):
+And this fuel break was only a couple hundred feet wide, but miles long around the community. And I could see it there where I went and checked it out about a week later, and it was again blackened forest where it had been that high flame length. When it hit the fuel break, again, it's thinned forest, right? It's still trees. When it hit the fuel break, the fire went down on the ground. And so then the flame lengths dropped from 150 feet down to 15 feet and that's a lot less hot. So firefighters could then approach the fire close enough to be able to actually lay their hose and protect the homes. And I mean, this went right up next to homes.
+
+Cody Simms (00:29:35):
+And on the fuel break question, how much of it is trees, right? We talked about the trees that were too thin and too weak, and weren't their natural sort of size. In Southern California, we have large brush clearance requirements each year to do on property, which is about cutting down larger grasses and weeds and underbrush. I assume it all matters, but when it comes to forest management, you're mostly focused on the trees themselves. Is that accurate or no?
+
+Jessica Morse (00:30:00):
+All of the above. So everything you were just describing of the grasses and the shrubbery or the dead material, we call that ladder fuel. So that's the fuel that the fire climbs to get into the tree canopy, which is what kills the trees. And so, the goal is to get that ladder fuel out. That's what natural fire is supposed to be doing in California, and then the next layer of goal is to ensure that then the forest is thin enough, so the density of the trees, right? There's like, again, back to that 40 trees per acre rather than 400, so that they have the water that we have. They have sufficient water, they're not competing with each other and then dying.
+
+Cody Simms (00:30:34):
+What you don't want is fire up in the canopy where the underside of the canopy is all dead limbs and everything anyway, and then you've got fallen trees underneath that and just the whole thing is flammable up and down the stack basically.
+
+Jessica Morse (00:30:46):
+Exactly. Because pine forest, including leaving at oak woodlands, they're designed to have fire come through, they drop their lower limbs, so that fire actually can't, when you walk through sort of a healthy pine forest, the limbs are very high up. And so they drop their lower limbs as they're growing so that fire actually can't climb up and get into the tree canopy, right? It's ecologically designed for low intensity fire to come through. So that's your goal is to clear out those sort of flashy fuels and the undergrowth so that when fire comes, it just burns at that healthy intensity. And so a lot of what we call shaded fuel breaks are actually just restoring native plants. So whether it's conifer trees or more fire resilient grasses back in, so that when fire comes through, it burns at that low intensity level rather than the ladder fuel canopy.
+
+Cody Simms (00:31:34):
+Okay, so we talked about home hardening and sort of community resilience, we talked about fuel breaks and forest management, and then there's a third category of resilience, I think.
+
+Jessica Morse (00:31:42):
+The third one is actually across the whole landscapes. And this is where our forested watersheds and our wildlands are really crucial, because we have native shrub lands and grasslands and rolling oak woodlands and a lot of different eco zones that are fire adapted and require different fire treatments. And so the goal is to get these large landscapes treated for fire so that they are healthy and resilient. One of the reasons this is so crucial is because California's forested watersheds are the start of our water conservation and our water infrastructure. And so, this is a natural infrastructure, right? 60% of California's water starts in the Sierra. And a lot of that isn't just stored in the snow pack. It actually comes in, percolates into the mountain, into underground aquifers, and then percolates out throughout the rest of the year. So our reservoir capacity kind of pales in comparison to what the mountain itself can store when it's functioning well.
+
+Jessica Morse (00:32:41):
+And so part of the devastation we've been having with these catastrophic fire seasons is, in addition to the devastation to communities in California, it's the devastation to our natural infrastructure and the functionality of our watersheds. The 2021 fire season was incredibly hard because we had high severity, so meaning really hot fire, that went up and over the crest of the Sierra. That was for the first time in pyrologic history, it had never done that before, until August of 2021 with the Dixie Fire up in the Northern Sierra. And then it did it a couple weeks later with the Caldor fire. Never before has fire crossed over the 500 foot granite cliffs of the Sierra. And this fire, everything was so dry and it was so intense that it actually managed to climb up and over the Sierra.
+
+Yin Lu (00:33:34):
+Hey everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our NCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community.
+
+Yin Lu (00:34:03):
+A number of founding teams have met, several nonprofits have been established and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+
+Cody Simms (00:34:34):
+I'm guessing in terms of negative feedback loops, then you get to the point where these mountainsides are basically burned dry to where they're just bald, which then enables the hot sun in the summer to dry up any underwater reservoir water that's residual from whatever winter rains or snows that we got. It sort of prevents the natural sort of water storage from happening. Is that the right way to think about it?
+
+Jessica Morse (00:35:00):
+It's a couple levels of it. So one of the things that happens with a really high severity fire that we saw in the Dixie Fire footprint, and again, the Feather River watershed is the headwaters of the whole state water project. So this burned at incredibly high severity. It created something called hydrophobic soil, so that's where the soil kind of turns from something permeable to almost a clay layer.
+
+Cody Simms (00:35:20):
+So it chemically changes the soil as well, basically. Wow.
+
+Jessica Morse (00:35:23):
+Yeah, it can. And so we saw hydrophobic soil. So it actually rained 11 inches when it put out the Dixie Fire in 2021. And you go to these spots, we went to these spots where it had rained, and you pull back that clay layer, it's dry underneath. None of the water is actually permeating through that clay layer. And so, instead, all of the water and all of the silt is just running off rather than having a permeable spongy mountain that can kind of take in that water. And then to your point also, it changes then the vegetation type. So we see it converting from more lush conifer trees to, not invasive shrubs, but shrubs that are outside of their natural range.
+
+Jessica Morse (00:36:02):
+And so you'll get chaparral and Manzanita really taking over, which are oily and they burn really hot, and then you have the dead trees that were left behind from the fire. And so you actually then create these high severity feedback loops where the forest then can't recover because you now have the ignition. So you have sort of a catalyst for the fire in all of the oily shrubs and then all of the fuel with the dead tree stumps and tree bodies that are left behind creating these high severity fire loops. So once it burns, it means unless you recover it, it's going to be very likely to burn again.
+
+Cody Simms (00:36:37):
+Yeah. And then without the natural shade of a natural tree, it's just harder for the ground to recover. In California, I mean, the difference in the summertime between being under the shade of a tree and being out in the sun can be incredibly different. So you imagine that at scale and all of a sudden you have a hard time for an entire area to regrow properly, I'm guessing.
+
+Jessica Morse (00:36:56):
+Yeah. What's exciting though is that if we can get the tree, the forests that are alive when we reforest, down to more of the natural structure for these ecological conditions, again, closer to that 40 stems per acre rather than 400, that actually not only makes the trees more resilient, but it means that there's not water being wasted at the top of the watershed. With weak trees sucking up the water, you have less water coming down. And so what we see when we do these forest health and fuel reduction projects is actually dry streams start flowing even though there wasn't any rain. So I was at one in the foothills in August of, I think this was probably 2019 or something, and the Conservation Corps had just gone and cleared out a bunch of the undergrowth and some of the invasive blackberries and cleared it back out so that it was kind of mixed oak conifer and they were pretty widely spaced.
+
+Jessica Morse (00:37:46):
+And they said that there had never been water in that ravine before. And suddenly, they were like, four days ago, this thing just started flowing, because all of the water and the soil that had been getting sucked up by these plants that aren't supposed to really be there because fire is naturally supposed to come and take them out, once they got removed, water started coming down. So we actually increase our water yield when we get our forested ecologies functioning at the right level. I mean, forest hydrology is phenomenal and a huge asset for California.
+
+Cody Simms (00:38:15):
+Inspiring to hear, but so much work to do. You came into the office in 2018, I think. Somewhere around there.
+
+Jessica Morse (00:38:19):
+2019, yeah.
+
+Cody Simms (00:38:19):
+'19. And what has changed? So I know a lot more money has flown into the problem, which I assume you've had a role in helping to unlock, but what have been the process over the last few years of establishing these policies? What of what you just walked through is relatively new versus what was known but just underfunded? Walk us through the last five years.
+
+Jessica Morse (00:38:41):
+Absolutely. So we came in and one of the governor's first declarations was we have to get more fuel breaks on the ground. Let's go. And he tasked CAL FIRE to really dramatically increase their output. He created an executive order that waived some of the environmental and process regulations so that we could just get fuel breaks on the ground fast,=, and I'm so proud of CAL FIRE. I mean, they did it within a year. Projects that used to take five years, they were out working round the clock and got emergency projects on the ground. We increased acreage treated that year from, I think it was closer to 60,000 acres the year before, to 110,000 acres.
+
+Cody Simms (00:39:16):
+Is there tension with conservation orgs when doing that?
+
+Jessica Morse (00:39:19):
+We brought them in and had a good conversation. Actually, I can really get into that if you want, but let me tell you, let's put a pin in the regulatory conversation because, from a policy wonk perspective, it's my favorite thing to talk about. But I want to give you the whole picture first. And so we did these fast fuel reduction projects around the state. We had CAL FIRE, National Guard, Conservation Corps. They were working through the heat of the summer up to their ankles in poison oak and poison ivy, and they completed those fuel breaks. And so when the devastation of the 2020 fire season rolled around, most of those fuel breaks actually came into play and saved lives. And so, it demonstrated to us that when we move fast, that it allows us to keep pace with the crisis, even though 2020 was just beyond the pale, right?
+
+Jessica Morse (00:40:03):
+The sky turned orange and the entire state was sitting in smoke for months. We had a quarter of a million people evacuated. And this is in the midst of the pandemic. We went from having what we thought was going to be a budget surplus where we could fund a lot of this to a dramatic $56 billion budget deficit in the pandemic. And so suddenly, everything went into emergency mode, and so the proactive work had to slow down because we were just in crisis. And so in 2021, we said enough, and was so grateful to the support of the governor and the legislature and realized that we needed to dramatically upscale the preventative work to be able to make an impact in these fire seasons.
+
+Jessica Morse (00:40:42):
+So we needed to increase our action across those home hardening, defensible space inside of communities, investments around communities like the fuel breaks, and then these large landscape scale projects that help restore the natural role of fires. The fires don't gain that momentum that's so devastating. We went and put together a proposal for $1.5 billion investment. We asked for emergency funding and an emergency appropriation in April of 2021, so outside of the normal budget cycle, so that we could just get going. We needed projects to get on the ground quickly.
+
+Cody Simms (00:41:14):
+Does that have to go through state Congress and Senate?
+
+Jessica Morse (00:41:17):
+It did, yeah. The legislature got behind it and supported it. This is what I spend most of my time doing is putting together these budgets and trying to get the money and making sure the right programs are in there and advocating for that. And so we really got sort of knee deep in budget negotiations and were able to get an emergency appropriation of $500 million to be able to get going on the scale of fuel reduction that was needed in April of 2021. And so, we also, with that authorization, we were able to change state contracting law for this funds so we could get our projects on the ground within a 10 day turnaround for contracts. That used to take a year. We had already established some of the regulatory reform that I'll talk about so that projects weren't getting caught up in regulations and we worked with all of our departments to make sure that that funding got out quickly.
+
+Cody Simms (00:42:03):
+Is that annual funding or is that a one shot deal?
+
+Jessica Morse (00:42:05):
+It initially started as one time. It's now turned into almost $3 billion over three years. And so this program that started with that 500 million and then in April of 2021 followed with a billion dollars in September of 2021. We just got another 600 million for it last year, and we'll get another 600 million proposed in front of the legislature. Gets us up to $2.7 billion over three years for wildfire resilience.
+
+Cody Simms (00:42:32):
+What was the scale of capital before?
+
+Jessica Morse (00:42:34):
+The first time there was ever wildfire resilience specific funding was 2021, and that was $200 million. And so we've just gone from 200 million to almost $3 billion.
+
+Cody Simms (00:42:45):
+Zero to 200 to three it sounds like.
+
+Jessica Morse (00:42:47):
+Exactly. And so this is really scaling up quickly. And one of the things we did that was innovative too was to ensure that it was all hands on deck, that CAL FIRE wasn't going to be just left holding the bag and trying to figure it out on their own. CAL FIRE's incredibly capable and has some big programs to do this, but to hit that scale of resources, you needed to have everybody that had been getting fire grants before to actually just get their own direct appropriation. So we had funding for State Parks and Department of Fish and Wildlife so that they could just go ahead and make their own state lands wildfire resilient so that wasn't causing anxiety for communities, or tragedies like the Big Basin that burned where we're not losing these really precious ecosystems. We gave funding to all of the state conservancies like the Sierra Nevada Conservancy, and they all have a regional area. So like the Santa Monica Mountains Conservancy down in Southern California.
+
+Jessica Morse (00:43:39):
+We gave funding to all of the state conservancies so that they could get direct projects on the ground into their areas. We also gave funding to regional collaboratives so that we can ensure that, whether it's state, federal, local land, that you could have these pipelines of projects ready to go. And so we're now kind of two years into this huge program that invests, again, in home hardening, defensible space, fuel breaks, all of these state agencies doing landscape scale projects as well as the workforce. The wood innovation that's needed to drive the economies moving this, the regulatory reform that I'll talk about in just a second. Also, science and technology are invested in here so that we ensure that we are doing it right and so that we're monitoring these programs. So we've got 1,200 projects now on the ground, and those came into play in a huge way in the last two fire seasons.
+
+Jessica Morse (00:44:31):
+We had a handful of projects on the ground from that April funding, which we had told everybody, okay, when you get this funding, I want to see projects completed by 2022 fire season. Some of the departments went really fast, like Department of Fish and Wildlife and the Coastal Conservancy and CAL FIRE, and they were able to actually have projects on the ground that came into play in the fire season of 2021. And like I said, it used to take five years when a project would get funded for it to become realized. And so, for us to be moving this fast was really deliberate, and just a huge effort from all of these departments being creative and innovative and willing to get things out the door. The Department of General Services was willing to be creative with us on getting our contracts through quickly. We changed our grant programs so they could move quickly.
+
+Jessica Morse (00:45:18):
+That first round of funding, we focused on projects that were what we call shovel ready, so that had all of their planning and environmental review already done so that we could just get them on the ground. And it's made a huge impact. The fire season 2021 versus 2022 was dramatically different, and it wasn't just luck of the weather. We did have some breaks in the weather, but not initially. In 2022, we had 366,000 acres burn, and sadly about 700 homes were lost in 2022. In 2021, we had 2.5 million acres burn and about 3,000 homes lost. And so you look at this kind of trend line, and a lot of that was because these fires, there was two factors in 2022 that made the difference. The fires were starting to hit these fuel breaks that we'd put on the ground. There was a fire called the Oak Fire up near Placerville that never made the news, but it was spotting about a half a mile in advance of the flaming front, which is the conditions for a mega fire.
+
+Jessica Morse (00:46:15):
+I mean, that's kind of what Paradise was doing where the new fire, the embers were going so far that it was creating kind of a new fire half a mile in front. And it spotted right into a fuel break that we had put in that year, and it was able to then contain the fire quickly. Same with the Electra Fire in Amador County. That one was getting very big. It hit a fuel break in some rolling oak woodlands where the shrubbery had been taken out and it was just oak and grass, and so it burned low intensity under the grass. The oak trees were still there, and that was able to be the big containment line that the firefighters were able to then build off of to contain the rest of the fire.
+
+Cody Simms (00:46:52):
+My background's in tech and sort of scaling companies, and one thing I observe is when a company raises a giant round of funding and all of a sudden has all these resources, it can't hire fast enough to save its life. That becomes mission number one is how do you get the right people in the door to help us grow according to the expectations we have? How in the world is the state finding the vast number of people needed to do these critical projects?
+
+Jessica Morse (00:47:17):
+Absolutely. I mean, workforce development is a really critical piece of this, and so, there's kind of two layers to it. It's like, one, how does the state, even as these departments go from a $200 million budget to a $1.5 billion budget, sorry, 2.7 billion, thinking last year. And so, how do we scale up that dramatically? And so that's where this Wildfire Resilience funding is actually spread across 40 different programs across 22 different departments, because we needed everybody to be doing their part and playing their role to get these projects on the ground as quickly as possible. Another element of it is that we are really leaning on partners to get these projects on the ground. So we did some of our own internal expansion, right? We expanded the Forestry Corps through the California Conservation Corps, bringing in vulnerable youth to careers in this space. CAL FIRE was able to hire more permanent crews to be able to get this work done.
+
+Jessica Morse (00:48:07):
+We actually funded the National Guard to go out and do this work as well. So these were kind of the ready to go crews that we had. And then we have a program called the Regional Forest and Fire Capacity Program that has worked with all of these local collaboratives and partners like the resource conservation districts and counties, the local conservation corps, local environmental groups that then had project pipelines ready to go. And so, when they said, okay, we are the local partner, we would give them a grant to then fund the local efforts on the ground. And so, we basically took everybody that had a massive or a prescribed burn program or goats and tried to fund them to do this work as quickly as possible. And it's been an all hands on deck.
+
+Cody Simms (00:48:51):
+I've seen the news articles about the goats. That's pretty cool by the way. People are using goats for brush clearance. It's amazing.
+
+Jessica Morse (00:48:59):
+We call it prescribed herbivory. The goats are excellent because what it was, particularly in post-fire conditions they're really important, because they'll come in and eat the shrubs. When the forest is trying to convert is potentially when you get that much sort of sun and dead trees and it's dry, it's more likely that you'll get chaparral and Manzanita and some of these shrubs coming in in the wrong ratios. And so the goats will actually come and eat those shrubs when they're still green shoots, unlike sheep and cattle tend to ignore those sometimes. And so it's been really nice. And also, goats can get into neighborhoods in a way that's really helpful. So a lot of our fire prevention grants fund goats for neighborhoods. So if you're ever in the Berkeley Hills or Roseville, you'll see goats kind of chomping along the side of the road, and that's what that is.
+
+Cody Simms (00:49:45):
+I love it. Next question I have for you is, what happens with all this woody biomass? You're out cutting limbs off trees and thinning trees and picking up the dead trees, and this stuff's not easy to move around. It's heavy. From where I sit with climate tech, there's lots of incredible companies that are using this as raw materials to do carbon sequestration or biomass to energy projects and whatnot, but how are you organizing and coordinating all of that?
+
+Jessica Morse (00:50:09):
+Yeah, so there's some big investments we've made trying to have the government role be to actually help move the wood economy along and jumpstart it. So we're trying to be somewhat agnostic on the technology because there's new technology on the horizon, there's existing technology. We need all of it to be able to use this. And so, what we've been hearing from folks in the field is that the feedstock supply chain, so the supply chain of this woody material, needs to be more predictable and stable and have a longer horizon. It's also very expensive to transport it, and so we're trying to get to a point where we can actually start, and also access to capital to be able to start new businesses in this space is really expensive. So you need that feedstock predictability and access to capital to be able to get going in this space.
+
+Jessica Morse (00:50:56):
+The challenge is, the state doesn't own our own land. We're given out these grants, and so you can't give a 10 year supply agreement on a one time grant on someone else's land. So what we did on the state side is change time length on our appropriations. So it went from two years of having the dollars would expire after two years to seven so that we can give out bigger grants across larger landscapes. And then those grants can give out a seven year feed stock and supply agreement, a seven year contract for people to come do the work, to create a stabilizing impact with all that funding so that it stabilizes this force. We also invested in the climate catalyst fund, so that's large loans that are low interest through the state infrastructure bank, specifically for any type of wood product. So whether you want to open a sawmill or mass timber, which takes small diameter wood and manufactures it into something that replaces steel and concrete in skyscrapers.
+
+Jessica Morse (00:51:52):
+We changed our California building codes, so you can have up to 18 stories of mass timber. We're also piloting these feedstock brokerages. It's regional aggregators of woody materials. So someone else goes, it's like a joint powers authority if you want to get really technical, but you can think of it like kind of a broker. So they'll go and find the woody material off of all of these small projects and then give out the 10 year supply contract and guarantee needed to be able to start these businesses. One thing we tried this year too was actually funding a subsidy for transporting the slash piles that have been left behind. The Forest Service estimated there's about 400,000 slash piles in the Tahoe basin alone. Those are getting cleaned up. That's a couple years old.
+
+Cody Simms (00:52:35):
+Because that's just pure fuel, right? If it just sits there, it's-
+
+Jessica Morse (00:52:39):
+It is. We have to dedicate entire engine crews to these slash piles during a fire crisis. We're not talking like a little pile that might fit in your yard waste, right? We're talking about something that's like the size of a strip mall. And so these really complicate a wildfire. And so finding better uses is really crucial. Department of Conservation is leading the effort on the next generation for this technology, so they're the ones trying to try to give out big grants so that you can bring to California the technology that converts this material to jet fuel that will create liquid hydrogen.
+
+Jessica Morse (00:53:10):
+There's also opportunities for this to actually replace natural gas in gas pipelines as well. Basic things like sawmills, right? We have a housing crisis. We shouldn't be importing that much lumber. The value of this timber is kind of questionable sometimes, depending on where it is. But we established a sawmill in Crescent Mills, right? The town of Greenville very sadly burned down in the Dixie Fire in 2021. And the town of Crescent Mills is five miles away, and so Sierra Nevada Conservancy gave a grant so that they could open up a small sawmill so that the burnt wood from Greenville can just get milled five miles away and just go right back to rebuilding the community. Stuff like that also just helps the community recover so that you're not having to question, well, where can I go? What can I do?
+
+Cody Simms (00:53:58):
+We've been going for a while here. I have so many more questions I could ask. We want to talk about regulations, some of the changes that have happened in working through the regulatory side of what you do. I am interested to hear about what is sustainable timber and what does that mean? We just talked about sawmills and all of that. And then lastly, I'd love to hear about, like California is one state out of 50. We neighbor Oregon, we neighbor other places that have a lot of forest land, and sort of what's the collaboration across the states in the US West? And my goodness, that's probably already too much to cover, but anything else you want to leave us with, I guess, in a final few minutes here of conversation?
+
+Jessica Morse (00:54:34):
+Yeah, let me go fast on the regulation because as a policy nerd, I think that's pretty fun. So one of the challenges we heard is that the environmental protections that California had put in place were actually inhibiting our capacity to protect the environment. And so we kind of took this more innovative approach, which is like, how do we get our environmental processes down to the core protections that are needed and can we do it quickly to be able to keep pace with the crisis? We can't always be in an emergency mode where we are just saying, okay, you're exempt from this process, because you need some oversight. We don't want to create problems 100 years down the line that you haven't seen. What we did is establish something called the California Vegetation Treatment Programmatic Impact Review. It is a 20 million acre CEQA process.
+
+Jessica Morse (00:55:19):
+That's the California Environmental Quality Act, and so it's essentially across 20 million acres, so that's all the high fire risk non-federal land in the state. We did an environmental analysis that said, what's the known species in there? What are the mitigations you have to take? And we got that through. And so now everybody within those acres can actually do their environmental review much more efficiently. There's still exemptions, right? If you're going to do a small project that's not complex or it's like along a roadside or it's a single species, there are exemptions in this process. But for those who have to do what would usually be a two year environmental review, let's say you're doing a big 4,000 acre project, we want you to have the environmental protections and follow those protections, but we don't want it to take you forever. And the state water board are my heroes on this, because what they did is they took the CEQA process and they usually have to have state water board permits so that it makes sure that you're not causing siltification and damaging salmon habitat as you're doing these projects.
+
+Jessica Morse (00:56:18):
+They integrated all of their environmental protections into this Cal VTP, this process, and then they said, we're going to issue a statewide order so that anyone who's doing the Cal VTP can automatically be enrolled into our water permit and protection. And the water board said it really well the other day. They said, look, there's more that we could have asked for people if you had had infinite time, but these fires are functionally turning rivers into roads. And so the marginal protections you get from doing this six months of extra work is wiped out instantly when a catastrophic fire comes through. And so, the protections of mitigating the catastrophic fire is more critical to actually protecting the riparian zone and the river and our water system. And we funded them to do this. So part of our wildfire resilience funding then pays for water board staff to review this so that they don't have to issue an additional permit with an additional fee to fund their staff.
+
+Cody Simms (00:57:15):
+So what I understand you to be saying with respect to how you've worked with, I guess, regulatory reform is the thing that conservation orgs don't want to see is teams coming into forests with chainsaws and bobcats in a place that might be some kind of rare owl habitat or might be, as I think you mentioned, an area where salmon spawning happens. And yet the flip side of that conversation is, if we don't take action, it's all going to burn up anyway. And so the work you've been able to do is to help everyone kind of see common ground of how do we determine areas that really need to be kind of off limits quickly? And beyond that, how do we all agree that action needs to happen fast? Am I oversimplifying that?
+
+Jessica Morse (00:57:58):
+A little bit, but it's pretty close. So basically what we said is how do we boil down our processes to the core environmental protections that are needed? And environmental advocacy groups are actually a lot of the ones pushing for faster tools to be able to protect the environment. There's some groups that we're kind of at loggerheads with, but not many. I mean, there's a lot of consensus around this isn't the crisis that we haven't faced this crisis before. A lot of these laws were written in the '70s and they were really important and they are still important, but it's important that then they are now adapted to be able to keep pace with the crisis at hand. You can't spend two years doing your environmental reviews before you take action. And so to be able to protect these species and these biodiversity and the quality of the water, often, mitigating the fire is the biggest thing you actually can do.
+
+Jessica Morse (00:58:46):
+And then there's best practices that everybody knows how to do. And so, that's what a lot of these protections are boiled down to is like, okay, if you take these steps, you find the species, you've avoided that step, right? So we've kind of boiled it down to all you have to do is your actual boots on the ground review, so you identify what your topography is, what species types are there, any sort of cultural heritage sites that are there, and then take the appropriate mitigations or avoidance measures. These are shaded fuel breaks. You're not going down to bare mineral earth. You're often only removing about 30% or 40% of the vegetation in there. And so, you can often pick and choose where that is and still have the same wildfire impact. And so we're asking people to think more efficiently about how we do sort of the core environmental protections. The theme I've been talking to everybody about is, if the paperwork doesn't add any environmental protections, we don't need the paperwork.
+
+Cody Simms (00:59:38):
+That sounds straightforward to me. For folks who want to dive in a little bit more on that topic, we do have a great episode in the archive with Alison Wolff and the company Vibrant Planet, whose software engine is helping, I think, to broker a lot of these conversations and decisions. From what I understand at least. I kind of laid out three or four other topics, but maybe I'll bundle them into one big bundle, which is collaboration, right? So how you collaborate with the federal government, how you collaborate with neighboring states, how you collaborate with state and local governments. I'm assuming that's a big part of your day in addition to getting stuff through the California legislature and ensuring that the policies that you all are following are the right ones. How do you think about that? I guess private companies are part of that too, kind of just the notion of collaboration broadly.
+
+Jessica Morse (01:00:22):
+Absolutely. We're really excited to have the Forest and Wildfire Resilience task force, which has private companies, tribal partners, federal partners, local government partners, environmental advocates and state representatives all on the board of it. And that group is really helping us derive, what are the hurdles that have gotten us stuck? And how do we come up with collaborative strategies to be able to work through these hurdles? So a great example out of the task force, they had a working group on reforestation. When I went up to that Dixie Fire footprint scar and saw the hydrophobic soil and just the devastation of that upper watershed, it was really clear how urgent reforestation was needed. And we went with private timber companies who had lost 60% of their land holdings in here and weren't going to get any trees harvested off of it for another 35 years.
+
+Jessica Morse (01:01:11):
+And so, usually they would use the sale of timber from a fire to be able to pay for the seedlings to reforest. Their cycle was off. And so they were sort of faced with this impossible choice of do we sell our land, which means it'll probably get converted to some type of development, or do we push forward? And so the reforestation working group thought through some of the structural hurdles of reforesting at the scale we needed, such as the cone collection for seed banks, expanding nursery capacity, the workforce to be able to go do this work as well as the direct reforestation dollars. And so they came up with a great strategy and then we took that strategy and turned it into a policy program. So now we have $100 million specifically for reforestation grants that support the entire reforestation infrastructure, including some new nurseries so that we can have the seedling capacity, like a public-private partnership with Sierra Pacific Industries that is going to get us 25 million seedlings.
+
+Cody Simms (01:02:05):
+Wow. I've heard from a company who's also been on the pod called Drone Seed, about just the absolute vast shortage of cones, seeds, seedlings in general. How did that happen? I'm just curious the backstory on that. Why are we in such a shortage right now?
+
+Jessica Morse (01:02:20):
+You hadn't had the scale of fire you've had before, right? I mean, typically you would have like 100,000 acres burn a year, starting to get up to 500,000 acres burn a year, and not all of that at high severity. So you'd still have a lot of live trees. But when we had 7 million acres burn over several years, a lot of that at high severity, you need to do reforestation quickly. And so the balance and the cycle of, here's where we get our seedlings, because the Forest Service has a seed bank, CAL FIRE has a seed bank and a nursery as well. Our seed capacity, we're trying to get to 250,000 trees, and that was just to support small forested landowners typically and the state demonstration forests. And so now suddenly you have the 7 million acres that are in need of reforestation. And so you're talking about a whole other scale.
+
+Jessica Morse (01:03:07):
+And so we're needing to scale up that capacity. A lot of the challenges that for commercial timber, they're forests that provide their cones, right? This sort of forest that grow really straight and are sort of the prime species, those burned in the fires. And so we're needing to find new cone collection and seed banks. And so the Forest Service had a partnership with the state and private industry so that they could go on Forest Service land and help collect cones for seed banks as well. And so we're trying to maintain that biodiversity as well so that these species aren't lost even when there's fires.
+
+Cody Simms (01:03:39):
+And lastly, Jessica, I think the area I'll leave you with is, any ideas you have for people who are listening, who are motivated, who want to help? What can people do? Are there places they can give money? Are there places they can lend their experience? Can they volunteer? Can they help build initiatives for resilient communities locally where they can help advocate home hardening? Like what should people be doing?
+
+Jessica Morse (01:04:02):
+All of the above. So for your own home and safety, check out readyforwildfire.org, CAL FIRE's website that helps give you pro tips on how to make sure your own home is prepared. We'd really encourage you to join a fire seed council or form one in your own community, and also look to see if your community is part of a firewise community, which really has some weight with insurance to be able to make sure that you're hitting all these markers. That's at the really grassroots level. If you want to support organizations, the California Conservation Corps and all the local corps are phenomenal ways to get youth engaged in this and create employment pipelines and training pipelines here.
+
+Jessica Morse (01:04:39):
+There's a lot of wildfire action happening within communities, and so just come out, get involved, look up your local conservancy. They're a great place to volunteer with too, or even come volunteer with the state parks. We're doing some amazing reforestation work in Big Basin. So depending on where you live, we want you to come get engaged, but start with those fire seed councils. That's a good foundation. And if you want to donate, the Conservation Corps foundations are really amazing.
+
+Cody Simms (01:05:03):
+Jessica, thanks so much for coming on the show. Thanks for all that you're doing. Thanks for the attention that the state of California is now putting to this problem. Appreciate you taking the time to help us all get smarter.
+
+Jessica Morse (01:05:14):
+Thanks, Cody, and looking forward to another safe fire season.
+
+Jason Jacobs (01:05:18):
+Thanks again for joining us on My Climate Journey podcast.
+
+Cody Simms (01:05:22):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem solving capacity.
+
+Jason Jacobs (01:05:31):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter at MCJPod.
+
+Yin Lu (01:05:44):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+
+Cody Simms (01:05:54):
+Thanks, and see you next episode.
+
