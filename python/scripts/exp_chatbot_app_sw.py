@@ -1,8 +1,11 @@
 import pinecone
 import os
 import streamlit as st
+from langchain.document_loaders import DirectoryLoader
+from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.vectorstores import Pinecone
+#I had some name collisions so tried to rename this import of Pinecone
+from langchain.vectorstores import Pinecone as PineconeVector
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
@@ -18,7 +21,7 @@ index_name = "mcj-chatbot"
 
 if index_name not in pinecone.list_indexes():
     pinecone.create_index(name=index_name, metric="cosine", dimension=1536)
-docsearch = Pinecone.from_existing_index(index_name, embeddings)
+docsearch = PineconeVector.from_existing_index(index_name, embeddings)
 
 
 def retrieve_docs(query):

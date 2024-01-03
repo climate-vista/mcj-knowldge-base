@@ -1,0 +1,396 @@
+Cody Simms (00:01):
+Today's guest on My Climate Journey is Antti Vihavainen, co-founder and CEO of Helsinki based Puro.earth. Puro is a leading crediting platform and registry for engineered carbon removal. In 2021, NASDAQ acquired a controlling stake in Puro, helping further establish its credibility in the marketplace. Puro is actively offering engineered carbon removal credits today for a few dozen projects that primarily consist of biochar and bio construction initiatives.
+
+Cody Simms (00:35):
+In addition, Puro has an initiative called Puro Accelerate that enables buyers to buy essentially futures credits for other forms of carbon removal that aren't yet producing at scale, but which Puro has deemed highly credible and likely to produce in the relative near term. These Accelerate projects include efforts in direct air capture, bioenergy with carbon capture and storage, or BECCS, geologically stored carbon, woody biomass burial, and additional biochar projects.
+
+Cody Simms (01:07):
+Antti and I trace how Puro.earth came to be and cover the details of their current registry offerings and their futures offerings. We discuss their business model and how they compare to other carbon credit and offset registries. And he shares his thoughts on how he sees carbon removal scaling in the years to come. But before we dive in, I'm Cody Simms.
+
+Yin Lu (01:31):
+I'm Yin Lu.
+
+Jason Jacobs (01:32):
+And I'm Jason Jacobs. Welcome to My Climate Journey.
+
+Yin Lu (01:39):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+
+Cody Simms (01:44):
+In this podcast, we traverse disciplines, industries, and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. And with that, Antti, welcome to the show.
+
+Antti Vihavainen (02:00):
+Hey, Cody, thanks very much for the invitation. Happy to be here.
+
+Cody Simms (02:04):
+Antti, I hear Puro all the time come up when I'm talking to different companies working in various forms of carbon dioxide removal or other programs, but this is the first we've had a chance to chat. I'm excited to hear about how you fit into the broad registry space, the broad advanced market commitment space, all the activity that's happening right now to help these, in most cases still nascent companies, connect and find marketplaces for the offerings that they're in the process of developing. So maybe, let's start with a little bit first about you. How did you get into this incredibly exciting, but still very early world of carbon dioxide removal?
+
+Antti Vihavainen (02:46):
+Yeah, thanks. My climate journey actually begins in 1995 when I was still in the university and I was responsible for the so-called environmental affairs. We organized a seminar of a sort where we invited Finnish corporations to come and share their views to the students, how they can gain competitive advantage by using green processes, green business practices. Sustainability was not a word then. And ever since, I've been working in various kinds of early stage ventures in my life and mostly in the telecommunications, cybersecurity and the internet of things areas.
+
+Antti Vihavainen (03:23):
+And wanted to create a sort of more of a efficient technical infrastructure where people can interact and transact securely without consuming too much energy. So basically, I realized that the CO2 concentration in the atmosphere is already too high, and at the same time came to the conclusion that there are actually ways of actively drawing down carbon dioxide from the atmosphere. But the business model was sort of missing. Since that's my area of expertise, figuring out business models and ways of enabling things to be on the market, that was a challenge that we, or I, decided to take them in 2017, '18.
+
+Cody Simms (04:00):
+Yeah. I mean, any tie to that... Seems like one of the moments that spurred a lot of people into action was the 2017 IPCC report. I don't know if that has any tie to the timing of when you jumped in, but seems like it's right around there.
+
+Antti Vihavainen (04:14):
+In 2018 was the time when the Special Report 15 was launched. That was in October, and we had already started. We had already decided to focus on carbon removal back then. And that was the first time that IPCC really realized... Or the report was all about carbon removal of the necessity of negative emissions.
+
+Cody Simms (04:32):
+Got it.
+
+Antti Vihavainen (04:33):
+So we had a bit of a headstart there.
+
+Cody Simms (04:34):
+There you go.
+
+Antti Vihavainen (04:35):
+We didn't know how to do it. It was an open question. When we asked what is the business model, we basically wanted to create something that is easy to communicate and where the business mechanism is easy for everybody to understand, which is a marketplace. However, the challenge was that we didn't really have the infrastructure beneath the marketplace. We thought that we could build on the existing framework, but then we came to the conclusion that the existing carbon markets didn't really recognize the concept of negative emissions properly.
+
+Antti Vihavainen (05:07):
+We needed to create a new asset class that is entirely based on net negative emissions. Then that resulted in or sort of cascaded into a relatively formidable set of infrastructure that needed to be created. And we designed that together with 22 other companies from six different countries during the, well, basically spring of 2019.
+
+Cody Simms (05:29):
+And at the time, I'm guessing most... I suppose, they weren't even necessarily called carbon credits yet. They were just called carbon offsets.
+
+Antti Vihavainen (05:35):
+Yeah.
+
+Cody Simms (05:35):
+Most of them either around helping to scale renewable energy, so renewable energy credits. Or we were just starting to see the early days of forestry credits, I guess, at that time as well. Forestry avoided emissions credits. Was that basically the landscape you were looking at? And I guess, what kinds of projects were you seeing that weren't fitting into that box that were around? Now there's direct air capture, there's all sorts of things, but those weren't really around in 2018 yet. So I'm curious what you were seeing that got you excited to lean in here.
+
+Antti Vihavainen (06:06):
+We saw that there are these afforestation projects that are definitely carbon removal. But we figured that the whole point or the effectiveness of the activity depends on how long the CO2 remains away from circulation. So we decided to focus on the storage time and measurability and all these other principles that we developed along the way for that purpose.
+
+Antti Vihavainen (06:29):
+Well, we didn't know which horse to bet on, so we didn't know which one is going to be the winning process that we should bet on, whether it's soil, organic carbon or direct air capture, or any of the other biochars or the other candidates. So therefore, we decided that let's just start building a library of methodologies, documents that describe the requirements for these activities that are meant to produce negative emissions. And that's the basis.
+
+Cody Simms (06:57):
+If I understand then with the forestry, a afforestation avoidance project, you're creating models that will identify if this tree was cut down, how much CO2 would it release? Your thesis was, "Hey, there are all these other technologies out there that are actually taking the actual atoms and putting them somewhere." And so, we're going to focus on projects where you physically can actually see an atom being locked up in some place. Is that accurate?
+
+Antti Vihavainen (07:24):
+Correct. Yeah.
+
+Cody Simms (07:25):
+Okay. So you mentioned these initial, I think you said 22 projects. At the time, what were they? It seems like today, most of the projects that are certified are biochar. Was that the heavy focus initially as well for you?
+
+Antti Vihavainen (07:41):
+Yeah. When I mentioned 22, it was 22 organizations. They were both buyers and suppliers and research organizations and think tanks, and it was a variety of different kinds of organizations. But we designed three methodologies, one of them being biochar, second one carbonated building materials, and then woody, woody building elements. Basically, we've had a bunch of the biochar and woody building element right from the beginning.
+
+Antti Vihavainen (08:09):
+We have not seen decarbonated materials proliferate the way we wanted or we expected, so that's still hopefully... So you're right. If you look at our website, most of them today are based still biochar. But there's a whole bunch of new projects coming from areas like bioenergy with carbon capture and storage, of course, direct air capture, enhanced rock weathering, and for example, this the fourth one, which is woody biomass burial.
+
+Cody Simms (08:39):
+Yeah. I want to get into all those In terms of what you're seeing on the horizon. What I'm really interested right now is what got you excited in the first place? And it seems like maybe there was some sense of, "Hey," there were these new technologies on the horizon, but also there's a set of technologies that essentially today are ready to be used, probably biochar being the largest among them.
+
+Cody Simms (09:00):
+It seems like one of the challenges potentially with biochar is hard to create a large scaled company. Most of the biochar businesses I see are relatively local, I would call them environmental services companies, as opposed to building out for large scaled technology platforms. Would you say that's an accurate view of the biochar space? Not that there's anything wrong with that. It's just a different kind of business, right?
+
+Antti Vihavainen (09:26):
+That's correct. If we look in the rearview mirror, that is indeed the case. However, I think one really exciting phenomenon we are seeing is that large industrial organizations are now looking at their different kinds of logistic streams or biomass streams and realizing that some of those can be turned into storage, carbon storage. So basically turning a liability into an asset, which is a powerful incentive for these companies to really look at carefully of the investment opportunities in basically turning biomass, waste biomass into carbon or biochar.
+
+Cody Simms (10:00):
+So that would be basically a circular inset in their own supply chain, as I understand it, taking their own waste and turning that into a profit center for them through sequestration.
+
+Antti Vihavainen (10:10):
+So there are a couple of these samples already. One of them is actually in Brazil. It's a company called Aperam. They are a steel manufacturer, but they also produce biocoke and part of that biocoke can be used as or turned into biochar. And those are massive, massive streams, so it's not just cottage industry. There's a lot of potential there.
+
+Cody Simms (10:30):
+And before we get into what you're seeing in the future, Antti, just to finish the origin story. You founded Puro in 2018, I believe. Then worked on these initial three methodologies that you mentioned, and now have a public registry where you have I think 38 or so projects that are actively approved and available for sequestration. You've announced a major financial event with NASDAQ. Do you want to share a bit more about that as well?
+
+Antti Vihavainen (10:58):
+Yeah, NASDAQ was apparently looking for a way to get the feeling of the carbon markets and wanted also to contribute to the creation of a more, let's say, trustworthy market. Because, of course, they've seen what happens in different kinds of conditions and different kinds of markets. And we were very, very young organization at the time, but they wanted to invest in us and been a very, very fruitful collaboration so far.
+
+Antti Vihavainen (11:25):
+They support us in many different respects. And I must say that having their backing helps us in some conversations where, of course, if we were just a Finnish startup with VC funding, for example, or even local funding, it would be much less... perceived less stable as now that we've got the NASDAQ backing there.
+
+Cody Simms (11:45):
+And they acquired a majority stake in Puro?
+
+Antti Vihavainen (11:49):
+That's a majority stake. Yes, that's right.
+
+Cody Simms (11:51):
+Yeah. Well, congratulations. That certainly lends a reputable brand to what you're doing. So then, just so people understand the basic business of Puro, so you issue these, you call them CORCs, CO2 removal credits. And that's based on your own methodologies that you have developed and that you then have third parties that go out and certify the carbon removal facilities of the projects that you enable tonnage or CORCs to be for sale, providing. Is that a general correct view of the world?
+
+Antti Vihavainen (12:25):
+Yes, pretty much. We create the methodologies in a working group together with the best scientists, researchers and projects that are bringing this new activity from the laboratories to the fields and actually doing trials and that have the practical expertise. Then we introduce that work to an advisory board. So our board of directors has basically mandated this collection of individuals that we call the advisory board to either approve or disapprove the methodologies, which then we implement on the business side. It's a wonderful group, which is led by Professor Myles Allen from the University of Oxford. He's true star in this field. He makes things happen.
+
+Cody Simms (13:14):
+That's amazing. And how do you view where Puro sits in the broad carbon credit world relative to some of the other big registry names we may know of, whether it's Verra, whether it's Gold Standard, EcoRegistry, et cetera? The specific differentiator is that you are a hundred percent carbon removal focused. Is that correct?
+
+Antti Vihavainen (13:34):
+Yeah.
+
+Cody Simms (13:35):
+Other than that, are there big differences in business model or structure that are worth our listeners understanding?
+
+Antti Vihavainen (13:44):
+We haven't really reinvented the wheel in most of the processes related to running a registry or a standard. So there are a couple of differences. One of them is of course the focus to carbon net negative activities. And then the other one is related to the business model. So we don't charge anybody for participation in the methodology creation sessions. We don't charge. We actually pay for the verification in order to avoid any sort of potential for corruption. So the project cannot select their friend to do the verification. So we do that on their behalf, we pay for it, and then we don't charge anything for the issuance of certificates or credits.
+
+Antti Vihavainen (14:23):
+We don't really have an incentive to issue as many credits as possible because we don't really earn any money from that. So our business model is fully aligned with the supplier. We only start earning money when they start earning money. And it's proportional to the value of the credit. So if the buyer perceives that quality of the credit is high, then they're likely to pay a higher price. Good for the industry, it's good for the supplier, and it's good for us as well.
+
+Cody Simms (14:52):
+Fascinating. And that makes me want to dive into all sorts of questions on what you're doing with Puro Accelerate, which is really, as I understand it, about fomenting future technology markets, helping to allow nascent and emerging technologies to find their pathway toward carbon removal. And yet, what I just heard you say is you don't even get paid until credits are delivered to the suppliers. So that, to me, sounds like you're taking a very long-term view on this whole problem space.
+
+Antti Vihavainen (15:22):
+That's correct, yeah. Luckily we've got a really good backing that enables this to happen. But Puro Accelerate, it's called supplier funding solutions, the team, and that name tells what it's all about. So we've got approximately 250 suppliers in our supplier funnel with varying degrees of say, maturity, operational maturity, and varying degrees of funding needs. Some of them are fully funded by large scale investors and some of them are not. We don't count people with slides into this 250. They have to have a little bit more than that.
+
+Antti Vihavainen (15:58):
+When we understand their funding needs, we of course know a bunch of... Or let's put it this way. Actually, the process starts from us analyzing the company and making sure that it is likely that they will be able to produce CORCs. We analyze that the business model is viable together with the carbon related financing or the operational income. And then we also want to see that the output is likely to grow. If all of these are true, then we can start to help them get long-term offtake agreements. We can help them meet the right investors. And when the time comes, yes, also non-dilutive capital in the form of debt and other forms.
+
+Cody Simms (16:37):
+And a CORC, again, I think is a carbon dioxide removal credit. That's a term that you all have coined?
+
+Antti Vihavainen (16:43):
+Yes. Our CO2 removal certificate is what it stands for. Yeah.
+
+Cody Simms (16:47):
+Okay. And so the methodologies that are part of the Accelerate track right now, biochar is in there, even though biochar is a methodology you're selling against today. But it sounds like there's also new innovations in biochar that you're helping to support here. It's DAC, it's geologic sequestration, it's woody biomass burial, and BECCS being the key ones. At least that's what I found on your website.
+
+Antti Vihavainen (17:11):
+And carbonate materials, that one that has been updated, but yeah. So that's where we are at the moment. We continue to also expand to the extent that we can still stick to our principles. We've wanted to start creating methodologies, starting from the least disputable ones, and expanding from there. Of course, not pushing too far.
+
+Cody Simms (17:29):
+And you offer an advanced market commitment framework. Are you providing the cash upfront for these?
+
+Antti Vihavainen (17:34):
+No, no, no.
+
+Cody Simms (17:35):
+No. You don't. Okay.
+
+Antti Vihavainen (17:35):
+No, no. No, no. We are not the counterparty in any transaction whatsoever. We started off as a marketplace. We are no longer. We've sort of taken two steps back, mainly because we didn't want to really compete with our partners who are marketplaces. And in addition to that, of course, getting the ICROA endorsement required us to only... Basically, they don't allow to have a dual role, so we had to select either marketplace or standard. And of course, the standard is the core, and that's what we wanted to concentrate on.
+
+Cody Simms (18:08):
+But these projects can sell digital certificates as essentially futures contracts, as I understand it.
+
+Antti Vihavainen (18:15):
+That's correct, yeah.
+
+Cody Simms (18:16):
+Before the technology is wholly validated to these marketplace participants, who I presume are mostly corporates looking to offset their carbon activity via removal credits. Is that correct?
+
+Antti Vihavainen (18:29):
+It's the pre-CORC. The asset that represents the future issuance of a CORC contains more uncertainty than if you just decide to purchase or commit to purchase a CORC. That's something that the buyer recognizes and probably then wants to get a discount because of that uncertainty. In a way, it provides a... I sometimes call it a double whammy. When you make the commitment to buy credit from an early stage company, that of course enables the buyer to make an enablement claim, say that I was the one who enabled these guys to set up their operations and make new things happen.
+
+Antti Vihavainen (19:06):
+So if a company decides to buy a pre-CORC, it's sort of like a double whammy. First, they can make the enablement claim. They can say that I was the one enabling them to get out of the lab and into the field and start working on the project for real. Then there's the other impact what comes when the delivery actually takes place. So then they can make the actual neutralization claim. So with the same money, they can have a little bit more. And at the same time they are helping the industry move forward.
+
+Yin Lu (19:35):
+Hey, everyone. I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community.
+
+Yin Lu (20:04):
+A number of founding teams I've met, several nonprofits have been established and a bunch of hiring has been done. Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks and enjoy the rest of the show.
+
+Cody Simms (20:36):
+And are the dollars there, are they transacted upon pre-purchase or are they transacted upon delivery of the actual carbon removal, or a little bit of both?
+
+Antti Vihavainen (20:46):
+Well, it depends on the preferences. Some suppliers desperately need the cash in the bank and some of them don't. If there's a prepayment element to it, then we can issue the so-called pre-CORC, which is tradable even before a delivery of the actual CORCs. So then in that case, it is a tradable future. If that is not a requirement for either party, then it is just an off the agreement that is a piece of paper or PDF that is signed and more traditional in that sense.
+
+Cody Simms (21:13):
+And it exists until the removal is delivered, at which point it's thus retired? That correct?
+
+Antti Vihavainen (21:18):
+Yeah.
+
+Cody Simms (21:18):
+Okay. And what's the process for an emerging technology, whether it's direct air capture, whether it's geologically stored carbon, whether it's woody biomass burial? What's the process for any one project to get the green light from you of being still early, maybe not delivering yet today, but ready enough to start selling these pre-CORC future credits?
+
+Antti Vihavainen (21:45):
+That's actually a relatively complex process and depends a little bit on the methodology. But it contains these three elements that I mentioned earlier. We have to be confident that the visibility study that they have done with the technology that they have selected enables them to get CORCs. Very likely that they will get CORCs if they are able to implement the project as planned. Then secondly, we need to look at the financing, make sure that their plans stack up and they are not planning on getting a thousand dollars per ton for the next 50 years. That's not viable.
+
+Antti Vihavainen (22:17):
+And then third is that we, of course, want to see that there's an ever-increasing number in the output. So if the output, if there's a lifestyle entrepreneur who wants to do a one project and sit on it and operate it forever, relatively small scale, that's fine, but that's probably not something where we would present as an pre-CORC opportunity.
+
+Cody Simms (22:39):
+Interesting. So the qualified listings in the pre-CORC space for you are tended to be projects that can hit large scale, as opposed to what we talked about earlier where in your existing registry, you have a number of localized biochar projects.
+
+Antti Vihavainen (22:55):
+That's right.
+
+Cody Simms (22:56):
+Okay, interesting. So it really is a market fomentation approach that you're trying to pursue here.
+
+Antti Vihavainen (23:02):
+We are encouraging people to be ambitious with their plans. We need to be able to support early stage projects that need to get their data validated and everything. So we accept that we start small. But we need to have proper ambition in the plans, so that makes sense for us and everybody else to commit their time.
+
+Cody Simms (23:23):
+And on the demand side, with the buyers of these pre-CORCs, how are you seeing demand select from amongst the different projects? Do you see any patterns of what kind of buyer might want to support a DAC project versus what kind of buyer might want to support the build-out of bioenergy with carbon capture and storage, BECCS, versus what kind of buyer might want to experiment with woody biomass burial? What does that look like?
+
+Antti Vihavainen (23:53):
+I would say that we have still too few buyers altogether in the market for us to be able to really differentiate between them. So in our books, we have 170 companies that have bought, one way or the other, CORCs from our ecosystem. This is now June 2023. It's still a very small number. A subset of those companies have committed to purchase any pre-CORCs. So I would say that the ones that started the earliest are the ones that are most likely to move from spot purchases.
+
+Antti Vihavainen (24:27):
+So on the spot today, "Give me a delivery today," kind of mentality to long-term offtake agreements and then possibly to pre-CORCs. So from our perspective, pre-CORC is in a way a special case of an offtake agreement. It doesn't really matter which way the market grows, as long as it is growing. But yeah, so pioneers are there. The first ones that have already experimented, have gained a little bit of visibility how it all works, what are the risks. And now they are moving forward with these long-term offtake agreements.
+
+Cody Simms (25:00):
+I mean, in general, obviously the volume of activity in this space, as you said, is still small but growing. I mean, you saw just in the last few weeks, it didn't go through Puro, I don't believe, but a very large commitment from JP Morgan Chase, a continued doubling down by Frontier in terms of increasing the amount of purchasing that they're making. Frontier being the consortium led by Stripe and Shopify and a number of other partners.
+
+Cody Simms (25:25):
+It seems like the groups that are putting real dollars to work here, today have all their own in-house teams to do a lot of the research. I presume you're expecting that to also move toward other organizations that maybe need some help with the validation side of things in the future.
+
+Antti Vihavainen (25:44):
+That's correct. Yeah. So it starts small in terms of the group of companies that experiment and start learning, and it expands. We're already seeing new types of companies. So initially, was just software companies and financial organizations, insurance and so forth. But now, we're seeing premium physical product companies coming along and multiple logistics is starting to appear and so forth. And the thing is, of course, we have 30 different so-called channel partners.
+
+Antti Vihavainen (26:15):
+There are various kinds of marketplaces that have a distribution capability to segments of the market where we don't have any sort of access. They know their customers very well. They can calculate their emissions, for example. If there's a logistics focus, a service provider, they can offer emission calculation and then compensation on the fly. That's a segment that we would not be able to address if it was just us trying to address the whole market.
+
+Cody Simms (26:41):
+With some of the controversies lately around forestry credits, are you seeing more inbound activity in any way from these corporate buyers who want to look at engineered solutions to carbon removal?
+
+Antti Vihavainen (26:51):
+I think there's a polarized reaction to that. There are certainly companies that have taken two steps back saying, "Whoa, I don't go near that carbon market at all." And then there are another group of companies that realize that there's different segments within the carbon markets, and if that one part is controversial, then maybe we should look into the newly established carbon removals market and look at the opportunities there. So yes, in effect, we have seen more companies approach us lately. But then at the same time, some companies are also saying that, "Okay, no. No, no, not for us. Not now."
+
+Cody Simms (27:28):
+Oh, interesting. So a very clear qualification filter you have when going out to do business development and source new demand partners.
+
+Antti Vihavainen (27:35):
+Yeah. The thing is, of course, it's nowadays so that's typically so that we want to, of course, work with all the best marketplaces and channel partners from our perspective. So that's what we are going after. Yes, we also do get inbound contacts from corporate customers, which we then, after a brief conversation, typically introduce to either a marketplace or directly to a suitable supplier. And then we take a step back from there.
+
+Cody Simms (28:04):
+I mean, it seems to me like there's just such a shortage of supply in this space today, particularly on these nascent emerging technologies, that most companies that are anywhere near having delivery capability right now are just selling directly to potential buyers. And it's just because the marketplace is small enough that it can be inefficient like that. Is there a timeframe you all are looking at where you think that's going to shift?
+
+Antti Vihavainen (28:28):
+Yeah. It's going to be 2025 or six. Then we're going to see a huge number of basically BECCS facilities and also some larger scale direct air capture facilities coming online. So that's going to be a change. And one, I think building a market requires two sides, demand and supply, to grow approximately in unison. One key stakeholder in this market is SBTi or Science-Based Targets initiative. At the moment, there is no proper guidance from SBTi as to how to reach carbon net zero.
+
+Antti Vihavainen (29:01):
+What is the qualification for a certificate to be able to make the claim of carbon net zero, and when to start building the capacity? So that's a bit of a problem for the industry at the moment. We would of course hope that they would give this guidance as quickly as possible, so that it would unleash the demand of those approximately 4,000 companies who have made these carbon net zero pledges. At the moment, we are seeing one-tenth of those companies being active on this field, and that's not nearly sufficient to enable the scale of demand for the next wave of supply coming in.
+
+Cody Simms (29:36):
+We've hardly talked about BECCS, so that's a technology that you think will hit scale sooner than some of the others. Why is that? Maybe explain BECCS for people who don't know what it is.
+
+Antti Vihavainen (29:45):
+Yeah. So bioenergy with carbon capture and storage is basically one way or the other... There's, for example, a power plant that produces heat and energy, combusting biomass, for example, woody biomass, and that energy is of course distributed locally. The CO2 can be captured, transported, and injected underground. That's basically the BECCS process on a general level. There are variations of that, of course. And one of them, a great example, is Navigator CO2, who is capturing or enabling the capturing of CO2 from a ethanol plant or several ethanol plants that is otherwise vented out into the atmosphere.
+
+Antti Vihavainen (30:26):
+Biogenic CO2 that is vented, which is of course unnecessary. So they capture that and transport it through the pipeline into a injection site where it is stored geologically. That's an good example. We know they have publicly spoken about their plants. They are going to capture up to 15 million tons of biogenic CO2 and inject it underground. So that's a huge depth change. That's several orders of magnitude bigger than what we've seen so far. If that happens, we've seen a 15,000 fold increase in volumes of the biggest supplier in our ecosystem in six years.
+
+Cody Simms (31:01):
+Wow.
+
+Antti Vihavainen (31:02):
+In 2019, the biggest one was actually 873 CORCs. And the next year the same company had grown 50% to approximately 1,300. From there on, we've seen orders of magnitude bigger and bigger, and it seems to continue. So it's actually marvelous to see, even though looking into the rearview mirror, you're seeing rather small quantities. Now that we have the visibility to move forward or forward visibility, we can see that big things are coming.
+
+Cody Simms (31:29):
+Yeah. And being there facilitating those pre-CORCs also presumably helps you see which projects in your ecosystem you can gain confidence in because you're seeing the demand side continue to lean into their solution.
+
+Antti Vihavainen (31:40):
+Yeah.
+
+Cody Simms (31:41):
+Which takes me to my next set of questions all around verification. So particularly for these pre-CORCs where there is still a science risk, they're not delivering yet at large volumes. How does verification work for you? You work with third parties to do it for the most part, I believe.
+
+Antti Vihavainen (31:59):
+Yes, only.
+
+Cody Simms (32:00):
+And you said you don't take a cut of that?
+
+Antti Vihavainen (32:02):
+No, no.
+
+Cody Simms (32:03):
+That is a Puro service that is out there. So explain that and how that works.
+
+Antti Vihavainen (32:07):
+So for the pre-CORC, there is no verification because that is not possible. We only look at the documents and the documents seem to be credible, and we accept that there is certain risk. However, of course, before any CORCs are issued, there needs to be a convincing set of evidence that is presented to us and the verifier according to the requirements of a methodology. And only if the verifier is convinced that the... or the set of evidence is indeed true, they can give us a audit report that allows us to create the issuance.
+
+Cody Simms (32:42):
+What incentive do these verifiers have? What's their business model?
+
+Antti Vihavainen (32:46):
+They offer their service and it's several thousand dollars per site visit, for example. They invoice that from us and it's cost plus basically.
+
+Cody Simms (32:59):
+Okay. And you're the one transacting them, and that is coming out of the profit that you're making from brokering the CORC transaction?
+
+Antti Vihavainen (33:09):
+It's a cost for us. It's a cost for us, yeah.
+
+Cody Simms (33:12):
+Okay. It's not the supplier or the demand side that is finding these verifiers and paying them. You're in the middle of that.
+
+Antti Vihavainen (33:19):
+No, no, no, no. And they are a bit of a bottleneck, I must admit. We basically are reserving capacity for 12 months in advance, so we know approximately how many audits need to happen during that time. So we go out and say that, "Okay, we want to get 50 audits from you and 30 audits from the other guys," and so forth.
+
+Cody Simms (33:38):
+You just mentioned they're a bottleneck for you. Where do you see the need for third party innovation today, anywhere in the ecosystem other than just new supplier projects? What are the picks and shovels that need to form around this marketplace as it's emerging where you think there are opportunities for entrepreneurs to step in and help?
+
+Antti Vihavainen (33:57):
+Well, I think there's room for innovation in the settlement side, how to make money move. That's not something that we are ourselves involved too much. But we see that if there is a facility that enables so-called delivery versus payment that would help transactions happening, then I think on the funding side, there's still room for market makers, companies that are used to investing in early stage projects and accept that there is a failure rate, but at the same time, there can be really high yields in getting access to capacity that is going to be attractive for other market participants on the later stage.
+
+Cody Simms (34:37):
+On that latter piece, would a speculation bubble be a good or bad thing in the pre-CORC world?
+
+Antti Vihavainen (34:43):
+Bubbles are not good, normally. However, speculative buying in this stage would increase liquidity, would help several projects get off the ground. We are very positive about that. We want to see that happen because it is going to be essential.
+
+Cody Simms (34:59):
+I am seeing quite a few projects that are out there working on blockchain-based solutions to enable freer trading of these types of future credits and unlocking them out of the marketplaces that they live in so that they can be traded as derivatives or whatever. I'm curious, your thoughts on that whole phenomenon.
+
+Antti Vihavainen (35:19):
+It's a very difficult question. And we do work together with some little blockchain or own chain companies, of course. But I think there's a lot of exploration still going on, and I'm sure that there's going to be a place for them. I think one of the aspects, ways of utilizing the immutability or the immutable aspect of blockchain or distributed ledgers is going to be in the so-called DMRV or the digital MRV site, or digital monitoring, reporting and verification side, which means basically projects allowing their sensor data [inaudible 00:35:55] to be directly streamed or uploaded into a platform that then can be made or can be utilized for the actual verification happening later on.
+
+Cody Simms (36:05):
+Oh, interesting. Okay. So then we talked about three big bottlenecks, one being verification, one being payments and settlements, and one being just capital flowing into the marketplace. And my assumption was, "Oh, the blockchain solutions will help the latter with the capitalization of the marketplace." But I'm hearing you say, actually, where seeing the most innovation there is on the verification bottleneck problem.
+
+Antti Vihavainen (36:28):
+Yes, I think so. But this is not definitive and something I'm just not going to... I don't see the endplay yet, let's put it this way.
+
+Cody Simms (36:37):
+Yep. Makes sense. This is been super helpful. One last topic that I think we should hit on is you have an even more nascent initiative that I understand, which is what you call research listings, which are projects that can't even issue a future credit yet where you're basically trying to capture field data to support R&D. At least, that's what I gleaned from your website. Is that an accurate view of the really long pole set of stuff that you're helping to support?
+
+Antti Vihavainen (37:05):
+Yeah, you could characterize it like that. But I think it's more of the methodology. We intend to build methodologies on those fields. It's likely that we cannot support them as of today in terms of certification. So new research needs to happen in order for us to be able to issue any credits for them.
+
+Cody Simms (37:26):
+And it looked like enhanced rock weathering was one of the big ones that you're working on in that space today?
+
+Antti Vihavainen (37:30):
+Yes. We've actually got the first version of the enhanced rock weathering methodology out already. And it is the first in the world. It is a challenging, it's a very complex process, but I think we've done a pretty good job in requiring the simulation first from the project. Then they need to be able to prove that their way of sampling and measuring is indeed either proving that the simulation works or it doesn't work. Either way, they need to be able to convince the verifier before any credits are issued.
+
+Cody Simms (37:58):
+We did a great episode on enhanced rock weathering, gosh, over a year ago now with the CEO of Lithos Carbon and Ion carbon. So for listeners who want to learn more about that emerging field, you can go learn there. It sounds like we should maybe see that emerge as one of your next pre-CORC categories in the future.
+
+Antti Vihavainen (38:18):
+Well, it's good to note that we, in a way, Undo published a deal with Microsoft. And even though that was not categorized as a pre-CORC deal, that's what it effectively is. It's a long-term offtake agreement where the CORCs are going to be delivered afterwards. So it's a bit of a terminology issue there. But yeah, that's exactly true. It's a massive opportunity for the climate.
+
+Cody Simms (38:39):
+Well, Antti, I'm so appreciative of you coming on. You're working on the bleeding edge of an industry that I think many of us in climate tech are hoping emerges as a significant phenomenon in the five to 10 years in front of us. And we're already seeing a ton of activity here, obviously, a ton of innovation. Anyone who's a regular listener to the pod knows we've had dozens of companies working on solutions in these areas on the show. Appreciate you coming on. Is there anything we should have talked about that we didn't go into?
+
+Antti Vihavainen (39:08):
+Well, I mean, this is an area where we want to see more commercial activity. There's our head of communication, Elba actually says, "Where money flows, change comes or change goes." We want to make the financial or market-driven activities drive this essential way of reversing the climate change.
+
+Cody Simms (39:28):
+So I'm hearing if you're a large company, if you're a family office, if you're a capital deployer who is interested in seeing solutions accelerate in this space, Antti and Puro would love to hear from you about what kinds of transactions you might potentially be interested in so they could help you see what all is out there. Is that a correct ask that I'm hearing from you?
+
+Antti Vihavainen (39:49):
+That's correct. Yeah. Puro.earth is the web address and contact@puro.earth is the email address where all contacts are very welcome.
+
+Cody Simms (39:58):
+Antti, thanks so much for your time today. I really enjoyed learning from you.
+
+Antti Vihavainen (40:02):
+Thank you very much, Cody. It was a pleasure.
+
+Jason Jacobs (40:04):
+Thanks again for joining us on the My Climate Journey podcast.
+
+Cody Simms (40:08):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+
+Jason Jacobs (40:18):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter at mcjpod.
+
+Yin Lu (40:31):
+For weekly climate op-eds, jobs, community events, and investment announcements from our MCJ Venture funds, be sure to subscribe to our newsletter on our website.
+
+Cody Simms (40:40):
+Thanks, and see you next episode.
+

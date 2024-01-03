@@ -1,0 +1,360 @@
+Cody Simms (00:00:00):
+Today's guest on My Climate Journey is Narendra Taneja, and our topic is India. Narendra serves as chairman of the Independent Energy Policy Institute, a think tank based in New Delhi, and he's a Distinguished Research Fellow at the Oxford Institute for Energy Studies. He presides over the World Energy Policy Summit and was president of the World Oil and Gas Assembly from 2001 to 2011. His expertise spans energy policy, transition, geopolitics and governance, to energy security and associated climate issues, and he's often cited as a powerful voice on the issue of energy and climate, especially in the context of the Global North and the Global South. I've been itching to learn more about how other parts of the world are viewing the energy transition and climate change, and India's position in this conversation is as consequential as it comes. India right now is passing China as the world's most populous country.
+
+Cody Simms (00:01:00):
+It's the world's fifth-largest economy, and it's the world's third-largest electricity producer. It's also one of the countries likely to be most impacted by climate change, and yet its own contributions to global emissions are relatively small, coming in at 3.4% of historical cumulative emissions, which puts it as the seventh most emissions-heavy nation state according to Carbon Brief. For reference, Carbon Brief lists the US as the highest historical cumulative emitter, at 20.3% of emissions, and China is number two at 11.4%. Narendra walks us through India's energy makeup, and our conversation evolves from facts and figures into a pretty active discussion of how the world should cooperate going forward on the energy transition and climate change. And I am confident that the points he argues will cause almost every listener of this podcast to stop and think. And I think that's all I'm going to say upfront. I think you'll enjoy this conversation. I very much did. But before we start, I'm Cody Simms.
+
+Yin Lu (00:02:10):
+I'm Yin Lu.
+
+Jason Jacobs (00:02:11):
+And I'm Jason Jacobs, and welcome to My Climate Journey.
+
+Yin Lu (00:02:17):
+This show is a growing body of knowledge focused on climate change and potential solutions.
+
+Cody Simms (00:02:23):
+In this podcast, we traverse disciplines, industries and opinions to better understand and make sense of the formidable problem of climate change and all the ways people like you and I can help. Narendra, welcome to the show.
+
+Narendra Taneja (00:02:38):
+Thank you. Thanks for having me.
+
+Cody Simms (00:02:40):
+Well, I am so excited for this conversation. Obviously, India is a huge country. It's a incredibly important country, top five in most metrics, whether it's growth, whether it's energy production, energy consumption, obviously population, all of that. And we haven't spent much time on the show talking about it. And so I'm excited to hear your perspectives. I'm going to plead a lot of ignorance here. I'm guessing you're going to bring perspectives to me that come from a different point of view from where I sit, and so I'm really excited to learn from you. Maybe let's start by unpacking the energy economy in India. That is what you spend all of your time thinking about, I think. India has, what, the third-highest energy market in the world, I guess, behind China and the USA? Explain a little bit about the state of things in India.
+
+Narendra Taneja (00:03:33):
+As you know, India is now home to 1.4 billion people, and we are the fifth-largest economy in the world on nominal basis. And if you go by PPP, that is purchasing power parity, we are now $8.5 trillion economy, and on nominal, we are about $3.5 trillion economy. So that makes us the fifth-largest economy in the world. And when you look at our growth, economic growth, we recently actually surpassed Britain. Before that, we surpassed France in terms of the size of economy. And the next five years we will be overtaking Japan and Germany both, and then become the third-largest economy in the world in the next five years. And if you take a slightly long-term perspective, say at about next 30 years, so in next 30 years, India is, according to think tanks and according to organization like BWC and many others. So, in 30 years, let's say by 2047, we will be roughly about $28 trillion economy, and that would make us the second-largest economy in the world after China.
+
+Narendra Taneja (00:04:38):
+So India and the United States will be more or less of the same size, economically speaking in about 30 years from now. And 30 years in the life of a nation is like tomorrow morning. So that's where we are placed. And when you look at in terms of energy and climate, you see energy and climate are two sides of the same coin. If you look at the energy landscape globally and climate landscape, they're like two sides of the same coin. If you look only at the climate, completely ignore energy, which many people do, especially in the western part of the world, then you reach to the wrong conclusion. Then you're basically trying to use coin in the market, which is on one side is working and the other side is not working.
+
+Narendra Taneja (00:05:18):
+So we have to look at both sides. So in India, we make sure, like many others in the world, including people in the Global North, or the rich world, that we look at the energy in the context of climate, in the context of energy. So we are a huge country, as I said, densely populated, growing very fast, which means that we consume every single source of energy that you can think of: coal, oil, gas, renewables, atomic. And we are preparing now for hydrogen in a big way. And yet per capita energy consumption in India is among the lowest per capita. Carbon emissions in India is among the lowest. If you compare, let's say, India with a developed country like the United States or Germany or Japan and all that, whether on any metrics we are actually doing reasonably well. We are not polluting as much as China or the United States or the other developed countries.
+
+Narendra Taneja (00:06:15):
+And at the same time, we are not consuming as much energy as they are on per capita basis in the Global North, or the rich part of the world. And the result of that is that, as you know, there are 3 billion energy poor on the planet, 3 billion, most of them in the Global South, or the developing part of the world. That includes Latin America, Africa and Asia. And many of them are in India. So if you look at India's population, my own kind of analysis is that we have roughly 700 million people in India who probably can be very safely called energy poor. Means they have access to electricity and LPG for cooking food and all that, but that's very, very small, simply because they just can't afford to buy more energy. So basically purchasing power is the main issue.
+
+Cody Simms (00:07:02):
+I saw a stat as I was doing a little research before our conversation that said that something like 99.99% of Indians have access to electricity, but most of that is not through some kind of centralized grid. It's mostly small access to local generator-based electricity or solar panels or the like. Could you unpack that a little bit about how the nation's electricity infrastructure works?
+
+Narendra Taneja (00:07:27):
+Well, you see, to answer your question, the answer is yes and no. Of course, we have a national grid, and it's a recent thing. I mean, we didn't have a national grid, we had a northern grid and a southern grid, and now we have a national grid. But at the same time, since we are a huge country, people are using other sources of energy and also are using decentralized sources in terms of power generation and power consumption. So when you look at the power scenario in India, we are roughly produced about 430,000 megawatts of electricity. That's the installed capacity. And practically every household has access to electricity now, every town and village now has access to electricity. And yet when you look at the per capita consumption, it's low, simply because many of these people, they have access, but they don't have money to pay.
+
+Narendra Taneja (00:08:21):
+So therefore they consume electricity, but they consume as little, as minimum as possible, because so that they don't have to pay high electricity bills. But when you look at the total picture of our electricity, we produce roughly 64 to 67% of electricity using coal. And then we have, of course, other sources including solar and wind and nuclear and hydro, and you name it and we have it. But coal is still the mainstay. And now if you look at the new government policy and the push solar or wind or hydro or biomass or nuclear, I mean, now the plan is to produce 500 gigawatts of electricity from these renewables by 2030, which means that we will triple from the current levels. But then coal will still be playing a very, very important role in overall mix that we use for generating power.
+
+Cody Simms (00:09:18):
+The stat I saw was that it's roughly 60/40, where 40% of electricity is from renewables and 60% is fossil fuels. And of that fossil fuel-based electricity, a little over half is coal. Is that about right?
+
+Narendra Taneja (00:09:31):
+Well, 60 is safe, but maybe slight little more than 60, the reason being that we still have... I mean, if you count nuclear as renewable, you count, let's say, hydro as renewable, and you go for a more generous definition of renewable, then you can say 60/40. So I think if you really use a little microscope, I think it will come to roughly 64%
+
+Cody Simms (00:09:56):
+It seems like solar and hydro are the big investment areas right now. Is that accurate?
+
+Narendra Taneja (00:10:05):
+Well, good question. I mean, if you look at the picture now, solar of course is a big boy. Solar, the last six, seven years has grown very, very rapidly in India. And wherever you go, you travel around the country, you see solar panels practically everywhere. So solar power has been initiated by the federal government. And then many state government... As you know, India is like the United States, we are a federal structure and electricity, power is a state subject. Central federal government plays very important role, but the states also play a very important role. And so solar, of course, is kind of a big boy and it's growing rapidly. Wind now is very, very important and growing, and now the focus is more on offshore wind, in terms of policy and policy push and the incentives from the government. So I think in the next 2, 3, 4 years, you're going to see India's West Coast and East Coast, and we have a long coast, are probably dotted with wind farms all across.
+
+Narendra Taneja (00:10:58):
+And many countries, from the United States, Japan, Europe, they're now coming to India and setting up joint ventures for offshore wind. Same goes for biomass and other sources. But solar is, and I feel very happy when I talk about it, is that yes, the government took the initiative, government came out with the solar policy initiative, policy infrastructure and support and subsidies and everything, but now solar has been adopted by the people. So it has become a people's revolution. Now the lead is being taken by the people. I mean, wherever they see an opportunity, they want to participate in this solar revolution. Means that even if they've got just $1,000, they ask this question. When I travel around, they say, "I've got only $1,000. And then can I set up my own small solar power unit?"
+
+Narendra Taneja (00:11:46):
+And that's come from the people who can't articulate their thoughts well, not that well-educated and [inaudible 00:11:52] literate, but they know solar and they want to be part of it. So I think that's something which is probably the most fascinating story when it comes to India's renewable energy or the climate landscape. The people have taken over and they're the one who are leading it. The government is basically just supporting it.
+
+Cody Simms (00:12:08):
+It seems like there are quite a few NGOs and local Indian NGOs focused on helping to bring solar panels into households for basic things like phone charging and water purification and whatnot.
+
+Narendra Taneja (00:12:22):
+Hundreds of them. Hundreds of them. And these are people's initiatives. I mean, these are the initiatives which are being taken kind of like you said, like a cottage industry. I mean, you go from village to village and village wants to be self-reliant in terms of power. And they think the best way is that they join hands, join forces, whether who can mobilize technology or who can mobilize basically expertise. And then they want to set up their own small solar power plant and maybe even mini-grid if they're able to mobilize the sources for that.
+
+Cody Simms (00:12:52):
+I want to talk a little bit about oil, but before we go there, I want to make sure I understand. On the coal side, is China mostly an importer of coal or does China have a domestic coal industry?
+
+Narendra Taneja (00:13:01):
+Both.
+
+Cody Simms (00:13:02):
+Both. Okay.
+
+Narendra Taneja (00:13:03):
+Both. China's both, and they also have a domestic, and they're also invested in coal mines overseas. And in India, we have the third-largest coal reserves in the world.
+
+Cody Simms (00:13:13):
+You do, okay. That's what I was wondering. Because I know for oil, it's mostly imported. I was interested to hear, as renewables take hold, that obviously gives India more control over its own energy sources. But it sounds like India's had that control from a coal perspective for some time.
+
+Narendra Taneja (00:13:28):
+No. It's not that simple. Let me put some facts in front of you. The reason that we focus a lot more on coal is that when you look at India's energy security, energy security from the Indian viewpoint is basically securing a supply of fuels that we use, for power generation, for transport and for energy as a whole. So when you look at India's energy security, the only area where, for instance, we have got sufficient domestic resources, that is coal. I mean, 80% of the coal that we consume is produced in our mines at home. We still import roughly 20%. The strategy now is to bring down our import dependence of coal to zero over the next 15 to 20 years. But we have large, huge reserves of coal in the country. When it comes to solar, solar, for instance, is growing rapidly in India, and as I said, it has become a grassroots revolution practically.
+
+Narendra Taneja (00:14:28):
+Yet our dependence on equipment and cells and panels and all that for solar on import is very, very high. It's almost 80%. I mean, in some cases even more than 80%. And what basically worries us that actually when the 80% is mostly from China, which is if you ask, in terms of geopolitics, is not necessarily our great friend. Which means that when it comes to our energy security, except for the coal, we are extremely vulnerable. Solar revolution is here, but then we import more than 80% of our requirement of equipment and panels and so on and so forth on own imports from China and also from Israel and Canada and the US, but mainly from China.
+
+Cody Simms (00:15:12):
+That coal market, is that mostly nationalized?
+
+Narendra Taneja (00:15:15):
+Good question. You see, coal is mostly nationalized. In fact, almost 80% of coal is produced by a company called Coal India, which is a public sector or a government-owned company. Coal is the mainstay of India's energy security. Oil is not because we import 86% of our total requirement of oil from overseas. Natural gas, we import roughly 56 to 58%, and solar power equipment panels, et cetera, we import more than 80%. According to some data, 88%. So which means that when it comes to energy security, the only comfort we get is from coal. Otherwise, we are extremely vulnerable. China, it's dependence on imports for all these for energy is not as high as India. And when you look at the large economies of the world, I mean, we are probably the most vulnerable because China is not that vulnerable. China has also invested heavily in buying coal, oil, gas assets overseas. Also, they have special ties with Russia.
+
+Narendra Taneja (00:16:21):
+Or you look at Brazil, Brazil is self-sufficient. Russia is self-sufficient. I'm talking a large economy, or the BRICS countries. So we are the only large economy in the world which is so heavily dependent on imports for fuels and for equipment and et cetera, for renewables. So therefore, it is for us the domestic resource, we try to use it as much as we can. And our dependence on coal is not going to come down anytime soon because we are rapidly carbonizing coal sector, the Indian power sector. But coal today, as I said, it's more than 60% of electricity generation is from coal. But even if you take, let's say the future scenario, let's say 2030 or 2032, I mean, it will come down to 54%, but 54% of electricity will still be generated using coal.
+
+Cody Simms (00:17:13):
+This is such helpful context. And as you said, India has a different scenario that me sitting in Los Angeles may not be able to fully appreciate. Oil and gas is oftentimes the bogeyman in climate conversations. But in reality, coal is incredibly emittive and creates a ton of emissions. And so I hear the conundrum that India is in, which is India can't just relinquish control of its energy economy, and yet the primary natural resource that it has, it is coal. And so you started to mention, there are ways we're looking to use coal in a way that is less emittive. What does that look like?
+
+Narendra Taneja (00:17:47):
+Well, the idea is to bring in the best technology available so that we can exploit coal and use coal in such a way that we can bring down the contamination of air or water or [inaudible 00:18:00] to the minimum possible. And so there's a lot of research happening in Russia and in China and in some other parts of the world. So we are in touch with them and bringing in that technology, bringing in those practices. Because our commitment to use coal in an eco-friendly manner has nothing to do with our commitment to the global community in terms of the Paris Climate Agreement, or Glasgow, or Sharm El Sheikh and so on and so forth. Of course, it is there, because we are a global citizen, and India, unlike other countries, we walk the talk. If we have made a promise to the global community, we will actually walk the talk and probably deliver faster and sooner than most developed countries, like we have done on solar renewables.
+
+Narendra Taneja (00:18:46):
+On renewables front, we are doing better than most developed countries. Promises that we made in Paris, many of them have been already delivered. So we are not like the United States that you come sign Paris Agreement and then comes a new president and actually leaves the whole thing. He says, "I have nothing to do with Paris Agreement." And then you get another president, he joins back. So that's a different story altogether. But we are not like that. In our culture, once you make a promise, then you have to deliver. You have to walk the talk. That's Indian traditional culture that you respect your commitment. So as a nation, we as an industry, we do that. But at the same time, it's important to understand that we strongly believe that these narratives, climate narrative or the energy security narrative or energy transition narratives, these narratives should be built in a more democratic manner.
+
+Narendra Taneja (00:19:40):
+I mean, I personally have the view that when you look at the Paris Climate Summit or Glasgow Climate Summit or Sharm El Sheikh, or now the coming one in the United Arab Emirates, I think it's important that these narratives or the agreements that are made there, the process is democratic. I don't think, my personal views, not of Indian government, my personal view is that most narratives, global climate narratives are built by the Global North, or the rich countries. And they're designed in such a way that they serve their interests first. Because their intellectual capacity, they have a research and development capacity. They're better at negotiating skills, they're better at diplomatic skills. They have money power, and they have basically know how to, A, build these narratives and also disseminate and control. So I don't think that's that model where the rich countries, they build narratives and their basically to their advantage first.
+
+Narendra Taneja (00:20:41):
+I don't think that's a very sustainable approach. It's important that global narratives on climate, global narratives on energy transitions are built in democratic way, allowing every country to participate, bring its own view to the table and then process. And then make sure that the climate agenda is such that it works for everybody. I mean, it's not possible that this tendency or this mindset that, "We are rich, so we know better. We will build narrative. You're a poor country in Africa or Asia, Latin America. You better listen to us, otherwise we'll make your life difficult or we'll punish you one way or another." So I think this approach actually is the biggest hurdle for the world as a whole to achieve the climate agenda or the climate goals.
+
+Cody Simms (00:21:27):
+I love this, I want to spend some time here. What I understand of the climate change narrative as it relates to India is India is one of the countries that is likely most affected by climate change. India is less than 10% of global emissions and close to 20% of world population. So amidst relatively low amount per capita, we just talked about coal as being a heavy source of power, which I wasn't aware of the whole energy security issue with coal in India, but fascinating to learn. I would presume coal has not just a global greenhouse gas emissions footprint, but also a local air pollution footprint, so that presumably as India reduces coal it probably increases population health to some extent.
+
+Cody Simms (00:22:14):
+And then in general, understand that India has made now commitments to reduce total emissions.They're decades out, but India has a huge task ahead of itself as it modernizes and develops its economy, to do so while not being penalized for living in a world that the rest of the developed nations already trashed. And so that's sort of where I sit in terms of understanding the justice angles of that. But I'm really interested to hear your perspectives and how my narratives may be skewed by reading the media I read and whatnot.
+
+Narendra Taneja (00:22:50):
+You see, the point is that when, as I said, that by attainment on many conferences on climate and zero emissions and energy transitions all the time in Europe and your part of the world and in Japan and the rich countries and also the developing countries. You see, the problem is that we are a small planet, but we are also at the same time a huge planet. There are more than 200 countries and different countries are at different stage of development. The rich countries, they have developed fast. They are the ones who polluted the... I mean, if there is a climate crisis today, the rich countries are responsible for it, not developing countries like India or countries in Africa. No, the rich countries are responsible. And now, you see, the problem that we face when we negotiate in climate summit that they have polluted and they have become developed.
+
+Narendra Taneja (00:23:43):
+And now they have basically said, "All right, we want to live this high standard of life, but our factories are located in China, Vietnam, Bangladesh, India. Tomorrow is going to be Africa. And yet we want to control everything." That's the problem, you see. And at the same time you go to any climate summit or energy summit or G20 or G7, all those summits, the rich countries basically do the talking. They think they're the only one who can think. They're the only one who can build narrative. They're the only one who can build solutions. And they think that people living in developing economy, they're not capable of it, especially if you happen to be in Africa or you happen to be in a poor part of Asia. Which is so disturbing, because you may be a poor country, but in terms of intellect, you may be superior than many rich countries.
+
+Narendra Taneja (00:24:33):
+What does, for instance, intellectual superiority, inferiority has to do with your economic prosperity? Nothing. The problem is that rich countries think that. Why don't you let Africa think and find its own solution on climate? Why don't you let Kenya, encourage, help Kenya to build capabilities and capacity so that they can come up with their own climate roadmap, their own energy transition roadmap? Or why don't you help India to do that? I mean, we are doing it anyway. And why don't you help South Africa or a developing country in Latin America? Why do you think that only the rich country can think and others are not blessed with any brain, or mind? So that's the problem. Let me give you an example of Glasgow. In Glasgow Summit, the climate summit, all coal companies, oil companies and gas companies, they were kept out of the room.
+
+Narendra Taneja (00:25:28):
+You are discussing climate and you are basically talking of a long-term agenda, you are talking of 2050, 2070. And you are also basically tried to find a solution that, okay, this oil pollutes, coal pollutes, even natural gas pollutes. And you are talking of the world without oil and gas and without coal and so on and so forth. But you're keeping these boys out of the room, you keep the industry completely out. They're out somewhere on the street. Come on. And especially when it comes to the developing countries and the smaller countries in the developing part of the world, you treat them like dirt because you are rich and you think that, look, you can. This is the reality. You have to talk heart-to-heart with ministers of smaller countries from Africa or Asia, Latin America, how they feel. I mean, India is a different country. We are intellectually strong country. We are intellectual superpower.
+
+Narendra Taneja (00:26:22):
+Many of Indians are running some of your top companies in the United States. We know how to deal with these people. This arrogance of the rich country, we know how to deal with them. But there are other countries, they can't deal with them. If you are Nepal or you are Rwanda or you are Somalia, you can't deal with them. Because then they [inaudible 00:26:40] the privately deals. All right, we'll cut off the lights, or we'll make your life difficult, or we will create this problem for you, or we'll impose sanctions against you and so on and so forth. So my point I'm trying to make is when you talk of climate, you have to understand that climate is not only the way you look at the climate issues or the climate agenda or the climate crisis or the climate security, sitting in a rich country like the United States, or sitting in the richest part of United States like in California.
+
+Narendra Taneja (00:27:06):
+The problem is that you are sitting in Norway or sitting in Switzerland or in rich Germany or even Japan. The point I'm trying to drive home is taking the opportunity in my conversation with you that please try to look at it. Climate is a global agenda. It's a global crisis. And therefore it is important what you think is important, but the same way, what a guy in a small town in Rwanda or Indonesia or Bangladesh think is equally as important as you. And that is not taken into consideration. And the result is you meet a lot of people in the rich countries, they're like climate fundamentalists, and how do you talk that? You can't have even a conversation with a climate fundamentalist. You can't have.
+
+Cody Simms (00:27:47):
+Well, hence why we're having this conversation today. So I want to hear how you would propose these international conversations. How should they be? What would they look like in an ideal world to try to get to better understanding?
+
+Narendra Taneja (00:27:59):
+Good question. You see, first of all, let me give you a slightly more, since we are talking about India, then I'll come to answer your question. Look at India. Look at India's climate, India's energy security challenges. We import 86% of our requirement of oil. 86%, imagine. And we are the third-largest consumer of oil on the planet. We consume 5.2 million barrels of oil every day. Out of this 86% we import, natural gas. The natural gas is part of our energy transition agenda. We import roughly 56% on natural gas. And I have already explained to you about equipment for solar and so on. We also import significant amount of uranium for our nuclear power plants. The share of nuclear in India's energy mix is very small. It's about 2%, but yet we import a lot. Now, the point I'm trying to drive home that the kind of challenges we face, and we are an economy which is going to be the third largest within the next five years and going to be the second largest within the next 30 years, which again, in the life of a nation is like tomorrow morning.
+
+Narendra Taneja (00:29:03):
+So with that kind of picture, that kind of scenario, we have no option but to look at climate strictly from our viewpoint. We look at energy transition from our viewpoint. Yet at the same time, we want to be... We are a global citizen, we are a large country, we're a responsible country. We try to do as much as possible in sync with, for instance, which is the best for the world, also in hand to hand with the rich countries. To the extent possible we do that. But coming to your question, you see that I think we need to democratize global debate on climate. Right now, debate on global climate, debate is not democratic. It's dominated by the rich countries, and they don't allow much space to smaller developing countries or a developing country. I mean, country like China and India, Brazil, we are now large economies, so we are able to basically find some space on the global high table of climate. But smaller countries or medium-sized country, they have no space.
+
+Yin Lu (00:30:05):
+Hey, everyone, I'm Yin, a partner at MCJ Collective, here to take a quick minute to tell you about our MCJ membership community, which was born out of a collective thirst for peer-to-peer learning and doing that goes beyond just listening to the podcast. We started in 2019 and have grown to thousands of members globally. Each week, we're inspired by people who join with different backgrounds and points of view. What we all share is a deep curiosity to learn and a bias to action around ways to accelerate solutions to climate change. Some awesome initiatives have come out of the community. A number of founding teams have met, several nonprofits have been established, and a bunch of hiring has been done.
+
+Yin Lu (00:30:38):
+Many early stage investments have been made as well as ongoing events and programming, like monthly women in climate meetups, idea jam sessions for early stage founders, climate book club, art workshops and more. Whether you've been in the climate space for a while or are just embarking on your journey, having a community to support you is important. If you want to learn more, head over to mcjcollective.com and click on the members tab at the top. Thanks, and enjoy the rest of the show.
+
+Cody Simms (00:31:04):
+What would that look like? For example, I have no idea. It's a great point and a great question. I have no idea who are the authors behind the IPCC report, for example. I have no idea.
+
+Narendra Taneja (00:31:13):
+Let me answer. Question is that you know what? The IPCC report, I mean, the chair can be a guy from India, or they used to be actually from India. Yet, for instance, when it comes to all the goals that are set, unless you agree with them, unless you agree with the rich countries, you can never become the chair of such a panel. You can't. You see, someone like me would never be accepted because I challenge in the sense that I take a more honest view. And I speak from my heart, speak honestly, because I don't care whether you give me this panel chair or not. I give [inaudible 00:31:48]. But I care for my climate. I care for climate. I care for my children. I want my children and children's children to live a better life than us.
+
+Narendra Taneja (00:31:56):
+And therefore, it is important. This is the only planet we have, this is the only thing we have, so we have to take care of it. And this is also my traditional wisdom in India has taught me, because we have always been extremely sensitive to nature and animals and all that. So therefore, our view is different. But what we need today, we need a new climate governance order in the world. The climate governance order which exists is dominated by the rich countries, is not democratic, and it's very, very difficult, for instance, for the smaller or weaker developing countries to have any say. For instance, let me give an example. In Paris Climate Summit, rich countries committed to give a hundred billion dollar to developing countries as part of the technology transfer support and agenda. What happened to that? You know what is the amount today that these rich countries owe to the developing countries? It's more than a trillion dollars. More than a trillion.
+
+Narendra Taneja (00:32:51):
+And today, for instance, if we want technology that's been developed there, or they say, "all right, this is the price. You got to pay this price." Why can't we create a new, more democratic global climate order? And as part of that, we create five or six global research and development centers for renewables, for energy transitions, where, for instance, whatever the technology is developed there is developed jointly by scientists from the Global South, Global North, rich countries and the poor countries, but is for the next 20 years funded by the rich countries. And whatever comes out of such research and development centers actually is available to anyone and everyone interested. Whether you're a rich country or the poor country, you don't have to pay excessive amount of money, which you have to pay. Number one.
+
+Narendra Taneja (00:33:36):
+Number two, the same goes for the... Luckily we have now some kind of climate governance order, a system, thanks to all those COP summits and all that. When you look at global economy, the biggest segment of the global economy is actually energy. And there is no energy governance, none, zero. You have global organization, regulatory mechanism for everything today. You have for health, you have WHO, you have UNESCO, you have WTO. And you have COP and the regulatory mechanism for climate, not for energy. Do you know why?
+
+Cody Simms (00:34:09):
+I don't know why. I'm very interested to hear why.
+
+Narendra Taneja (00:34:11):
+The reason is just because this is the most lucrative part of the global business. And you have seen, for instance, what happened here in the United States, Western Europe, Russia. I mean, they're fighting over Ukraine. Whatever happened in Ukraine is kind of between them and all that. They got to find a solution to that. And of course the people suffering, and that's so unfortunate. But look, the entire world is paying the price. Entire world. Commodity prices have gone up, energy prices have gone up. And what happened when these things started, they said, "We're not going to buy any oil from Russia. We are not going to buy any gas from Russia." And they turn to Middle East, the Gulf countries, to the United States. To the same sources, for instance, that for instance, energy deficit countries like India, they use. And the result is prices have gone up because they can afford to pay more.
+
+Cody Simms (00:35:03):
+Are there any examples of international cooperation... I mean, you're totally right. There is no energy global regulatory body or engagement body. Are there any examples outside of energy and/or climate, whether it's the IMF or the WTO or UNESCO or any of those that you mentioned that you believe are more democratic in approach, that could be a model for how climate conversations and/or energy conversations should go?
+
+Narendra Taneja (00:35:29):
+No. You see, the intergovernmental bodies are different, like UNESCO and WTO, but at least they provide a platform where you can have open and democratic conversations. But when it comes to energy, there is no such thing. And today, there used to be an energy order, informal one, which was basically dominated by global supplies and American dollar. In the sense it has been enforced in the 1970s, at least international oil order. But now it's, of course, disrupted since the Ukraine war because Russia. There is sanctions against Russia. Russia has imposed its own sanctions against Western countries and so on and so forth. And the result is that oil prices have gone up, or the national gas prices in particular have gone up.
+
+Narendra Taneja (00:36:11):
+No, there is no such mechanism. But the important thing is to the rich countries have got their own mechanism that's called International Energy Agency, which is a body of the OECD countries. And other countries can be associate member, but they're never in the cockpit. Like India is an associate member, China is an associate member, Brazil is, but they're not in the cockpit. So associate member means you sit outside in the lounge. You are not allowed to come in the cockpit. But no, there is no such mechanism. I think what we need-
+
+Cody Simms (00:36:38):
+India, China and Brazil are associate members of the IAEA. That's what I just heard you said?
+
+Narendra Taneja (00:36:43):
+Yes.
+
+Cody Simms (00:36:43):
+I had no idea. That's insane.
+
+Narendra Taneja (00:36:46):
+Yeah, they're associate members. And the largest consumer of energy, India and China, are the associate members. Basically that you are welcome to the lounge, have coffee. But in the cockpit, only the rich countries. This is an organization of the rich countries. But what we need is global conversation, a new global organization which is focusing on energy and energy transition, and which is a truly global organization, preferably with headquarters somewhere in our part of the world, in Asia, like in China, India, Australia, Singapore, Vietnam, Japan, one of these countries. Because let's not forget one thing, the global economic gravity center, global energy gravity center has moved from the Atlantic to Asia now. It is in Asia. Gravity center is no longer in the Atlantic, so it's in our part of the world. But the rich countries are refusing to acknowledge it. In 10 years, they will probably understand. But the fact is it has already moved.
+
+Narendra Taneja (00:37:50):
+So we need a global organization for energy, for conversation, with some kind of governance, some kind of regulation, and a body which can meet at a very short notice if the world is faced with, let's say, crisis like Ukraine. At least so that there is a platform. You just meet there, just like the Security Council meet. And we need some kind of mechanism. The other option is that in the United Nations, we create a United Nations Energy and Climate Security Council, a separate body which is focusing on energy and climate, and which is as powerful as, for instance, the Security Council is today. So we need to create something like that, a kind of global umbrella body. And for both energy and climate or energy transition, we need something like that. We need conversation. You know the problem? Rich countries are not ready to even have conversation on this issue. They want to maintain the status quo because it works for them the best. It works for them the best. They don't want to have conversation.
+
+Cody Simms (00:38:49):
+Are any major world leaders pushing for this right now?
+
+Narendra Taneja (00:38:52):
+Any conversation in the world, I mean, the conversation first starts from the ground somewhere. Maybe an individual, maybe a book, maybe a think tank or a conference or a collective. That's how it starts before it's adopted by a politician or a statesman or president or prime minister. So I mean, there are conversations, of course, by people like me, and there are quite a few like me. And many of them actually, majority of people I have who subscribe to the worldview that I'm sharing with you, many majority of these people are actually in the Global North. They may be living in the rich north, but they understand and that's why they support it. So I think these things take time, to build such a collective, but we need to do it.
+
+Narendra Taneja (00:39:32):
+Unless we do it, most politicians work on very short term agenda. Most politicians, whether American president or chancellor, and any country for that matter, including India, they have a very short term agenda. Their actually agenda is limited to the next election, not to the next generation. And when it comes to climate, you have to basically keep in mind the next generation, not the next election. That's the problem.
+
+Cody Simms (00:39:58):
+Let's shift the conversation a little to talk about money and finance, which also has the bent orientation, I believe, that we're talking about here. How does finance shift into places like India to help grow the renewable side of the economy, to help drive more support for India to maintain energy security while also working toward global goals around climate change, even if those goals today are set by primarily the Global North?
+
+Cody Simms (00:40:29):
+The way I see it, you have traditional sources of capital, which is the banking and financial services sector. You have rapidly emerging wealth in sovereign states in the Gulf and other places. And you have rapidly emerging wealth in China and other parts of Asia, which are these new sources of wealth in the world. How do you see the climate finance world changing in the coming decade or two?
+
+Narendra Taneja (00:40:54):
+Well, interesting, interesting question. You see, I would hesitate to use the word help. I would say partner. You see, it's all about partnership. So I think it's important, when it comes to finance, that we basically build a kind of two-tier system in the sense that there is one tier which is basically for profit. I mean, of course there's nothing wrong with it. I mean, there are people who are lending money and borrowing it from individuals and entities and so on and so forth, and bring that money for renewable sector to India and other parts of the world. So for profit, which is absolutely a good idea, and that's already happening. But I think it's important that we need more conversations so that those coming to invest, they know the ground realities and they also, their capital is safe.
+
+Narendra Taneja (00:41:40):
+Number two, at the same time, we need to build platforms where, for instance, capital is available for renewable sector in economies like India or in Africa or in the Middle East or in China, Vietnam, Bangladesh, Pakistan and all these countries, in such a way that they don't feel this burden, that look, I mean, they must give good returns over the next quarter. Because when it is done strictly on commercial lines, the focus is more on returns as soon as possible. And everything is basically seen from the quarter to quarter investment, return on investments and so forth.
+
+Cody Simms (00:42:17):
+Basically an expansion of the development bank infrastructure that exists today, but is maybe governed more like the way the IMF works, but focused around climate, perhaps?
+
+Narendra Taneja (00:42:25):
+Yeah. But no, I think we need to think a little beyond it. In the sense when you look at the next 20 years, next 20 years, I think we are going to need, for Africa alone, we will need maybe more than $2 trillion for energy transition, climate challenges, climate-focused economies and so forth. Only for Africa. And Africa why I mentioned because Africa, you see India and China, these large economies will peak by 2050. I mean, India will be a developed country and China will be a developed country, and we will peak and we'll still have 50 years left in this century. All these countries, India and China, and even Indonesia and Brazil, they will be basically heavily moving into Africa just to sustain their economies. So this means that Africa will become the focus, and therefore Africa will need this money between now and let's say 30 years so that Africa's ready for that. And they don't commit the same mistakes, for instance, China has committed, India's committing or Indonesia is committing in terms of pollution, emissions, climate and so on and so forth.
+
+Narendra Taneja (00:43:27):
+So therefore, what we need is kind of more broad-based. We got to realize, when we created the World Bank, World Bank was created post the Second World War, and it has played a very important role. IMF has played and all these [inaudible 00:43:41] institutions created post-World War II, because at that time the idea of the world was different, but energy was not on the agenda. Energy transition was never heard of. Climate was not an issue. But now in 2023, our biggest challenges are basically climate, energy transition. These are the big challenges. These transitions and transformations, result-oriented initiative need trillions and trillion of dollars. So we need new institutions. We need a bank, a global bank for climate finance. We need a global bank.
+
+Narendra Taneja (00:44:13):
+Intergovernmental bank focused only on climate financing, which is basically a modern bank. A modern bank with a modern outlook, and looking at whether the rich country or the poor countries with respect, trying to build bridges from where the capital is available to where the capital is needed. And have that customized expertise. It's from the scientists and economists to understand these issues, a dedicated global climate bank. And that's what's needed. So for instance, let's say country X in Africa or Asia is working on energy transition. And because they have made a commitment to global community in terms of climate goals, but they're struggling and they need funds. So there is this global climate bank like the World Bank which basically has the right expertise, has got the right tools, and is going to have the right solutions available and the right people. And they go there and help that country basically to find a solution.
+
+Narendra Taneja (00:45:07):
+Then, around that, we build these thousands of thousands of known intergovernmental banks and institutions, private initiatives, private banks, other financial organizations which are working. So basically, this new bank, climate global, global brand, becomes like the sun, and then you have these thousands of planets which are going around it. And then planets have their own satellites and so on and so forth. So we need a new universe completely for climate finance. We think that right now what we are doing is not even 1% of what we need. It's not even 1%. And I find the world is so casual about it. Even the COP is so casual about it. There is lip service and nothing happen after that. We need to think completely out of the box and build new institutions, build new institutions in areas like climate finance, build new six or seven labs, which are dedicated only for what is technology for the renewable sector, and which are basically whatever comes out of this technology are patented but available at practically no cost to end to the countries.
+
+Narendra Taneja (00:46:06):
+So I think that's what we need. COP summits are fine, but the problem is that even there, they're not thinking out the box. It's more routine. It's more about balancing. It's more about saying, like the scientists say, "Buy this." So the easiest thing is the rich countries tell the poor country, "Look, don't do this. Don't use coal, don't use oil, don't use this." It's basically more like this, it's like a big dad telling the small kid, "Don't do this and don't do that." We've got to change this culture. We need a new culture.
+
+Cody Simms (00:46:32):
+I love thinking about history. And post-World War I, you had the League of Nations emerge. Post-World War II, you had the UN and a number of these institutional bodies emerge. What in the world is the catalyzing effect that causes these large-scale systemic changes that we're talking about here, which is intergovernment regulatory body on energy and climate, complete transformation of the global monetary climate finance space? I agree, these are the kinds of broadly, hugely impactful things that need to happen in the world. But how does it happen?
+
+Narendra Taneja (00:47:07):
+Well, good question. Until recently, you talked about the First World War, the League of Nations, then Second World War, the United Nations and so on and so forth. Then we built a number of other organizations around the world. But look, the world has changed dramatically the last, let's say, 10 years, especially the last 10 years. In the past, Kennedy was leading the United States and Cuban Missile Crisis became basically a kind of landmark event, and that basically guided diplomacy in the Atlantic for years. And there were leaders like in the past [inaudible 00:47:43] Churchill, you had leaders like in your history, in our history and European history and America, British history and so on. But today, people say we don't have leaders of the same stature that we used to have in the sixties and the seventies or the forties and thirties. You know the reason? Technology is now the new leader. Technology is setting the agenda.
+
+Cody Simms (00:48:01):
+And I mean, we have to acknowledge all those institutions we just named, even the post-World War II ones, India and China were barely countries when those things came together. India independence was what, in 1947? China was 1949. The amount of change that's happened since those dates is insane.
+
+Narendra Taneja (00:48:20):
+No, no, no, no. Sorry. Sorry, my dear. Sorry, my dear. And don't edit this part. No. If you look at the history, you can't look at history selectively. You know which, for instance, which countries were the largest economies on the planet between let's say 180 and 1726 AD? You know the largest economies in the world? India and China. India and China accounted for 54% of global GDP. India and China, the largest economies on the planet. United States didn't exist. Europe was a poor region. Britain was a poor country. So India and China were the largest economies in the world for 1600 years of the last 2000 years. So what basically is happening now, within the next 30 years things are going to come full circle.
+
+Narendra Taneja (00:49:10):
+India and China will again be the largest economies on the planet. And this is no new development. It's just the circle coming full. That's it. Because India and China have always been the gravity center of the world. Look at the history carefully. Why Britain wanted to come to India? Why did they come if India had nothing to offer? It was only thanks to the Industrial Revolution in Europe, which happened in Europe.
+
+Cody Simms (00:49:32):
+Technology advanced first, you're right. In Europe.
+
+Narendra Taneja (00:49:35):
+Exactly. And coal. And coal. You see, that changed the economic landscape, and they became economic powerful. And then they were in a position to colonize the world. And that's, for instance, went on for like 250 years. So India and China and most parts of Latin America, most parts of Africa, they became colonies. But now the world has started changing again, and you see that if you see the history very carefully... And this is no fiction. Read any history. India and China were the largest economies of the world. In the last 2,000 years, India and China together, for 1700 years we were the largest economies. We were the world leaders. Not the United States, not Europe.
+
+Cody Simms (00:50:17):
+Yeah. My point was just that the current world order was created as the current versions of India and China were barely countries themselves. That was my point.
+
+Narendra Taneja (00:50:25):
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. I mean, if that was the case, how come China was member of the Security Council when the United Nations was created? They were member of the Security Council and permanent, and they had the veto power. If China was nowhere in the picture, no, China was there. China was not a communist country at that time. It became communist in 1949. And actually, the permanent membership with the veto power was offered to India. And India at that time, because India and China were close, India said no. China is bigger than us in population and size. So China was representation in the UN Security Council as a permanent member. So that's how they became the permanent member and got the veto power, thanks to India. Because that was the time we were thinking more in terms of Asia being one region.
+
+Narendra Taneja (00:51:08):
+But now, of course, China is different and China is very hostile and China is not that friendly at all. And there are many other issues, not only with India, China's problem practically with every neighbor. But that's a different story altogether. But no, India was there. India was actually much bigger. If you look at the history of India, India during the Mughal period, India's territory started from what is now known as Afghanistan, and it went right up to what is known as Burma today, or Myanmar. It was huge, and it was a big economic power. And if you go to Cambodia, if you go to Malaysia, you go to Indonesia and Bali, you see the footprints of Indian cultural domination everywhere. Everywhere. Buddhism was born in India and it went all over the world. You think anything can travel from any country to any country without the economic muscle? It traveled because India was a strong economic force.
+
+Cody Simms (00:52:01):
+So back to my question then, you were starting to say what's shifting now is technology is driving the new world economy.
+
+Narendra Taneja (00:52:09):
+Agenda.
+
+Cody Simms (00:52:10):
+Yeah, the new world agenda, excuse me. How do we create new global institutions in the face of that?
+
+Narendra Taneja (00:52:15):
+A very good question. I think, I mean, India and China, Brazil, we are already pushing for it. But there is of course, resistance. America, Western Europe, these countries don't want that change. They want status quo because it works for them. But then India is growing very fast. China is growing very fast. Hopefully, Indonesia will become a major economy. Very close to you, Mexico will become a very large economy, will be among the top 10 large economies in the world in the next 30 years. And then we will also have Nigeria emerging as a strong economic force. And we think that even Turkey and Vietnam and these countries will also emerge. So we need to work together and force the change. I don't think that the rich countries will allow any kind of transformation in the global governance landscape unless and until India become stronger economically and China becomes even more stronger, Indonesia also becomes stronger, and Brazil and Vietnam, three, four other countries. And then we basically will have to enforce it.
+
+Narendra Taneja (00:53:19):
+There's no other way, because no change happens just on, because these... You're not running a monastery where you have got saints sitting there. These are all politicians, and these are large, powerful economies. And why would they really want to any change? They're so used to this great life, a comfortable life and dominating the world, dominating narratives, building narratives. It works for them. They're so used to it that they don't even read the history of the other countries. They don't. In the Global North, they know so little about the history of countries in the Global South. Is this going to change just across a negotiating table? No. The only option is for developing countries like India, emerging economies like India, to grow faster and become $30 trillion economy ASAP, China to become even stronger, Vietnam to work hard, become big, big economy, Indonesia to become [inaudible 00:54:08] economy, Brazil and all these countries.
+
+Narendra Taneja (00:54:09):
+And then we sit across the table, we say, "Hey guys, you got to listen to us, period." And that's how it works. Unfortunately, the power politics works like that. Power politics is not kind of... If you're a saint, go to monastery and meditate there. But if you want real change in the world, you have to have economic and political muscle. That's how it works. I'm not using military, I'm not saying force. I'm just saying they respect you when you have economic power. Today in the modern world, you need to have economic power of economy, power of technology, and power of knowledge.
+
+Cody Simms (00:54:42):
+It feels like we're seeing that a little bit happening, starting to happen in Europe where, of course, different European nations still have EU and Security Council seats. But for the most part, is international dialogue happening with EU representing most European nation states as opposed to individual nation states trying to command equal attention? Or am I rose-colored glasses with that transition in Europe?
+
+Narendra Taneja (00:55:10):
+Well, you see, I mean, Europe is a very interesting part of the world. It's probably the most beautiful part of the world. I love Europe. I lived there, used to live there, and go there six, seven times a year. They're very familiar. I think EU is a very, very interesting project. And I actually wish it well. It was very unfortunate that the Britain decided to exit European Union. And if you see really by cold fact, the second-largest economy in the world even today is not China, is Europe. Europe is the second-largest economy in the world, and Europe has the potential to emerge as a kind of strong pole in the multipolar world with its own worldview.
+
+Narendra Taneja (00:55:52):
+Right now, Europe does have its own worldview. It's kind of more together with the United States. They're like twins. They work together, they think together. And very often the United States, with all due respect to my friends in Europe, United States dominates because it's bigger economy and it is a bigger military force and so on and so forth. And there are other reasons. But Europe in time to come, I hope that this project will succeed. There are many challenges because Germany has kind of its own way of thinking. France has its own way of thinking. Even small Italy has its own way of thinking. Now we find Poland has a very different way of thinking. So there are huge challenges to the project called European Union. So I would not take it for granted yet, but I think it's a very good project, and I really want this project to succeed because then it will become a kind of a model, a template for other regions to get inspiration from and then hopefully succeed.
+
+Narendra Taneja (00:56:48):
+For instance, ASEAN countries. For instance, countries like India and the Middle Eastern countries like India and United Arab Emirates, Saudi Arabia, and hopefully Iran can form some kind of a common market so that we can basically exchange ideas and work together to ensure prosperity and stability. So Europe is very, very interesting, but I'm an optimist, but there are many challenges, many, as we can see today. Over Ukraine, there are many challenges. The fact is, on surface it may look like Europe is thinking in one voice with one distinct. That's not the case. With Germany on Ukraine has its own ideas. Publicly they don't probably share that. But if you talk with in private, they have their own views. France has its own view. And my sense is that Germany and France, they want ceasefire in Ukraine as soon as possible. But then the other countries like Poland and the United States, they have their own view.
+
+Narendra Taneja (00:57:39):
+So there are differences. I won't say serious differences, but there are differences. So therefore I would not take the project called European Union for granted. But it's a very interesting project and I really wish that project called European Union succeed because it'll be good for the world.
+
+Cody Simms (00:57:56):
+Let's close with one last topic, and I realize we're starting to go a little long. But you mentioned Europe has points of view on Ukraine, Russia, et cetera. You wrote a piece recently in Barron's talking about India and how India thinks about Russian oil and engaging there. And given all the context you helped us understand about India's energy security situation, maybe explain a little bit about what you wrote in that piece and how you are thinking about Russia, how India is thinking about Russia as it relates to an energy partner.
+
+Narendra Taneja (00:58:29):
+Well, you see, it's very simple. If you see before Ukraine crisis happen, I mean, we were hardly importing any crude oil from Russia, less than 2%. If you look at, for instance, our import basket before the Ukraine crisis, we were not importing even 2% of our total oil requirement, and we import 86%.
+
+Cody Simms (00:58:49):
+You made a point that India invests a lot in Russian oil, but that's mostly a hedge against global prices, which I thought was an interesting point in the article.
+
+Narendra Taneja (00:58:57):
+Absolutely, absolutely. And the reasons were simple. It is no love or anything, it was just pure economics, in the sense that to bring oil from Iran or to bring oil from Iraq or Saudi Arabia takes just four days by ship, and therefore the economics of shipping insurance and all that is more attractive. Bringing oil from Russia can take 27 days. So it means you are paying more for shipping, you're paying for more insurance and other things. So we have got these surplus countries like Saudi Arabia, [inaudible 00:59:28], Iraq, United Arab Emirates, Iran. So it's about economics. But then Ukraine oil prices started going up and Russia offered some attractive discount. Then our refiners, India's refiners, India's oil company, they decided to bring it from Russia. So it's just pure economics, nothing else. Because if you are getting oil for a discounted rate, which is let's say 20% cheaper than what is available from Saudi Arabia or [inaudible 00:59:53] or Iraq or the United States, you buy it from there. It's just economics.
+
+Narendra Taneja (00:59:57):
+And that has really helped us in terms of balance of payment and fiscal deficit and keeping prices for petrol, diesel and turbine fuel low. And so the result today is that when you look at India's import basket, we are importing actually more than 36% today from Russia. So it's economics. And at the same time, Russians have also invested in the oil sector in India. One of the largest refineries in India, called Nayara Energy, is actually owned by Russians, and Russian oil company called Rosneft is controlled by them. There are other stakeholders too, but it's controlled by them. And so it's just economics, nothing else. And you see that the Russian oil is coming here. As you know, Russian crude oil we buy. And we have got large modern refinery. We process that crude oil into gasoline and diesel and turbine fuel and we export it to 106 countries around the world, including countries in the West.
+
+Cody Simms (01:00:53):
+How does that sit politically, internally, inside the country relative to Russia's aggression in Ukraine and global peace and all of that?
+
+Narendra Taneja (01:01:02):
+Well, you see the point is that, look, in Western countries, the G7, they have imposed sanctions against Russian oil. I mean, these are sanctions by these countries, not by the United Nations, not by the UN Security Council. And we have not imposed any sanction on Russia. There are no sanctions against Russia in India. So that's our worldview. United States and G7, they're entitled to their worldview and do what they want to do including sanction. That's their worldview and we respect it. Similarly, we are not some banana republic. We are one of the largest economies, we're one of the largest countries in the world, and we are on the way to become the second-largest economy that humankind has ever known. So we are entitled to our worldview just like the United States is or the European Union is or G7 countries are. So we have our own worldview and our worldview, we will do what is in our national interest.
+
+Narendra Taneja (01:01:55):
+We are a democratic country, so we have very deep and strategic ties with the United States. We share the United States' worldview on many issues. But at the same time, what should be our relationship with Russia or China or Country X or Country Y, that will be decided in New Delhi, nowhere else. And we think that what Russia has done has been Ukraine and all that. But the point here is that, if very weak, our view is that if Russia grows too weak, nothing to do with Ukraine, but Russia as a country for whatever the reasons, if it grows too weak economically, there is a risk that Russia will become subservient to China. It will slip into the Chinese embrace. And that means we will have China as it is perceived as a threat by many Asian countries, including India. Then if Russia slips into the Chinese embrace, you will have a greater China.
+
+Narendra Taneja (01:02:45):
+So instead of having only Russian, you will have the Chinese also on border with Finland, with NATO countries and all that. So we think that it's important for global stability and for the transition of the world from a unipolar world to a multipolar world that Russia remains an important pole. So we think that will facilitate the emergence of the world, unipolar to multipolar more smoothly, and it will ensure stability in Asia and the Eurasian region. So that's why we have our own view. So our view of China is our own, our view of Russia is our own. And at the same time we have very close ties with the United States and Western part of the world. And we are all democracies and we are working to strengthen our very special, very strategic ties with the United States in particular. Further, because we think alike, we are democracies, but our focus is to how can we strengthen our relationship with the United States even further? But that's independent of our relationship with any other country, including Russia.
+
+Cody Simms (01:03:43):
+And it's a good reminder of your message earlier that there is no international governing body that is establishing these policies. Every country currently is somewhat making its own decisions in this regard with respect to energy trade.
+
+Narendra Taneja (01:03:55):
+They have to. No, you see the point is that it's important to keep in mind when... This issue, I've been interviewed by many Western media organizations and I don't understand why people in the West, in the US in particular, they think that their worldview should be the world's worldview. Where this thought comes from? United States is not the world. West is not the world. West is West. United States is United States. There are 230 other countries. So why, where this thinking come from that what we think as the United States, what we think as Europe, what we think as the West must also be the worldview? And if you don't agree with us, you are with Russia. You are with China, you are with this, you are evil. Where this comes from? It's so primitive. It's so based on ignorance and also arrogance. Where did this come from? It is your worldview that it should be like this. Very good. You are entitled to your worldview.
+
+Narendra Taneja (01:04:51):
+But I'm India. I'm entitled to my view. Why do you think that your view of Russia should also be my view? You don't import, you import sanctioned. Good luck to you. We respect that. But what we do with Russian oil, whether we buy or not, what should be our relationship with Russia or Country X or Country Y, we're entitled to that. That's our view. Why do you try to impose your view on others? And not only this, some of these people have interviewed me on this, they think that because the United States think like that or the Western countries think like that, so you have to think like that. They don't even question it. Hey, come on. That is your view. Why do you think that that should also be my view? I'm an independent country, a sovereign country.
+
+Narendra Taneja (01:05:32):
+Respect that. Respect there is something called independence. There's something called the country. Sovereign countries are entitled to their own... Learn the basics of democracy. When you question that, that means you are insulting democracy. You have no respect that what the sovereign means. They don't respect that. I'm a sovereign country. I have my own view of Russia. I have my own view of whether to buy Russian oil or not. I will see what is good for me. Why should I even listen to you? Why should you even say these things? You understand where I'm coming from? So you are entitled your views and we respect that. We are entitled to our views. Please respect that. That's the first alphabet of democracy and respecting others' democratic rights and freedom.
+
+Cody Simms (01:06:16):
+Narendra, with that, I think that is the perfect place to end. I so appreciate you coming on, sharing a point of view, helping all of us think about the world differently. Thank you for representing how India is thinking about the world and helping us understand more about that. We appreciate that and hopefully our My Climate Journey audience appreciates it too.
+
+Narendra Taneja (01:06:36):
+Wonderful. Enjoyed the conversation with you.
+
+Jason Jacobs (01:06:39):
+Thanks again for joining us on the My Climate Journey podcast.
+
+Cody Simms (01:06:43):
+At MCJ Collective, we're all about powering collective innovation for climate solutions by breaking down silos and unleashing problem-solving capacity.
+
+Jason Jacobs (01:06:52):
+If you'd like to learn more about MCJ Collective, visit us at mcjcollective.com. And if you have a guest suggestion, let us know that via Twitter @mcjpod.
+
+Yin Lu (01:07:05):
+For weekly climate op-eds, jobs, community events and investment announcements from our MCJ venture funds, be sure to subscribe to our newsletter on our website.
+
+Cody Simms (01:07:15):
+Thanks, and see you next episode.
+
