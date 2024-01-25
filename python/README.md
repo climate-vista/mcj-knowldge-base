@@ -60,14 +60,20 @@ To run the main script of this project, navigate to the `src` directory and run 
 streamlit run python/scripts/exp_chatbot_app_sw.py
 ```
 
-## Docker Setup
+## Docker Build and Setup
 
 To run the docker container
-```
-docker compose up --build
+Create a .env file and set PINECONE_API_KEY & OPENAI_API_KEY to your unique API keys.  
+Make sure .env is not checked in - use .gitignore
+
+docker run --rm -it --env-file ./.env -p 8080:8080/tcp mcjknowldgebase:latest
+If you're running it from the Docker app - make sure and set the host port to the port you want to use for "localhost"
+
+http://localhost:8080
+
 
 ```
-You can build and run the docker image directly from VSCode
+You can build and run the docker image directly from VSCode if you install the Docker extension.
 
 
 ## Testing

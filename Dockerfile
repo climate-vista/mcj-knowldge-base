@@ -53,11 +53,12 @@ RUN --mount=type=cache,target=/root/.cache/pip \
 # Todo: Figure out how to hide these keys better
 
 # Pinecone-client keys
-ENV PINECONE_API_KEY=b615ec69-8969-4baf-94ea-6916137bfb26
 ENV PINECONE_ENV=gcp-starter 
 
-#OpenAI key - Julia's key (not a paid subscription)
-ENV OPENAI_API_KEY=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
+# API-KEYs needed
+# You will need to set two environment variables at runtime
+# PINECONE_API_KEY=xxxx - get key from pinecone.io
+# OPENAI_API_KEY=xxxxx - get from openai
 
 #Parameters for the script
 ENV MCJ_TRANSCRIPT_DIR=./test-transcripts
