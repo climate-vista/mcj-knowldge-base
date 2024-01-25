@@ -4,7 +4,7 @@
 # If you need more help, visit the Dockerfile reference guide at
 # https://docs.docker.com/engine/reference/builder/
 
-ARG PYTHON_VERSION=3.12
+ARG PYTHON_VERSION=3.12.1
 FROM python:${PYTHON_VERSION}-slim as base
 
 # Prevents Python from writing pyc files.
@@ -28,13 +28,48 @@ RUN adduser \
     --uid "${UID}" \
     appuser
 
+
+RUN python -m pip install --upgrade pip
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    software-properties-common \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN git clone https://github.com/streamlit/streamlit-example.git .
+
 # Download dependencies as a separate step to take advantage of Docker's caching.
 # Leverage a cache mount to /root/.cache/pip to speed up subsequent builds.
 # Leverage a bind mount to requirements.txt to avoid having to copy them into
 # into this layer.
 RUN --mount=type=cache,target=/root/.cache/pip \
-    --mount=type=bind,source=requirements.txt,target=requirements.txt \
-    python -m pip install -r requirements.txt
+    --mount=type=bind,source=./python/requirements.txt,target=./python/requirements.txt \
+    python -m pip install -r ./python/requirements.txt
+
+
+#Environment variables for the chat
+# Todo: Figure out how to hide these keys better
+
+# Pinecone-client keys
+ENV PINECONE_API_KEY=b615ec69-8969-4baf-94ea-6916137bfb26
+ENV PINECONE_ENV=gcp-starter 
+
+#OpenAI key - Julia's key (not a paid subscription)
+ENV OPENAI_API_KEY=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
+
+#Parameters for the script
+ENV MCJ_TRANSCRIPT_DIR=./test-transcripts
+
+#enable unbuffered python output for docker and streamlit
+ENV PYTHONUNBUFFERED="Debug"
+
+ENV HOST=0.0.0.0
+ENV LISTEN_PORT 8080
+# Expose the port that the application listens on.
+EXPOSE 8080
+HEALTHCHECK CMD curl --fail http://localhost:8080/_stcore/health
 
 # Switch to the non-privileged user to run the application.
 USER appuser
@@ -42,9 +77,9 @@ USER appuser
 # Copy the source code into the container.
 COPY . .
 
-# Expose the port that the application listens on.
-EXPOSE 8000
+
 
 # Run the application.
-CMD ["streamlit", "run", "/app/python/scripts/exp_chatbot_app_sw.py"]
+ENTRYPOINT ["streamlit", "run", "/app/python/scripts/exp_chatbot_app_sw.py", "--server.port=8080"]
+#ENTRYPOINT ["streamlit", "run", "streamlit_app.py", "--server.port=8080"] - this worked
 #CMD gunicorn '.venv.Lib.site-packages.httpx._transports.wsgi' --bind=0.0.0.0:8000

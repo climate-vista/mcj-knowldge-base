@@ -65,8 +65,9 @@ streamlit run python/scripts/exp_chatbot_app_sw.py
 To run the docker container
 ```
 docker compose up --build
-```
 
+```
+You can build and run the docker image directly from VSCode
 
 
 ## Testing
