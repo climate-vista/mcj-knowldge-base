@@ -1,0 +1,10 @@
+beautifulsoup4
+cmake
+langchain
+openai
+pinecone-client
+selenium
+setuptools
+streamlit
+tiktoken
+
