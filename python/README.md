@@ -8,11 +8,12 @@ The project has the following structure:
 
 ```
 my-python-project
-├── src
-│   └── main.py
+├── scripts
+│   └── 
 ├── tests
 │   └── test_main.py
 ├── .gitignore
+├── .env
 ├── setup.py
 ├── requirements.txt
 └── README.md
@@ -20,11 +21,11 @@ my-python-project
 
 ## Description of Files
 
-- `src/main.py`: This is the main Python script of the application. It contains the main logic of the application, including classes, functions, and execution code.
-
-- `tests/test_main.py`: This is a test script for the main Python script. It contains various test cases and assertions to ensure the correct functionality of the main script.
+- `scripts/exp_chatbot_app_sw.py`: This is the main script for the application that should be run from streamlit. 
 
 - `.gitignore`: This file is used by Git to determine which files and directories to ignore when committing changes.
+
+- `.env`: Environment file for setting custom environment variables for your python app.  
 
 - `setup.py`: This is the build script for setuptools. It tells setuptools about your package (such as the name and version) as well as files to include.
 
@@ -32,10 +33,23 @@ my-python-project
 
 ## Installation
 
+Setup a local environment
+```
+python -m venv <localpath>
+```
+
 To install the dependencies of this project, run the following command:
 
 ```
 pip install -r requirements.txt
+```
+
+Create a local environment variable file .env and set the following variables
+```
+OPENAI_API_KEY=<your key>
+# Pinecone-client keys
+PINECONE_ENV=gcp-starter
+PINECODE_API_KEY=<your key>
 ```
 
 ## Usage
@@ -43,16 +57,12 @@ pip install -r requirements.txt
 To run the main script of this project, navigate to the `src` directory and run the following command:
 
 ```
-python main.py
+streamlit run python/scripts/exp_chatbot_app_sw.py
 ```
 
 ## Testing
 
-To run the tests for this project, navigate to the `tests` directory and run the following command:
-
-```
-python test_main.py
-```
+There are currently no tests for this repo
 
 ## Contributing
 
