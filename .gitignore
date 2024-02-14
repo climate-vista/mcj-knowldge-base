@@ -162,3 +162,5 @@ cython_debug/
 # Web content
 *.txt
 chromedriver
+.vscode/launch.json
+.vscode/tasks.json
