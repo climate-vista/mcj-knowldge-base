@@ -17,7 +17,7 @@ These should NOT be checked in.
 ## Pull and Run Docker image
 The public docker image is jrenouard/mcjknowldgebase
 
-`docker pull jrenouard/mcjknowldgebase will pull that locally`
+`docker pull jrenouard/mcjknowldgebase` will pull that locally
 
 To run it you will need to add the port mapping and environment variables
 E.g. from the command line
